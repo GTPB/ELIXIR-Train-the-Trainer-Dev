@@ -1,6 +1,6 @@
 # ELIXIR – EXCELERATE Train-the Trainer subtask
 
-## Session 4: Assessment and feedback in training
+## Session 5: Assessment and feedback in training
 
 * [Introduction to assessment and feedback in training](#introduction)
     * [Assessment timeline - when and why to assess](#timeline)
