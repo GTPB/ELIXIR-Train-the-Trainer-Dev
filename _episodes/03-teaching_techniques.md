@@ -1,7 +1,16 @@
 ---
 title: "Training techniques that can be used to enhance learner engagement and participation"
+teaching: 0
+exercises: 0
+questions:
+- "Key question (FIXME)"
+objectives:
+- "First learning objective. (FIXME)"
+keypoints:
+- "First key point. Brief Answer to questions. (FIXME)"
+---
+FIXME
 
-----
 
 # ELIXIR – EXCELERATE Train-the Trainer subtask
 
