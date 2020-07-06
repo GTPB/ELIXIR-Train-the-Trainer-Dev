@@ -1,5 +1,5 @@
 ---
-title: "All in One"
+title: "Training Techniques to enhance learner participation and engagement"
 teaching: 0
 exercises: 0
 questions:
