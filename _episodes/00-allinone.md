@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "All in One"
 teaching: 0
 exercises: 0
 questions:
