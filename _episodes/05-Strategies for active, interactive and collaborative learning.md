@@ -15,7 +15,7 @@ keypoints:
 
 _Waldrop, Nature 2015_
 
-![](../fig/Strategies_for_Active_Learning.png)
+![](../fig/Strategies_for_Active_Learning.jpg)
 
 
 
