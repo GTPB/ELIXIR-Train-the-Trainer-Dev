@@ -13,7 +13,7 @@ keypoints:
 ## Challenge - Motivation
 Think about a motivating experience in your life (as a student or as an instructor/teacher) and share it in the GDoc
 
-![](../fig/Environment_Matrix)
+![](../fig/Environment_Matrix.png)
 
 
 ## Value
