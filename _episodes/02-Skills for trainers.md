@@ -37,13 +37,9 @@ What makes a good trainer?
 Associate some characteristics and describe them
 
 
-# Exam
+# Example - GOBLET trainer skill matrix 
 
 ![](../fig/SkillsMatrix.png)
-
-
-# The GOBLET skills matrix for trainers
-
 
 
 # Challenge
