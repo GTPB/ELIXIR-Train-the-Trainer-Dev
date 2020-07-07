@@ -43,7 +43,7 @@ To become self-directed learners, students must learn to monitor and adjust thei
 
 ## Example
 
-Principle 2: How students organiseknowledge influences how they learn and apply what they know.
+Principle 2: How students organise knowledge influences how they learn and apply what they know.
 
 Possible teaching practices:
 1) Teach learners how to build and use concept maps
