@@ -15,6 +15,9 @@ keypoints:
 
 _Waldrop, Nature 2015_
 
+![](../fig/Strategies_for_Active_Learning.png)
+
+
 
 
 ## Interactive learning
@@ -24,7 +27,7 @@ _Waldrop, Nature 2015_
 - Allows you to assess learners
 - Learners immediately apply content
 
-Science Education Resource Center at Carleton College (SERC)
+Science Education Resource Center at Carleton College (SERC):
 https://serc.carleton.edu/sp/library/interactive/
 
 
