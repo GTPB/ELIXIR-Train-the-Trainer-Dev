@@ -13,7 +13,7 @@ FIXME
 
 ## Introductory video
 
-[Mazur](https://www.youtube.com/watch?v=Z9orbxoRofI)
+[Mazur's video on Peer Instruction for Active Learning](https://www.youtube.com/watch?v=Z9orbxoRofI)
 
 ## Instruction design in five steps
 
