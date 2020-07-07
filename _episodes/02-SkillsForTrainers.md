@@ -1,5 +1,5 @@
 ---
-title: "Learning Principles"
+title: "Skills for Trainers"
 teaching: 0
 exercises: 0
 questions:
