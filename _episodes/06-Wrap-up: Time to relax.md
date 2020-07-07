@@ -12,12 +12,12 @@ keypoints:
 
 ## More resources
 
-[kjlkjl](https://www.cmu.edu/teaching)
-[](http://www.learningscientists.org)
-[](https://ctl.yale.edu/ActiveLearning)
-[](https://www.ncsu.edu/effective_teaching)
-[](https://carpentries.github.io/instructor-training)
-[](https://extend.ecampusontario.ca/teacher-for-learning-how-learning-works)
+[https://www.cmu.edu/teaching](https://www.cmu.edu/teaching)
+[http://www.learningscientists.org](http://www.learningscientists.org)
+[https://ctl.yale.edu/ActiveLearning](https://ctl.yale.edu/ActiveLearning)
+[https://www.ncsu.edu/effective_teaching](https://www.ncsu.edu/effective_teaching)
+[https://carpentries.github.io/instructor-training](https://carpentries.github.io/instructor-training)
+https://extend.ecampusontario.ca/teacher-for-learning-how-learning-works
 
 
 
@@ -90,4 +90,4 @@ Collect anonymous learner feedback and investigate and respond to any complaints
 Let’s take 15 min to read about the seven learning principles from the book 
 How learning works
 
-[okpoiopipoi](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/docs/Ambrose_RandomThoughts_HowLearningWorks.pdf)
+[https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/docs/Ambrose_RandomThoughts_HowLearningWorks.pdf](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/docs/Ambrose_RandomThoughts_HowLearningWorks.pdf)
