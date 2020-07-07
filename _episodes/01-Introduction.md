@@ -17,4 +17,4 @@ FIXME
 
 ## Instruction design in five steps
 
-![](Instruction_design_in_five_steps)
+![](../fig/Instruction_design_in_five_steps.png)
