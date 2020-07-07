@@ -33,6 +33,7 @@ Students' current level of development interacts with the social, emotional, and
 #### Principle P7:
 To become self-directed learners, students must learn to monitor and adjust their approaches to learning.
 
+![](../fig/How_Learning_Works.png)
 
 ## Challenge - How do you understand principles of learning?
 
