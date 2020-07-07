@@ -13,7 +13,7 @@ keypoints:
 ## Active learning
 > Learners who actively engage with course materials will end up retaining it for much longer than they would have otherwise, and they will be better able to apply their knowledge broadly.
 
-_Waldrop, Nature_
+_Waldrop, Nature 2015_
 
 
 
