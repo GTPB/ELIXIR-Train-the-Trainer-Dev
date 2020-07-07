@@ -46,6 +46,6 @@ To become self-directed learners, students must learn to monitor and adjust thei
 Principle 2: How students organise knowledge influences how they learn and apply what they know.
 
 Possible teaching practices:
-1) Teach learners how to build and use concept maps
-2) Provide learners with a scheme and show them how every new concept/fact fits into the scheme
-3) every time a new concept/fact is ontroduced, explain how it fits into the general picture
+1. Teach learners how to build and use concept maps
+2. Provide learners with a scheme and show them how every new concept/fact fits into the scheme
+3. every time a new concept/fact is ontroduced, explain how it fits into the general picture
