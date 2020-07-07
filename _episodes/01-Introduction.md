@@ -13,7 +13,7 @@ FIXME
 
 ## Introductory video
 
-[](https://www.youtube.com/watch?v=Z9orbxoRofI)
+https://www.youtube.com/watch?v=Z9orbxoRofI
 
 ## Instruction design in five steps
 
