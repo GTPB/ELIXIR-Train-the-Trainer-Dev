@@ -17,7 +17,7 @@ keypoints:
 [https://ctl.yale.edu/ActiveLearning](https://ctl.yale.edu/ActiveLearning)  
 [https://www.ncsu.edu/effective_teaching](https://www.ncsu.edu/effective_teaching)  
 [https://carpentries.github.io/instructor-training](https://carpentries.github.io/instructor-training)  
-https://extend.ecampusontario.ca/teacher-for-learning-how-learning-works
+[https://extend.ecampusontario.ca/teacher-for-learning-how-learning-works](https://extend.ecampusontario.ca/teacher-for-learning-how-learning-works)
 
 
 
@@ -46,6 +46,9 @@ _Willingham, 2009_
 - Mindset
 
 ## The seven principles of learning
+
+![](../fig/Seven_Principles_of_Learning.png)
+
 Jossey Bass based on Ambrose, Susan A., et al. How Learning Works
 https://extend.ecampusontario.ca/teacher-for-learning-how-learning-works/
 
@@ -69,19 +72,16 @@ Ambrose, Susan A., et al. How Learning Works, John Wiley & Sons, Incorporated, 2
 Be aware and make people aware of diversity in the classroom
 
 2. Be explicit about learning goals, learning objectives and expectations (P3, P5, P6)
-
-Goals challenging but attainable
+  Goals challenging but attainable
 
 3. Scaffold complex tasks (P2-P7).
-Teach and test at the right level, think about your audience
+  Teach and test at the right level, think about your audience
 
 4. Let learners formulate solutions before moving to work on new problems
-
-Have them reflect on what they learned, and what they will do differently in the future (P2, P4, P7)
+  Have them reflect on what they learned, and what they will do differently in the future (P2, P4, P7)
 
 5. Establish a supportive class climate (P3, P6). 
-
-Learn and use learners' names and encourage them to interact with you in and outside of the course. 
+  Learn and use learners' names and encourage them to interact with you in and outside of the course. 
 
 Collect anonymous learner feedback and investigate and respond to any complaints related to class climate.
 
