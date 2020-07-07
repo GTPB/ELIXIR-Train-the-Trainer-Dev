@@ -32,9 +32,9 @@ As group (10 min )
   We will go through the feedback together
 
 
-“Our curiosity is provoked
-when we perceive a problem 
-that we believe we can solve”
+> Our curiosity is provoked when we perceive a problem that we believe we can solve
+
+_Willingham, 2009_
 
 
 
