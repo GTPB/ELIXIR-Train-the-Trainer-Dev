@@ -39,7 +39,7 @@ Associate some characteristics and describe them
 
 # Exam
 
-![](SkillsMatrix.png)
+![](../fig/SkillsMatrix.png)
 
 
 # The GOBLET skills matrix for trainers
