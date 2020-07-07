@@ -1,5 +1,5 @@
 ---
-title: "Training Techniques to enhance learner participation and engagement"
+title: "Learning Principles"
 teaching: 0
 exercises: 0
 questions:
