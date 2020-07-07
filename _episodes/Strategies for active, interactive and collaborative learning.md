@@ -1,5 +1,5 @@
 ---
-title: "Training Techniques to enhance learner participation and engagement"
+title: "Strategies for active, interactive and collaborative learning"
 teaching: 0
 exercises: 0
 questions:
@@ -96,7 +96,7 @@ Add a + sign next to the point you agree the most
 
 
 
-## Challenge 7
+## Challenge
 One up one down 
 1. Something you liked about what you did (do this again!)
 2. Something you would like to change (avoid next time)
