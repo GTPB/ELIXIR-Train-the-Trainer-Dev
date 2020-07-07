@@ -56,7 +56,7 @@ Associate some characteristics and describe them
 
 ## Example - GOBLET trainer skill matrix 
 
-![](../fig/SkillsMatrix.png)
+![](../fig/Skills_Matrix.png)
 
 
 ## Challenge
