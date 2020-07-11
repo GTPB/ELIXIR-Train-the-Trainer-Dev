@@ -7,7 +7,10 @@ questions:
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "5-step instruction design"
+- "Definition of Learning Outcomes (LOs)."
+- "Selection of Learning Experiences (LEs)."
+- "Select relevant content for LOs".
 ---
 
 
