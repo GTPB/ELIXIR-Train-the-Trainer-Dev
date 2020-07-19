@@ -13,18 +13,15 @@ challenges:
 ---
 
 > ## Challenge 1 - Recall concrete examples of past trainings and list your thoughts
+>
 {: .challenge}
 
 > ## Challenge 2 - What makes a good trainer?
+>
 > In pairs
 > What makes a good trainer?
 > Write down some traits that you associate with a good trainer and describe them.
 {: .challenge}
-
-
-What makes a good trainer?
-Associate some characteristics and describe them
-
 
 ## Example - GOBLET trainer skill matrix 
 
@@ -32,6 +29,7 @@ Associate some characteristics and describe them
 
 
 > ## Challenge 3 - Reflect upon your current skills
+>
 > Try to reflect on your current skills and how they fit with this matrix
 > - Communication (C)
 > - Expertise and knowledge (EK)
