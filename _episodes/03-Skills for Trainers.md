@@ -14,6 +14,7 @@ challenges:
 
 > ## Challenge 1 - Recall concrete examples of past trainings and list your thoughts
 >
+> ![](../fig/Table.png)
 {: .challenge}
 
 > ## Challenge 2 - What makes a good trainer?
