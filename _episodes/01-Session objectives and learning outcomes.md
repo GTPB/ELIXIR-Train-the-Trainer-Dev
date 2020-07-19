@@ -1,34 +1,13 @@
 ---
-title: "Introduction to training techniques that enhance learner participation and engagement"
-teaching: 0
-exercises: 0
-questions:
-- "Key question (FIXME)"
-objectives:
-- "Identify learning strategies that facilitate active, interactive and collaborative learning."
-- "Describe what makes training effective."
-- "Describe what makes an effective trainer."
-- "List motivation and demotivation factors."
-keypoints:
-- "5-step instruction design."
-- "Definition of Learning Outcomes (LOs)."
-- "Selection of Learning Experiences (LEs)."
-- "Select relevant content for LOs."
----
-
-
-
 title: "Session objectives and learning outcomes"
 teaching: 0
 exercises: 0
-questions:
-- "fssf."
 objectives:
 - "Describe the objectives and learning outcomes of this session."
 keypoints:
 - "Reflect upon concepts around learning, training and teaching."
 - "Internalize and learn to mentally structure several ideas and concepts related to learning, training and teaching."
-
+---
 
 ## Session objectives
 - Reflect on your experiences in training
