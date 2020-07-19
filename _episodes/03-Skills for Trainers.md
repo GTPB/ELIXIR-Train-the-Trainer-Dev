@@ -12,45 +12,15 @@ challenges:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
+> ## Challenge 1 - Recall concrete examples of past trainings and list your thoughts
+{: .challenge}
 
-## Challenge 1
-Recall concrete examples of past trainings and list your thoughts (3 min)
+> ## Challenge 2 - What makes a good trainer?
+> In pairs
+> What makes a good trainer?
+Write down some traits that you associate with a good trainer and describe them.
+{: .challenge}
 
-<table>
-  <tr>
-    <td>
-      Effective training
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      </td>
-    <td>
-      Weak training
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-    </td>
-  </tr>
-</table>
-
-## Challenge 2
-In pairs (3 min)
 
 What makes a good trainer?
 Associate some characteristics and describe them
@@ -61,10 +31,11 @@ Associate some characteristics and describe them
 ![](../fig/Skills_Matrix.png)
 
 
-## Challenge
-- Try to reflect on your current skills and how they fit with this matrix
-  + Communication (C)
-  + Expertise and knowledge (EK)
-  + Planning and Management (PM)
-  + Learner engagement (LE)
-- Then share your thoughts with us
+> ## Challenge 3 - Reflect upon your current skills
+> - Try to reflect on your current skills and how they fit with this matrix
+>  + Communication (C)
+>  + Expertise and knowledge (EK)
+>  + Planning and Management (PM)
+>  + Learner engagement (LE)
+> - Then share your thoughts with us
+{: .challenge}
