@@ -5,17 +5,9 @@ exercises: 0
 questions:
 - "Key question (FIXME)"
 objectives:
-- "Identify learning strategies that facilitate active, interactive and collaborative learning."
-- "Describe what makes training effective."
-- "Describe what makes an effective trainer."
-- "List motivation and demotivation factors."
+- "FIXME"
 learning outcomes:
-- "jflkjf."
-keypoints:
-- "5-step instruction design."
-- "Definition of Learning Outcomes (LOs)."
-- "Selection of Learning Experiences (LEs)."
-- "Select relevant content for LOs."
+- "FIXME"
 ---
 
 
