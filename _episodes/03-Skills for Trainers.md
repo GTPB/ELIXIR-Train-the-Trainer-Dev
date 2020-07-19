@@ -6,7 +6,9 @@ questions:
 - "Key question (FIXME)"
 objectives:
 - "First learning objective. (FIXME)"
-keypoints:
+learning outcomes:
+- "jlkjlkj."
+challenges:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
