@@ -18,7 +18,7 @@ challenges:
 > ## Challenge 2 - What makes a good trainer?
 > In pairs
 > What makes a good trainer?
-Write down some traits that you associate with a good trainer and describe them.
+> Write down some traits that you associate with a good trainer and describe them.
 {: .challenge}
 
 
@@ -32,10 +32,10 @@ Associate some characteristics and describe them
 
 
 > ## Challenge 3 - Reflect upon your current skills
-> - Try to reflect on your current skills and how they fit with this matrix
->  + Communication (C)
->  + Expertise and knowledge (EK)
->  + Planning and Management (PM)
->  + Learner engagement (LE)
+> Try to reflect on your current skills and how they fit with this matrix
+> - Communication (C)
+> - Expertise and knowledge (EK)
+> - Planning and Management (PM)
+> - Learner engagement (LE)
 > - Then share your thoughts with us
 {: .challenge}
