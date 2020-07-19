@@ -9,6 +9,8 @@ objectives:
 - "Describe what makes training effective."
 - "Describe what makes an effective trainer."
 - "List motivation and demotivation factors."
+learning outcomes:
+- "jflkjf."
 keypoints:
 - "5-step instruction design."
 - "Definition of Learning Outcomes (LOs)."
