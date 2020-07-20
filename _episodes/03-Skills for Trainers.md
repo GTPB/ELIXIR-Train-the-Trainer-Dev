@@ -19,7 +19,7 @@ challenges:
 
 > ## Challenge 2 - What makes a good trainer?
 >
-> In pairs
+> In pairs  
 > What makes a good trainer?
 > Write down some traits that you associate with a good trainer and describe them.
 {: .challenge}
