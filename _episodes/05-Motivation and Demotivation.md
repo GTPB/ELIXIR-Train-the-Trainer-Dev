@@ -10,8 +10,8 @@ keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
-## Challenge - Motivation
-Think about a motivating experience in your life (as a student or as an instructor/teacher) and share it in the GDoc
+## Challenge 6 - Motivation
+Think about a motivating experience in your life (as a student or as an instructor/teacher) and share it in the GDoc.
 
 ![](../fig/Environment_Matrix.png)
 
@@ -52,7 +52,7 @@ Think about a motivating experience in your life (as a student or as an instruct
 
 
 
-## Challenge - What can I do to create a motivating environment?
+## Challenge 7 - What can I do to create a motivating environment?
 Think, pair, share
 In pairs, think about what you could do to create a motivating environment in your classroom. 
 Share it with us.
@@ -77,15 +77,15 @@ Share it with us.
 
 
 
-## Challenge - Demotivation
-Think about a demotivating experience in your life (as a student or as an instructor/teacher) and share it to the GDoc
+## Challenge 8 - Demotivation
+Think about a demotivating experience in your life (as a student or as an instructor/teacher) and share it to the GDoc.
 
 
 
 ## Demotivating
 Do not
-  - Dive into complex or detailed technical discussions with one or two people
-  - Pretend to know more than what you do
-  - Use diminishing language "just", "simply", "obviously", "don’t you know?"
-  - Hinder autonomy
-  - Deliver long unidirectional lectures
+- Dive into complex or detailed technical discussions with one or two people
+- Pretend to know more than what you do
+- Use diminishing language "just", "simply", "obviously", "don’t you know?"
+- Hinder autonomy
+- Deliver long unidirectional lectures
