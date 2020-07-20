@@ -33,16 +33,16 @@ https://serc.carleton.edu/sp/library/interactive/
 
 
 ## Strategies for active, interactive, collaborative learning
-- brief question-and-answer sessions 
-- think, pair, share
-- shared notes
-- work in groups
-- peer instruction
-- discussions (may be integrated into lectures)
-- brainstorming
-- impromptu writing assignments
-- hands-on activities
-- experiential learning events
+- Brief question-and-answer sessions 
+- Think, pair, share
+- Shared notes
+- Work in groups
+- Peer instruction
+- Discussions (may be integrated into lectures)
+- Brainstorming
+- Impromptu writing assignments
+- Hands-on activities
+- Experiential learning events
 - Establish teamwork by agreement
 - Introduce blended multimedia materials
 - Instant feedback
@@ -54,24 +54,24 @@ https://serc.carleton.edu/sp/library/interactive/
 
 
 ## Activities and attitudes the instructor should promote
-- listening
-- questions asking
-- group discussions/brainstorming
-- peer instruction 
-- participants' interaction/networking
-- presentations by participants
-- mode/pace/activity frequent change
+- Listening
+- Questions asking
+- Group discussions/brainstorming
+- Peer instruction 
+- Participants' interaction/networking
+- Presentations by participants
+- Mode/pace/activity frequent change
 
 
 
 
 ## Activities and attitudes the instructor should avoid or keep to a minimum
-- unidirectional lecturing
-- individual work out with no feedback
-- providing answers before letting participants doing it
-- keeping the same pace for long time
-- using a monotone modality of content delivery (including the tone of the voice)
-- showing no enthusiasm
+- Unidirectional lecturing
+- Individual work out with no feedback
+- Providing answers before letting participants doing it
+- Keeping the same pace for long time
+- Using a monotone modality of content delivery (including the tone of the voice)
+- Showing no enthusiasm
 
 
 ## Technique - Wrap-up
