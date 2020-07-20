@@ -23,13 +23,14 @@ keypoints:
 
 
 > ## Challenge 12
+>
 > In pairs ( 10 min)  
 > One person will explain a topic for 90 seconds, while the other person write feedback about presentation and content.
 > Then you have a minute to go through the feedback.
 > Then switch and repeat. 
 >
 > As group (10 min )
-> We will go through the feedback together
+> We will go through the feedback together.
 {: .challenge}
 
 
