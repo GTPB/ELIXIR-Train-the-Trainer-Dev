@@ -78,13 +78,13 @@ https://serc.carleton.edu/sp/library/interactive/
 Allow time for wrap up and feedback
 
 
-## Challenge
+## Challenge 9
 On the GDoc
 
 One or more new things that you have learned today and could be useful for your future teaching/training
 
 
-## Challenge - your vote counts
+## Challenge 10 - your vote counts
 Add a + sign next to the point you agree the most
 
 :D - Great I feel I’m learning new things
@@ -101,7 +101,7 @@ Add a + sign next to the point you agree the most
 
 
 
-## Challenge
-One up one down 
+## Challenge 11 - One up one down
+ 
 1. Something you liked about what you did (do this again!)
 2. Something you would like to change (avoid next time)
