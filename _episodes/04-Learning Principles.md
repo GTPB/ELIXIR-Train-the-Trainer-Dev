@@ -44,7 +44,7 @@ To become self-directed learners, students must learn to monitor and adjust thei
 > ## Challenge 5 - what is your understanding of these learning principles?>
 > ### Example
 > Principle 2: How students organise knowledge influences how they learn and apply what they know.
->
+>   
 > Possible teaching practices:
 > - Teach learners how to build and use concept maps
 > - Provide learners with a scheme and show them how every new concept/fact fits into the scheme
