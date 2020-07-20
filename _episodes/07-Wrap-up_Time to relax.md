@@ -51,7 +51,7 @@ _Willingham, 2009_
 
 ![](../fig/Seven_Principles_of_Learning.png)
 
-Jossey Bass based on Ambrose, Susan A., et al. How Learning Works
+Jossey Bass based on Ambrose, Susan A., et al. How Learning Works  
 https://extend.ecampusontario.ca/teacher-for-learning-how-learning-works/
 
 
