@@ -2,15 +2,13 @@
 title: "Learning Principles"
 teaching: 0
 exercises: 0
-questions:
-- "Key question (FIXME)"
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
-## 7 Evidence-Based Learning Principles
+## 7 evidence-based learning principles
 
 #### Principle P1:
 Students' prior knowledge can help or hinder learning.
@@ -35,18 +33,20 @@ To become self-directed learners, students must learn to monitor and adjust thei
 
 ![](../fig/How_Learning_Works.png)
 
-## Challenge - How do you understand principles of learning?
+## Challenge 4 - What is your understanding of these learning principles?
 
 - Work in groups of three
 - Carefully read the principles as a group
 - Pick one principle you like (with no overlap with the other groups)
 - Discuss what you would do as a teacher/instructor to facilitate learning according to the principle
 
-## Example
+## Challenge 5 - what is your understanding of these learning principles
+
+### Example
 
 Principle 2: How students organise knowledge influences how they learn and apply what they know.
 
 Possible teaching practices:
-1. Teach learners how to build and use concept maps
-2. Provide learners with a scheme and show them how every new concept/fact fits into the scheme
-3. every time a new concept/fact is ontroduced, explain how it fits into the general picture
+- Teach learners how to build and use concept maps
+- Provide learners with a scheme and show them how every new concept/fact fits into the scheme
+- every time a new concept/fact is ontroduced, explain how it fits into the general picture
