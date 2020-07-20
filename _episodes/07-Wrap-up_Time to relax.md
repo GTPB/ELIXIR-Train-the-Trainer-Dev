@@ -22,15 +22,17 @@ keypoints:
 
 
 
-## Challenge 12
-In pairs ( 10 min)
+> ## Challenge 12
+> In pairs ( 10 min)
+>
+> One person will explain a topic for 90 seconds, while the other person write feedback about presentation and content.
+> Then you have a minute to go through the feedback.
+> Then switch and repeat. 
+>
+> As group (10 min )
+> We will go through the feedback together
+{: .challenge}
 
-One person will explain a topic for 90 seconds, while the other person write feedback about presentation and content.
-Then you have a minute to go through the feedback.
-Then switch and repeat. 
-
-As group (10 min )
-  We will go through the feedback together
 
 
 > Our curiosity is provoked when we perceive a problem that we believe we can solve
@@ -78,8 +80,9 @@ Ambrose, Susan A., et al. How Learning Works, John Wiley & Sons, Incorporated, 2
 5. Establish a supportive class climate (P3, P6). Learn and use learners' names and encourage them to interact with you in and outside of the course. Collect anonymous learner feedback and investigate and respond to any complaints related to class climate.
 
 
-## Exercise reading
-Let’s take 15 min to read about the seven learning principles from the book 
-How learning works
-
-[https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/docs/Ambrose_RandomThoughts_HowLearningWorks.pdf](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/docs/Ambrose_RandomThoughts_HowLearningWorks.pdf)
+> ## Exercise reading
+> Let’s take 15 min to read about the seven learning principles from the book 
+> How learning works
+>
+> [https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/docs/Ambrose_RandomThoughts_HowLearningWorks.pdf](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/docs/Ambrose_RandomThoughts_HowLearningWorks.pdf)
+{: .challenge}
