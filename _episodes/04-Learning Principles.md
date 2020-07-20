@@ -40,7 +40,7 @@ To become self-directed learners, students must learn to monitor and adjust thei
 - Pick one principle you like (with no overlap with the other groups)
 - Discuss what you would do as a teacher/instructor to facilitate learning according to the principle
 
-## Challenge 5 - what is your understanding of these learning principles
+## Challenge 5 - what is your understanding of these learning principles?
 
 ### Example
 
