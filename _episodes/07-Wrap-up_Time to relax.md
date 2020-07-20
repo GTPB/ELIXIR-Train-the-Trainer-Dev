@@ -22,7 +22,7 @@ keypoints:
 
 
 
-## Challenge
+## Challenge 12
 In pairs ( 10 min)
 
 One person will explain a topic for 90 seconds, while the other person write feedback about presentation and content.
@@ -67,23 +67,15 @@ Ambrose, Susan A., et al. How Learning Works, John Wiley & Sons, Incorporated, 2
 
 
 ## Strategies applied to learning principles
-1. Collect data about students and use it to design instruction (P1,P3)
+1. Collect data about students and use it to design instruction (P1,P3). Be aware and make people aware of diversity in the classroom.
 
-Be aware and make people aware of diversity in the classroom
+2. Be explicit about learning goals, learning objectives and expectations (P3, P5, P6). Goals challenging but attainable.
 
-2. Be explicit about learning goals, learning objectives and expectations (P3, P5, P6)
-  Goals challenging but attainable
+3. Scaffold complex tasks (P2-P7). Teach and test at the right level, think about your audience
 
-3. Scaffold complex tasks (P2-P7).
-  Teach and test at the right level, think about your audience
+4. Let learners formulate solutions before moving to work on new problems. Have them reflect on what they learned, and what they will do differently in the future (P2, P4, P7).
 
-4. Let learners formulate solutions before moving to work on new problems
-  Have them reflect on what they learned, and what they will do differently in the future (P2, P4, P7)
-
-5. Establish a supportive class climate (P3, P6). 
-  Learn and use learners' names and encourage them to interact with you in and outside of the course. 
-
-Collect anonymous learner feedback and investigate and respond to any complaints related to class climate.
+5. Establish a supportive class climate (P3, P6). Learn and use learners' names and encourage them to interact with you in and outside of the course. Collect anonymous learner feedback and investigate and respond to any complaints related to class climate.
 
 
 ## Exercise reading
