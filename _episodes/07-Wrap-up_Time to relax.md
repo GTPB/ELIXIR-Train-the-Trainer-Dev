@@ -47,7 +47,7 @@ _Willingham, 2009_
 - Motivation and demotivation
 - Mindset
 
-## The seven principles of learning
+## The 7 principles of learning
 
 ![](../fig/Seven_Principles_of_Learning.png)
 
