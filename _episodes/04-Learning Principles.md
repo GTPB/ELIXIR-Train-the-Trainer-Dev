@@ -33,8 +33,7 @@ To become self-directed learners, students must learn to monitor and adjust thei
 
 ![](../fig/How_Learning_Works.png)
 
-> ## Challenge 4 - What is your understanding of these learning principles?
->
+> ## Challenge 4 - What is your understanding of these learning principles?>
 > - Work in groups of three
 > - Carefully read the principles as a group
 > - Pick one principle you like (with no overlap with the other groups)
@@ -42,8 +41,7 @@ To become self-directed learners, students must learn to monitor and adjust thei
 {: .challenge}
 
 
-> ## Challenge 5 - what is your understanding of these learning principles?
->
+> ## Challenge 5 - what is your understanding of these learning principles?>
 > ### Example
 > Principle 2: How students organise knowledge influences how they learn and apply what they know.
 >
