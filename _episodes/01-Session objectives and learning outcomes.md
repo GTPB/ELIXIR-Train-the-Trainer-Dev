@@ -1,5 +1,5 @@
 ---
-title: "Session objectives and learning outcomes"
+title: "Training techniques that enhance learner participation and engagement - Session objectives and learning outcomes"
 teaching: 0
 exercises: 0
 objectives:
