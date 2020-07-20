@@ -12,9 +12,10 @@ keypoints:
 
 > ## Challenge 6 - Motivation
 > Think about a motivating experience in your life (as a student or as an instructor/teacher) and share it in the GDoc.
->
-> ![](../fig/Environment_Matrix.png)
 {: .challenge}
+
+![](../fig/Environment_Matrix.png)
+
 
 ## Value
 - Attainment value
@@ -53,7 +54,7 @@ keypoints:
 
 
 > ## Challenge 7 - What can I do to create a motivating environment?
-> Think, pair, share
+> Think, pair, share  
 > In pairs, think about what you could do to create a motivating environment in your classroom. 
 > Share it with us.
 {: .challenge}
