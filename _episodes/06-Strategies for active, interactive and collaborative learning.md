@@ -87,8 +87,8 @@ Allow time for wrap up and feedback
 > ## Challenge 10 - your vote counts
 > Add a + sign next to the point you agree the most
 >
-> :D - Great I feel I’m learning new things
-> :] - I feel neutral, maybe I need more time to reflect
+> :D - Great I feel I’m learning new things  
+> :] - I feel neutral, maybe I need more time to reflect  
 > :S - I am more confused then ever
 {: .challenge}
 
