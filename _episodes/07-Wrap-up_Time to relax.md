@@ -51,8 +51,7 @@ _Willingham, 2009_
 
 ![](../fig/Seven_Principles_of_Learning.png)
 
-Jossey Bass based on Ambrose, Susan A., et al. How Learning Works  
-https://extend.ecampusontario.ca/teacher-for-learning-how-learning-works/
+[Ambrose, Susan A., et al. How Learning Works, John Wiley & Sons, Incorporated, 2010](https://extend.ecampusontario.ca/teacher-for-learning-how-learning-works/)
 
 
 
@@ -63,8 +62,6 @@ https://extend.ecampusontario.ca/teacher-for-learning-how-learning-works/
 5. Goal directed practice with targeted feedback
 6. Environment: social, emotional, and intellectual 
 7. Self-directed learners: learn, monitor, adjust
-
-Ambrose, Susan A., et al. How Learning Works, John Wiley & Sons, Incorporated, 2010.
 
 
 
