@@ -5,7 +5,7 @@ exercises: 0
 questions:
 - "Key question (FIXME)"
 objectives:
-- "First learning objective. (FIXME)"
+- "First learning. (FIXME)"
 learning outcomes:
 - "This is a learning outcome"
 challenges:
