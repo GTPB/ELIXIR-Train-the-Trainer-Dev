@@ -7,9 +7,9 @@ questions:
 objectives:
 - "First learning objective. (FIXME)"
 learning outcomes:
-- "jlkjlkj."
+- "This is a learning outcome"
 challenges:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "Some challenge. (FIXME)"
 ---
 
 > ## Challenge 1 - Recall concrete examples of past trainings and list your thoughts
