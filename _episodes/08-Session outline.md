@@ -1,5 +1,5 @@
 ---
-title: "Session outline - Design and plan session, course, materials"
+title: "Session description - Design and plan session, course, materials"
 teaching: 0
 exercises: 0
 objectives:
