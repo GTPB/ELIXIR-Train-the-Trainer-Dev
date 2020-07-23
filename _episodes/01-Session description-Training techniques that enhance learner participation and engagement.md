@@ -15,6 +15,8 @@ keypoints:
 - Show strategies to enhance learning
 - Practice good training strategies, and connect strategies to prior knowledge
 
+[https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/2](https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/2)
+
 
 
 ## Session learning outcomes
@@ -23,3 +25,4 @@ keypoints:
 - Describe what makes an effective trainer
 - List motivation and demotivation factors
 
+[https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/3](https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/3)
