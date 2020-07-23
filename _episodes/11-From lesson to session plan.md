@@ -1,5 +1,5 @@
 ---
-title: "Skills for Trainers"
+title: "From lesson to session plan"
 teaching: 0
 exercises: 0
 questions:
