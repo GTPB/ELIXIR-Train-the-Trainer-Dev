@@ -29,3 +29,27 @@ _Nicholls G (2002). Developing teaching and learning in higher education. London
 ## lesson/session plan
 
 ![](../fig/Lesson_Session_Plan.png)
+
+
+## Example - Plan for a 1h15 session
+
+<table style="width:100%">
+  <tr>
+    <th>Time</th>
+    <th>Activity</th>
+    <th>Description</th>
+    <th>Goal/Outcome</th>
+  </tr>
+  <tr>
+    <td>9.00-9.15</td>
+    <td>Warm-up</td>
+    <td>fdsfd</td>
+    <td>fdsfd</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+    <td>94</td>
+  </tr>
+</table>
