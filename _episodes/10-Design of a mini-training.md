@@ -104,3 +104,36 @@ The structure of your mini-training should be something like
 Use your concept map and adapt as needed
 
 
+## Challenge 6 - Mini-training practice (20 min)
+
+Split into groups of 3
+1. Each will deliver their 3 minute session to the others
+2. One person delivers the session
+3. One person records on the phone (optional) 
+4. One person notes down feedback in real-time
+5. You describe your own feedback (self-feedback) on your delivery
+6. The other two provide feedback to the presenter
+7. Then rotate within the group (and restart from 1)
+
+How to give feedback?
+
+## Constructive feedback
+
+![](../fig/Constructive_Feddback.png)
+
+
+## Discussions/feedback
+
+- Listen actively and attentively
+- Ask for clarification if you are confused
+- Do not interrupt one another
+- Challenge one another, but do so respectfully
+- Criticize ideas, not people
+- Do not offer opinions without supporting evidence
+- Take responsibility for the quality of the discussion
+- Build on one another ’s comments; work toward shared understanding.
+- Do not monopolise discussion.
+- Speak from your own experience, without generalizing.
+- If you are offended by anything said during discussion, acknowledge it immediately.
+
+
