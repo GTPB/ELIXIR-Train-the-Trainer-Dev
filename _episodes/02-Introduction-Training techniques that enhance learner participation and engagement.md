@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Introduction - Training techniques that enhance learner participation and engagement"
 teaching: 0
 exercises: 0
 questions:
