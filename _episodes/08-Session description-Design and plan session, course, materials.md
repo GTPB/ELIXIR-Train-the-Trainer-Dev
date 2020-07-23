@@ -9,6 +9,10 @@ keypoints:
 - "Internalize and learn to mentally structure several ideas and concepts related to learning, training and teaching."
 ---
 
+## Session objectives
+
+## Session learning outcomes
+
 Design and prepare a 3-minute minitraining
 
 Prepare and plan for delivering training 
