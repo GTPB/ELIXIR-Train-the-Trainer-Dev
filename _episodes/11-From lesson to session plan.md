@@ -43,8 +43,8 @@ _Nicholls G (2002). Developing teaching and learning in higher education. London
   <tr>
     <td>9.00-9.15</td>
     <td>Warm-up</td>
-    <td>fdsfd</td>
-    <td>fdsfd</td>
+    <td>Leaners summarise the key points of each session from the previous day and answer questions from the audience. The instructor describes the plan of the day in detail</td>
+    <td>Retrieval from memory, repetiiton, get prepared for new topics, expose learners</td>
   </tr>
   <tr>
     <td>Eve</td>
