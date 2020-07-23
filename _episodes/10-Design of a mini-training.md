@@ -47,7 +47,7 @@ learning outcomes:
 Parking lot?
 What is this supposed to look like?
 
-![](../fig/Concept_Map_Strucuture.png)
+![](../fig/Concept_Map_Structure.png)
 
 ## Concept maps - How to use the tool
 - Concept maps are graphical tools for organizing and representing knowledge
