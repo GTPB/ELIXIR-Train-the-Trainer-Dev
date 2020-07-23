@@ -63,3 +63,15 @@ _Nicholls G (2002). Developing teaching and learning in higher education. London
     <td>Group test on functions (match input and output with specific functions; fill gaps in pieces of code). Game: repetition using ball throwing</td>
     <td>Assess learning. do we need to work more on functions? Repeat meaning and usage of all Pyhton objects introduced so far.</td>
 </table>
+
+
+## Challenge - Create lesson plan
+
+In your group...
+- Take one session idea and expand to a “real” training session
+- You will need to:
+  - Identify target audience
+  - Set learning objectives and outcomes
+  - Decide learning experiences
+  - Suggest how you will assess trainees progress
+- Define training session structure/lesson plan (including indicative content, length, breakdown and timings)
