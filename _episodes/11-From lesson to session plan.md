@@ -43,13 +43,23 @@ _Nicholls G (2002). Developing teaching and learning in higher education. London
   <tr>
     <td>9.00-9.15</td>
     <td>Warm-up</td>
-    <td>Leaners summarise the key points of each session from the previous day and answer questions from the audience. The instructor describes the plan of the day in detail</td>
-    <td>Retrieval from memory, repetiiton, get prepared for new topics, expose learners</td>
+    <td>Learners summarise the key points of each session from the previous day and answer questions from the audience. The instructor describes the plan of the day in detail.</td>
+    <td>Retrieval from memory, repetition, get prepared for new topics, expose learners.</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-    <td>94</td>
+    <td>9.15-9.25</td>
+    <td>Lecture</td>
+    <td>Pyhton functions.</td>
+    <td>Learning to write a function, about function input and output.</td>
   </tr>
+  <tr>
+    <td>9.20-10.00</td>
+    <td>Practical activity</td>
+    <td>Two exercises to be solved in pairs on a single computer. After solving the first exercise, the "driver" and the "navigator" will swap. Two learners (one per exercise) will display their solutions to the audience. Questions and discussion.</td>
+    <td>Learners will be able to write and call a function calculating the distance between two points in the 3D space and a function taking the base and height of a triangle as input and returning its area.</td>
+  </tr>
+  <td>10.00-10.15</td>
+    <td>Wrap-up</td>
+    <td>Group test on functions (match input and output with specific functions; fill gaps in pieces of code). Game: repetition using ball throwing</td>
+    <td>Assess learning. do we need to work more on functions? Repeat meaning and usage of all Pyhton objects introduced so far.</td>
 </table>
