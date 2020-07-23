@@ -9,17 +9,17 @@ keypoints:
 - "Internalize and learn to mentally structure several ideas and concepts related to learning, training and teaching."
 ---
 
-## Session objectives
+## Session objectives [Slide](https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/2)
 - Reflect on your experiences in training
 - Reflect on the 7 principles of learning
 - Show strategies to enhance learning
 - Practice good training strategies, and connect strategies to prior knowledge
 
-[Slide](https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/2)
 
 
 
-## Session learning outcomes
+
+## Session learning outcomes      ([Slide](https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/3))
 - Identify learning strategy facilitating active, interactive and collaborative learning
 - Describe what makes training effective
 - Describe what makes an effective trainer
