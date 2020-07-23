@@ -1,3 +1,16 @@
+---
+title: "Introduction - Design and plan session, course, materials"
+teaching: 0
+exercises: 0
+questions:
+- "Key question (FIXME)"
+objectives:
+- "FIXME"
+learning outcomes:
+- "FIXME"
+---
+
+
 ## Practice a 3-min mini-training
 
 - Prepare and plan for delivering training 
