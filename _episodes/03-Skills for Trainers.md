@@ -17,6 +17,9 @@ challenges:
 > ![](../fig/Table.png)
 {: .challenge}
 
+[https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/8](https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/8)
+
+
 > ## Challenge 2 - What makes a good trainer?
 >
 > In pairs  
@@ -24,9 +27,15 @@ challenges:
 > Write down some traits that you associate with a good trainer and describe them.
 {: .challenge}
 
+[https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/9](https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/9)
+
+
 ## Example - GOBLET trainer skill matrix 
 
 ![](../fig/Skills_Matrix.png)
+
+[https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/10](https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/10)
+
 
 
 > ## Challenge 3 - Reflect upon your current skills
