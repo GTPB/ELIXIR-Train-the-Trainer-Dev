@@ -79,5 +79,5 @@ _Willingham, 2009_
 > Let’s take 15 min to read about the seven learning principles from the book 
 > How learning works
 >
-> [RandomThoughts - How Learning Works](../files/Ambrose_RandomThoughts_HowLearningWorks.pdf)
+> [Random Thoughts - How Learning Works](../files/Ambrose_RandomThoughts_HowLearningWorks.pdf)
 {: .challenge}
