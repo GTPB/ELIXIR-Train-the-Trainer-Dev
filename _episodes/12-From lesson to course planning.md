@@ -32,7 +32,7 @@ challenges:
   - How much can you do in the time available (including tests, feedback)
   - Resources limitations (space, equipment, assistants)
 
-_Chris Taylor – Earlham Institute - https://www.mygoblet.org/training-portal/materials/train-trainer-course-materials_
+[_Chris Taylor – Earlham Institute_](https://www.mygoblet.org/training-portal/materials/train-trainer-course-materials)
 
 
 ## From learning outcomes to a course outline
@@ -49,7 +49,7 @@ _Chris Taylor – Earlham Institute - https://www.mygoblet.org/training-portal/m
   - This is not ‘teaching to the test’ because it’s training not education
 - When all the LOs are expanded, you have your course outline
 
-[Chris Taylor – Earlham Institute](https://www.mygoblet.org/training-portal/materials/train-trainer-course-materials)
+[_Chris Taylor – Earlham Institute_](https://www.mygoblet.org/training-portal/materials/train-trainer-course-materials)
 
 
 ## Reproducibility of compute environments
