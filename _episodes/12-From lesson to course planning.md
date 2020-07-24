@@ -49,7 +49,7 @@ _Chris Taylor – Earlham Institute - https://www.mygoblet.org/training-portal/m
   - This is not ‘teaching to the test’ because it’s training not education
 - When all the LOs are expanded, you have your course outline
 
-[_Chris Taylor – Earlham Institute_](https://www.mygoblet.org/training-portal/materials/train-trainer-course-materials)
+[Chris Taylor – Earlham Institute](https://www.mygoblet.org/training-portal/materials/train-trainer-course-materials)
 
 
 ## Reproducibility of compute environments
