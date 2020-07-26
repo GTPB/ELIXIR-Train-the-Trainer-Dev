@@ -15,9 +15,6 @@ keypoints:
 > ![](../fig/Table.png)
 {: .challenge}
 
-[Slide](https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/8)
-
-
 > ## Challenge 2 - What makes a good trainer?
 >
 > In pairs  
@@ -25,15 +22,9 @@ keypoints:
 > Write down some traits that you associate with a good trainer and describe them.
 {: .challenge}
 
-[Slide](https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/9)
-
-
 ## Example - GOBLET trainer skill matrix 
 
 ![](../fig/Skills_Matrix.png)
-
-[Slide](https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/10)
-
 
 
 > ## Challenge 3 - Reflect upon your current skills
@@ -46,4 +37,3 @@ keypoints:
 > Then share your thoughts with us
 {: .challenge}
 
-[Slide](https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/11)
