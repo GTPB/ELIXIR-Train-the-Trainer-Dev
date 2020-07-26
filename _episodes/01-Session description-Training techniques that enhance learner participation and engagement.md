@@ -2,7 +2,6 @@
 title: "Session description - Training techniques that enhance learner participation and engagement"
 teaching: 3
 exercises: 0
-[Slides](https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/1)
 questions:
 - "What are the goals and intended learning outcomes of this session?"
 keypoints:
