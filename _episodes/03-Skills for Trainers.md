@@ -6,7 +6,7 @@ questions:
 - "What skills should trainers have?"
 outcomes:
 - "Clearly identify the relevant sets of skills of a trainer."
-"keypoints:
+keypoints:
 - "The skills matrix summarizes the whole set of skills a trainer should have."
 ---
 
