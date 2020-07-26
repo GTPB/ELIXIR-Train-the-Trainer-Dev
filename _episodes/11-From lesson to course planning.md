@@ -1,21 +1,22 @@
 ---
 title: "From lesson to course planning"
-teaching: 0
-exercises: 0
+teaching: 10
+exercises: 10
 questions:
-- "Key question (FIXME)"
-objectives:
-- "First learning. (FIXME)"
+- "What are the steps to designing a course?"
 outcomes:
-- "This is a learning outcome"
-challenges:
-- "Some challenge. (FIXME)"
+- "Know all the steps to designing a course."
+keypoints:
+- "Plan."
+- "Define aims."
+- "Reproducibility."
+- ""
 ---
 
 
 ## Delivery planning
 
-- Is it part of an extended curricula?
+- Is it part of an extended curriculum?
 - Is the training a requirement, or optional career development?
 - Format: workshop, seminar, lecture, online training or mix online/in-person?
 - Timing: what is the content and depth of the training?
@@ -60,7 +61,7 @@ challenges:
 - Virtual machines, cloud computing, containers, software images
 
 
-# Training rooms for bioinformatics
+## Training rooms for bioinformatics
 
 Physical environment 
 - Room geometry: seats’ quality, the lighting, the room temperature control, the stability of power and network connections
@@ -73,7 +74,7 @@ Physical environment 
 Learning outcome: Be able to identify training materials that exist already, and develop a routine of sharing training materials.
 
 
-# FAIR principles
+## FAIR principles
 
 Data and models are:
 - Findable - can be searched for by the community after publication
@@ -82,7 +83,7 @@ Data and models are:
 - Re-usable - can be used by other researchers
 
 
-## FAIR principles – In the context of training
+### FAIR principles – In the context of training
 
 Training course materials: slides, exercises, datasets
 - Findable - can be searched and found by the trainers community
