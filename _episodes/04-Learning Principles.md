@@ -1,11 +1,13 @@
 ---
 title: "Learning Principles"
-teaching: 0
-exercises: 0
-objectives:
-- "First learning objective. (FIXME)"
+teaching: 10
+exercises: 10
+questions:
+- "What principles should a trainer apply to their course in order to allow for effective learning from their students."
+outcomes:
+- "Know how to apply the 7 learning principles, as a trainer."
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "Know the 7 learning principles."
 ---
 
 ## 7 evidence-based learning principles
