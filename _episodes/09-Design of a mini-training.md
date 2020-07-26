@@ -1,13 +1,11 @@
 ---
 title: "Design of a mini-training"
-teaching: 0
-exercises: 0
+teaching: 10
+exercises: 10
 questions:
-- "Key question (FIXME)"
-objectives:
-- "FIXME"
-learning outcomes:
-- "FIXME"
+- "How to design a mini-training?"
+outcomes:
+- "Know how to mockup a course"
 ---
 
 
