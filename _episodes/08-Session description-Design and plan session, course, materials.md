@@ -1,15 +1,18 @@
 ---
 title: "Session description - Design and plan session, course, materials"
-teaching: 0
+teaching: 5
 exercises: 0
-objectives:
+questions:
+- "How should a trainer design a course?"
+outcomes:
 - "Describe the objectives and learning outcomes of this session."
 keypoints:
-- "Reflect upon concepts around learning, training and teaching."
-- "Internalize and learn to mentally structure several ideas and concepts related to learning, training and teaching."
+- "Reflect upon course design."
 ---
 
 ## Session objectives
+
+Learn how to design a course.
 
 ## Session learning outcomes
 
