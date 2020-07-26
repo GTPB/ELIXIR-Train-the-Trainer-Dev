@@ -1,15 +1,14 @@
 ---
 title: "From lesson to session plan"
-teaching: 0
-exercises: 0
+teaching: 10
+exercises: 10
 questions:
-- "Key question (FIXME)"
-objectives:
-- "First learning. (FIXME)"
+- "What are the steps to designing a session of a course?"
 outcomes:
-- "This is a learning outcome"
-challenges:
-- "Some challenge. (FIXME)"
+- "Know all the steps to designing a session of a course"
+keypoints:
+- "Instruction design."
+- "Lesson/session plan."
 ---
 
 
