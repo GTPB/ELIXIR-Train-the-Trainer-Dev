@@ -2,9 +2,9 @@
 title: "Session description - Training techniques that enhance learner participation and engagement"
 teaching: 3
 exercises: 0
+[Slides](https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/1)
 questions:
 - "What are the goals and intended learning outcomes of this session?"
-- "[Slide](https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/1)"
 keypoints:
 - "Reflect upon concepts around learning, training and teaching."
 - "Internalize and learn to mentally structure several ideas and concepts related to learning, training and teaching."
