@@ -6,6 +6,8 @@ questions:
 - "What steps should a trainer follow in order to prepare and deliver an effective course?"
 outcomes:
 - "Clearly identify the 5 steps of instruction design."
+keypoints:
+- "LOs, LEs, content, assessments, evaluate."
 
 ---
 
