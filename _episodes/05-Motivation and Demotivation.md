@@ -1,13 +1,17 @@
 ---
 title: "Motivation and Demotivation"
-teaching: 0
-exercises: 0
+teaching: 10
+exercises: 10
 questions:
-- "Key question (FIXME)"
-objectives:
-- "First learning objective. (FIXME)"
+- "How can a trainer motivate their students?"
+outcomes:
+- "Know how to provide a motivating learning experience."
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "Value."
+- "Efficacy."
+- "Environment."
+- "Strategies for motivation."
+- "Errors to avoid."
 ---
 
 > ## Challenge 6 - Motivation
