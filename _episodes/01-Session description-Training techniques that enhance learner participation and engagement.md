@@ -5,6 +5,8 @@ exercises: 0
 slides_url: "https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#"
 questions:
 - "What are the goals and intended learning outcomes of this session?"
+outcomes:
+- "Get a clear understanding of the goals of this session and of the skil the learners are expected to acquire."
 keypoints:
 - "Reflect upon concepts around learning, training and teaching."
 - "Internalize and learn to mentally structure several ideas and concepts related to learning, training and teaching."
