@@ -1,15 +1,13 @@
 ---
 title: "Skills for Trainers"
-teaching: 0
-exercises: 0
+teaching: 5
+exercises: 5
 questions:
-- "Key question (FIXME)"
-objectives:
-- "First learning. (FIXME)"
+- "What skills should trainers have?"
 outcomes:
-- "This is a learning outcome"
-challenges:
-- "Some challenge. (FIXME)"
+- "Clearly identify the relevant sets of skills of a trainer."
+"keypoints:
+- "The skills matrix summarizes the whole set of skills a trainer should have."
 ---
 
 > ## Challenge 1 - Recall concrete examples of past trainings and list your thoughts
@@ -45,7 +43,7 @@ challenges:
 > - Expertise and knowledge (EK)
 > - Planning and Management (PM)
 > - Learner engagement (LE)
-> - Then share your thoughts with us
+> Then share your thoughts with us
 {: .challenge}
 
 [Slide](https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/11)
