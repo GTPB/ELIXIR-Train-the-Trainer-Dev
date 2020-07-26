@@ -5,7 +5,13 @@ exercises: 10
 questions:
 - "How to design a mini-training?"
 outcomes:
-- "Know how to mockup a course"
+- "Know how to mockup a course."
+keypoints:
+- "Audience, goal and outcomes."
+- "Concept map."
+- "FAIR principles."
+- "Content."
+- "Feedback."
 ---
 
 
@@ -27,7 +33,7 @@ outcomes:
 [https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
 
 
-## Choose a topic  for a 3-min training
+## Choose a topic for a 3-min training
 
 - Choose a topic to demonstrate your training in three minutes. 
   - How to make an origami bird
