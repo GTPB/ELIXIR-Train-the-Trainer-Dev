@@ -1,7 +1,7 @@
 ---
 title: "Strategies for active, interactive and collaborative learning"
-teaching: 0
-exercises: 0
+teaching: 10
+exercises: 10
 questions:
 - "What strategies can a trainer apply?"
 outcomes:
