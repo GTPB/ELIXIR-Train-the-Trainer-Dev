@@ -1,13 +1,10 @@
 ---
 title: "Introduction - Training techniques that enhance learner participation and engagement"
-teaching: 0
-exercises: 0
+teaching: 18
 questions:
-- "Key question (FIXME)"
-objectives:
-- "FIXME"
-learning outcomes:
-- "FIXME"
+- "What steps should a trainer follow in order to prepare and deliver an effective course?"
+outcomes:
+- "Clearly identify the 5 steps of instruction design."
 ---
 
 
@@ -15,12 +12,7 @@ learning outcomes:
 
 [Mazur's video on Peer Instruction for Active Learning](https://www.youtube.com/watch?v=Z9orbxoRofI)
 
-[Slide](https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/6)
-
 
 ## Instruction design in five steps
 
 ![](../fig/Instruction_design_in_five_steps.png)
-
-[Slide](https://hackmd.io/@X6W3UQEtR7m_0hsM2RbwzA/HkCxB5p1P#/7)
-
