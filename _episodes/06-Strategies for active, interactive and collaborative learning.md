@@ -3,11 +3,17 @@ title: "Strategies for active, interactive and collaborative learning"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
-objectives:
-- "First learning objective. (FIXME)"
+- "What strategies can a trainer apply?"
+outcomes:
+- "Know how to apply strategies that induce engagement."
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "Active learning."
+- "Interactive learning."
+- "Strategies."
+- "Activities and attitudes to promote."
+- "Activities and attitudes to minimize."
+- "Wrap-up technique."
+- "Short feecback technique."
 ---
 
 ## Active learning
