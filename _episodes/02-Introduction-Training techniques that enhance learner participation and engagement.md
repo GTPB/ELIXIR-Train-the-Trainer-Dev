@@ -1,6 +1,7 @@
 ---
 title: "Introduction - Training techniques that enhance learner participation and engagement"
 teaching: 18
+exercises: 0
 questions:
 - "What steps should a trainer follow in order to prepare and deliver an effective course?"
 outcomes:
