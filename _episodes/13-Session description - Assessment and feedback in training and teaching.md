@@ -1,8 +1,10 @@
 ---
 title: "Session description - Assessment and feedback in training and teaching"
-teaching: 0
-exercises: 0
-objectives:
+teaching: 10
+exercises: 10
+questions:
+- ""
+outcomes:
 - "Describe the objectives and learning outcomes of this session."
 keypoints:
 - "Reflect upon concepts around learning, training and teaching."
