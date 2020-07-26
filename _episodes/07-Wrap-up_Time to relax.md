@@ -3,11 +3,13 @@ title: "Wrap-up: Time to relax"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
-objectives:
-- "First learning objective. (FIXME)"
+- "What are the main takeaways from thsi session?"
+outcomes:
+- "Clearly list the main takeaways."
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "Learning environment."
+- "The 7 principles of learning."
+- "Strategies applied to learning principles."
 ---
 
 ## More resources
