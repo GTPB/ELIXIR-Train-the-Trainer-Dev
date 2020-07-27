@@ -1,15 +1,14 @@
 ---
 title: "Formative assessment"
-teaching: 0
-exercises: 0
-objectives:
-- "Describe the objectives and learning outcomes of this session."
+teaching: 10
+exercises: 10
+questions:
+- "What is formative assessment?"
+outcomes:
+- "Describe what formative assessment is and how to do it."
 keypoints:
-- "Reflect upon concepts around learning, training and teaching."
-- "Internalize and learn to mentally structure several ideas and concepts related to learning, training and teaching."
+- "Diagnostic, formative and summative assessment."
 ---
-
-
 
 
 
@@ -21,12 +20,12 @@ keypoints:
 
 
 
-## Challenge 1 - Who would feel comfortable with giving a definition of "formative assessment"? (5 min)
-
-![](../fig/Define_Assessment.png)
-
-[Fill out his form](http://bit.ly/2VZA8Fr)
-
+> ## Challenge 1 - Who would feel comfortable with giving a definition of "formative assessment"? (5 min)
+>
+> ![](../fig/Define_Assessment.png)
+>
+> [Fill out his form](http://bit.ly/2VZA8Fr)
+{}
 
 ## The purpose of formative assessment
 
