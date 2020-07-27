@@ -25,7 +25,7 @@ keypoints:
 > ![](../fig/Define_Assessment.png)
 >
 > [Fill out his form](http://bit.ly/2VZA8Fr)
-{}
+{: .challenge}
 
 ## The purpose of formative assessment
 
