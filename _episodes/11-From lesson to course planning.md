@@ -110,10 +110,10 @@ TeSS: [https://tess.elixir-europe.org](https://tess.elixir-europe.org)
 Adopt collaborative platforms to support training activities
 
 
-## Challenge 9 - Apply (5 min)
-
-Articulate a goal of good teaching practice that you are ready to apply for your next training
-
+>## Challenge 9 - Apply (5 min)
+>
+>Articulate a goal of good teaching practice that you are ready to apply for your next training
+{: .challenge}
 
 ## Wrapping-up
 
