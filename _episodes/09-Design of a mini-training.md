@@ -21,14 +21,15 @@ keypoints:
 - Revise feedback 
 - Adjust/improve/modify (according to feedback) for a 3-min presentation
 
-## Challenge 1 - Define the audience, goal and outcomes (7 min)
-
-1. Choose a topic
-2. Define learning objectives (describe the goals and intentions of the instructor )
-3. Write learning outcomes (think about what learners will be able to do by the end of instruction/session/workshop)
-4. Identify the target audience and prerequisites
-5. Identify the learning experiences
-6. Select the content
+>## Challenge 1 - Define the audience, goal and outcomes (7 min)
+>
+>1. Choose a topic
+>2. Define learning objectives (describe the goals and intentions of the instructor )
+>3. Write learning outcomes (think about what learners will be able to do by the end of instruction/session/workshop)
+>4. Identify the target audience and prerequisites
+>5. Identify the learning experiences
+>6. Select the content
+{: .challenge}
 
 [https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
 
@@ -110,16 +111,16 @@ Further reading [http://cmap.ihmc.us/Publications/ResearchPapers/TheoryUnderlyin
 Use your concept map and adapt as needed
 {: .challenge}
 
-## Challenge 6 - Mini-training practice (20 min)
-
-Split into groups of 3
-1. Each will deliver their 3 minute session to the others
-2. One person delivers the session
-3. One person records on the phone (optional) 
-4. One person notes down feedback in real-time
-5. You describe your own feedback (self-feedback) on your delivery
-6. The other two provide feedback to the presenter
-7. Then rotate within the group (and restart from 1)
+>## Challenge 6 - Mini-training practice (20 min)
+>
+>Split into groups of 3
+>1. Each will deliver their 3 minute session to the others
+>2. One person delivers the session
+>3. One person records on the phone (optional) 
+>4. One person notes down feedback in real-time
+>5. You describe your own feedback (self-feedback) on your delivery
+>6. The other two provide feedback to the presenter
+>7. Then rotate within the group (and restart from 1)
 
 How to give feedback?
 
