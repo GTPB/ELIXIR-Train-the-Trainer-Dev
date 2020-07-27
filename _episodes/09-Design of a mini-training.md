@@ -91,7 +91,7 @@ Further reading [http://cmap.ihmc.us/Publications/ResearchPapers/TheoryUnderlyin
 >  - Positive and Negative on content
 {: .challenge}
 
-> ## Challenge - Delivery planning (3 min) 
+>## Challenge - Delivery planning (3 min) 
 >
 >- Think if you want to make your training interactive 
 >- Think whether you need or want to use a visual support (images)
@@ -100,15 +100,15 @@ Further reading [http://cmap.ihmc.us/Publications/ResearchPapers/TheoryUnderlyin
 >- Be creative!
 {: .challenge}
 
-> ## Challenge 5 - Prepare content (15 min)
+>## Challenge 5 - Prepare content (15 min)
 >
 >You have 15 min to prepare the content of your mini-training
 >The structure of your mini-training should be something like 
 >- 40 seconds introduction
 >- 2 minutes on topic
 >- 20 seconds conclusion
-
-Use your concept map and adapt as needed
+>
+>Use your concept map and adapt as needed
 {: .challenge}
 
 >## Challenge 6 - Mini-training practice (20 min)
@@ -121,6 +121,7 @@ Use your concept map and adapt as needed
 >5. You describe your own feedback (self-feedback) on your delivery
 >6. The other two provide feedback to the presenter
 >7. Then rotate within the group (and restart from 1)
+{: .challenge}
 
 How to give feedback?
 
