@@ -2,11 +2,12 @@
 title: "Introduction - Assessment and feedback in training and teaching"
 teaching: 0
 exercises: 0
-objectives:
-- "Describe the objectives and learning outcomes of this session."
+questions:
+- "In what ways can one assess?"
+outcomes:
+- "Describe the different ways in which one can assess students.."
 keypoints:
-- "Reflect upon concepts around learning, training and teaching."
-- "Internalize and learn to mentally structure several ideas and concepts related to learning, training and teaching."
+- "There are many ways to assess."
 ---
 
 
@@ -17,6 +18,6 @@ keypoints:
 [ConcepTests at Avanti's Learning Centre in Kanpur](https://www.youtube.com/watch?v=2LbuoxAy56o&t=2s)
 
 
-## Different way to categorize assessment
+## Different ways to categorize assessment
 
 ![](../fig/Categories_Of_Assessment.png)
