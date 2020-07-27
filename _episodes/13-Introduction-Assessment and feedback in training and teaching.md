@@ -1,6 +1,6 @@
 ---
 title: "Introduction - Assessment and feedback in training and teaching"
-teaching: 0
+teaching: 5
 exercises: 0
 questions:
 - "In what ways can one assess?"
