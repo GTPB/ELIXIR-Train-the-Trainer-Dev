@@ -1,12 +1,13 @@
 ---
 title: "Feedback"
-teaching: 0
-exercises: 0
-objectives:
-- "Describe the objectives and learning outcomes of this session."
+teaching: 10
+exercises: 10
+questions:
+- "How to get and handle feedback?"
+outcomes:
+- "Describe how to get and handle feedback."
 keypoints:
-- "Reflect upon concepts around learning, training and teaching."
-- "Internalize and learn to mentally structure several ideas and concepts related to learning, training and teaching."
+- "Feedback is hard."
 ---
 
 
