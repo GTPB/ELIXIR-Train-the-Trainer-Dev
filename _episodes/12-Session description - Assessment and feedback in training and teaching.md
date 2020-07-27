@@ -1,7 +1,7 @@
 ---
 title: "Session description - Assessment and feedback in training and teaching"
 teaching: 10
-exercises: 10
+exercises: 0
 questions:
 - "What are the objectives and learning outcomes of this session?"
 outcomes:
