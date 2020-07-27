@@ -3,12 +3,12 @@ title: "Session description - Assessment and feedback in training and teaching"
 teaching: 10
 exercises: 10
 questions:
-- ""
+- "What are the objectives and learning outcomes of this session?"
 outcomes:
-- "Describe the objectives and learning outcomes of this session."
+- "Clearly identify the learning outcomes of this session."
 keypoints:
-- "Reflect upon concepts around learning, training and teaching."
-- "Internalize and learn to mentally structure several ideas and concepts related to learning, training and teaching."
+- "Understand how to assess."
+- "Understand how to get feedback."
 ---
 
 
