@@ -10,7 +10,7 @@ keypoints:
 - "Plan."
 - "Define aims."
 - "Reproducibility."
-- ""
+- "Training environment and materials."
 ---
 
 
