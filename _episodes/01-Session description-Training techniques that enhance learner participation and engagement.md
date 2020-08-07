@@ -18,7 +18,7 @@ keypoints:
 - Show strategies to enhance learning
 - Practice good training strategies, and connect strategies to prior knowledge
 
-{%
+{%comment%}
 ## The extended content starts here (from the Excelerate repo)
 
 ### Bla bla bla
@@ -31,7 +31,7 @@ The double dollar sign is a slide section (the content will be used to geenrate 
 $$
 
 
-%}
+{%endcomment%}
 
 nada
 
