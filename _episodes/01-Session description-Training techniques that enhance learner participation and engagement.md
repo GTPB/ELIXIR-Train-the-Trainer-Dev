@@ -18,7 +18,7 @@ keypoints:
 - Show strategies to enhance learning
 - Practice good training strategies, and connect strategies to prior knowledge
 
-
+{% comment %}
 
 
 
