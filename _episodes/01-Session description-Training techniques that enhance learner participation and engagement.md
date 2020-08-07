@@ -20,7 +20,7 @@ keypoints:
 
 {% comment %}
 
-
+nada
 
 ## Session learning outcomes
 - Identify learning strategy facilitating active, interactive and collaborative learning
