@@ -1,7 +1,6 @@
 name: Order Lessons
 # This workflow is triggered on any pushes to the repository.
-on:
-  push
+on: push
 
 jobs:
   build:
