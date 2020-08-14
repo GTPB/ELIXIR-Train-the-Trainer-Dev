@@ -1,6 +1,7 @@
 name: Order Lessons
 # This workflow is triggered on any pushes to the repository.
-on: push
+on:
+  workflow_dispatch:
 
 jobs:
   build:
@@ -10,6 +11,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Display the path
-        run: |
-          print("my test")
+        run: print("my test")
         shell: python
