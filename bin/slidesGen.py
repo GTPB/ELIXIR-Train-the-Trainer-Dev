@@ -133,6 +133,6 @@ slidesFile.close()
 
 
 
-
+os.rmdir("Slides")
 
 
