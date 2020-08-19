@@ -127,7 +127,7 @@ for fileName in fileList:
         
 
 # Write the content of the slides to a file named slides.md
-slidesFile = open("Slides/slides.md", "w")
+slidesFile = open("slides/slides.md", "w")
 slidesFile.write(slidesContent)        
 slidesFile.close()
 
