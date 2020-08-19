@@ -125,7 +125,7 @@ for fileName in fileList:
         slidesContent = extractContent(liquidCommentContent, slidesTag)
         
         # Write the content of the slides to a file named slides.md
-        slidesFile = open("Slides/" + filesParts[0] + "_slides.md", "w")
+        slidesFile = open("Slides/" + fileParts[0] + "_slides.md", "w")
         slidesFile.write(slidesContent)
         
 slidesFile.close()
