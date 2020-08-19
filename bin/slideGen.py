@@ -1,0 +1,117 @@
+# -------------------------------------
+# ------------ DESCRIPTION ------------
+# -------------------------------------
+# This python script is meant to generate the slides.md file from the set of episodes (.md files) contained
+# in the episodes folder. The slides.md file should then be pulled to and synched with a HackMD account so that the
+# slides can be accessed and viewed by anyone with the proper HackMD link.
+
+
+
+
+
+# -------------------------------------
+# ------------ DEFINITIONS ------------
+# -------------------------------------
+# We first define some variables and functions that will be useful.
+
+
+# ---- Variables ----
+
+# In the 'Liquid' template language (used by GitHub Pages and Jekyll), a comment can be introduced by placing
+# it within the {%comment%} and {%endcomment%} tags, respectively, like so:
+#
+# {%comment%}
+# This will be interpreted as a comment by the Liquid template language.
+# {%endcomment%}
+#
+# A 'Liquid' comment will be seen by a markdown viewer, but it will not be displayed on the website generated
+# by Jekyll/GitHub Pages. So, here we are using the 'Liquid' comment to add content that we want people to be
+# able to see on the:
+#
+# 1. GitHub repository (but not on the Carpentries-style website).
+# 2. Slides (but not on the Carpentries-style website).
+
+#'Liquid' tags for a comment (these should not be modified, since they are used by Jekyll
+# and GitHub Pages).
+liquidCommentTag_beginning = "{%comment%}"
+liquidCommentTag_ending = "{%endcomment%}"
+
+# To add content that is solely meant for the slides, we are placing it inside
+# the slides tag (within the 'Liquid' comment tags). The slides tag can be changed below.
+# Here is an example of how the slides content would be placed, if we choose the slides tag
+# to be $$$:
+# 
+#
+# {%comment%}
+#
+# Some content that will appear neither on the website nor or the slides. 
+#
+# $$$
+# This is content meant only to appear on the slides.
+# $$$
+# 
+# Some more content that will appear neither on the website nor or the slides.
+#
+# {%endcomment%}
+
+# The slides tag. Change it here if you wish to use another tag for the content of the slides. 
+slidesTag = "$$$"
+
+
+# ---- Functions ----
+
+# Function used to extract any content within two tags (beginning tag and ending tag).
+# If the beginning tag and the ending tag are the same we can call this function by writing
+#
+# extractContent(text, tag)
+#
+# instead of
+#
+# extractContent(text, beginningTag, endingTag)
+#
+# If one of the tags is not found then the function returns an empty string.
+def extractContent(text, beginningTag, endingTag = None):
+    if endingTag == None:
+        endingTag = beginningTag
+        
+    tagPosition = text.find(beginningTag)
+    if tagPosition != -1:
+    	content_begin = tagPosition + len(beginningTag)
+    	content = text[content_begin:]
+
+    	tagPosition = content.find(endingTag)
+    	if tagPosition != -1:
+    		content = content[:tagPosition]
+    		return content
+    	else:
+    		return ""
+
+    else:
+    	return ""
+
+
+
+
+
+# ---------------------------------------
+# ------------ PROPER SCRIPT ------------
+# ---------------------------------------
+# The proper script to be run starts here.
+
+
+# Extracting entire contents of the markdown file (.md) and placing them in a string variable named text.
+fileName = "testfile.md"
+f = open(fileName, "r")
+text = f.read()
+f.close()
+
+# Extracting from the variable 'content' the section that rests inside the 'Liquid' comment.
+liquidCommentContent = extractContent(text, liquidCommentTag_beginning, liquidCommentTag_ending)
+
+# Now, in the content of 'Liquid' comment, we detect the slide tags and extract the content therein contained.
+slidesContent = extractContent(liquidCommentContent, slidesTag)
+
+# Write the content of the slides to a file named slides.md
+slidesFile = open("slides.md", "w")
+slidesFile.write(slidesContent)
+slidesFile.close()
