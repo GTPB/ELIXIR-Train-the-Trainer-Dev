@@ -136,5 +136,5 @@ slidesFile.close()
 folderPath = "Slides/"
 fileList = os.listdir(folderPath)
 for fileName in fileList:
-    os.remove(fileName)
+    os.remove(folderPath + fileName)
 
