@@ -1,35 +1,51 @@
-# This workflow is meant to generate the slides markdown file slides.md in the x folder.
+# This workflow is meant to generate the slides markdown file slides.md, which can be found in the
+# x folder.
+# It uses the slideGen.py python script, which can be found in the bin folder. This python
+# script is responsible for extracting the right content from the markdown files (lesson episodes)
+# in the _episodes folder, generating the slides.md file and placing it inside the x folder.
 
 name: slideGen
 
 # Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
+# events but only for the gh-pages branch.
 on:
   push:
     branches: [ gh-pages ]
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel.
 jobs:
-  # This workflow contains a single job called "build"
+  # This workflow contains a single job called 'build'.
   build:
-    # The type of runner that the job will run on
+    # The type of runner that the job will run on.
     runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      # This step does the checkout of the repository into a workspace (a folder
+      # in a GitHub-hosted Ubuntu virtual machine, aka 'runner'). The path for this
+      # workspace can be accessed by using the following context and expression syntax:
+      #
+      # ${{github.workspace}}
+      #
       - name: checkout
         uses: actions/checkout@v2
-        
+      
+      # This step runs the python script responsible for the actual generation of the
+      # slides.md file.
       - name: slideGen script
         run: python3 ${{github.workspace}}/bin/slideGen.py
       
+      # This step is needed in order to assign user information to the activity generated
+      # by this workflow. In this case, we just call the user 'GitHub Actions Bot' and we
+      # assign no email to it.
       - name: config
         run: |
-          git config user.name "GitHub Actions"
+          git config user.name "GitHub Actions Bot"
           git config user.email "<>"
-        
+      
+      # This step stages, commits and pushes the slides.md file back to the repository.
       - name: push 
         run: |
           git add slides.md
-          git commit -m "updated version of slides"
+          git commit -m "Updated version of slides"
           git push origin gh-pages
