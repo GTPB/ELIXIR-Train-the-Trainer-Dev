@@ -17,6 +17,8 @@
 
 # ---- Imports ----
 
+# the 'os' library allows for the use of several OS related operations, namely listdir(), which we use in this script
+# to access the markdown files in the '_episodes' folder
 import os
 
 
@@ -114,7 +116,7 @@ for fileName in fileList:
     fileParts = fileName.rsplit(".")
     if len(fileParts) == 2 and fileParts[1] == "md":
         print(fileParts)
-        f = open(fileName, "r")
+        f = open(folderPath + fileName, "r")
         text = f.read()
         f.close()
         
