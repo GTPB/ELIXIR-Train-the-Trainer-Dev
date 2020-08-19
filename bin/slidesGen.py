@@ -131,10 +131,3 @@ for fileName in fileList:
 slidesFile = open("slides/slides.md", "w")
 slidesFile.write(slidesContent)        
 slidesFile.close()
-
-
-folderPath = "Slides/"
-fileList = os.listdir(folderPath)
-for fileName in fileList:
-    os.remove(folderPath + fileName)
-
