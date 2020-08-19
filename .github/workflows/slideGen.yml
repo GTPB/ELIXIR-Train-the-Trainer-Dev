@@ -46,6 +46,6 @@ jobs:
       # This step stages, commits and pushes the slides.md file back to the repository.
       - name: push 
         run: |
-          git add slides.md
+          git add -A.md
           git commit -m "Updated version of slides"
           git push origin gh-pages
