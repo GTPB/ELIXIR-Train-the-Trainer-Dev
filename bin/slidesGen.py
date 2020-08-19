@@ -20,6 +20,7 @@
 # the 'os' library allows for the use of several OS related operations, namely listdir(), which we use in this script
 # to access the markdown files in the '_episodes' folder.
 import os
+import shutil
 
 
 # ---- Variables ----
@@ -132,7 +133,8 @@ slidesFile.write(slidesContent)
 slidesFile.close()
 
 
-
-os.rmdir("Slides")
-
+folderPath = "Slides/"
+fileList = os.listdir(folderPath)
+for fileName in fileList:
+    os.remove(fileName)
 
