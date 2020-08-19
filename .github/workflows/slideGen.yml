@@ -32,4 +32,4 @@ jobs:
         run: |
           git add slides.md
           git commit -m "updated version of slides"
-          git push origin master
+          git push origin gh-pages
