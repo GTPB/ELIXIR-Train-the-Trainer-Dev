@@ -1,10 +1,10 @@
 # This workflow is meant to generate the slides markdown file slides.md, which can be found in the
 # x folder.
-# It uses the slideGen.py python script, which can be found in the bin folder. This python
+# It uses the slidesGen.py python script, which can be found in the bin folder. This python
 # script is responsible for extracting the right content from the markdown files (lesson episodes)
 # in the _episodes folder, generating the slides.md file and placing it inside the x folder.
 
-name: slideGen
+name: slidesGen
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the gh-pages branch.
@@ -46,6 +46,6 @@ jobs:
       # This step stages, commits and pushes the slides.md file back to the repository.
       - name: push 
         run: |
-          git add -A.md
+          git add -A
           git commit -m "Updated version of slides"
           git push origin gh-pages
