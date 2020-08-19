@@ -110,12 +110,11 @@ def extractContent(text, beginningTag, endingTag = None):
 folderPath = "_episodes/"
 fileList = os.listdir(folderPath)
 text = ""
-slidesFile = open("slides.md", "w")
+slidesFile = open("slides.md", "a")
 
 for fileName in fileList:
     fileParts = fileName.rsplit(".")
     if len(fileParts) == 2 and fileParts[1] == "md":
-        print(fileParts)
         f = open(folderPath + fileName, "r")
         text = f.read()
         f.close()
@@ -127,7 +126,7 @@ for fileName in fileList:
         slidesContent = extractContent(liquidCommentContent, slidesTag)
         
         # Write the content of the slides to a file named slides.md
-        slidesFile.write(slidesContent, "a")
+        slidesFile.write(slidesContent)
         
 slidesFile.close()
 
