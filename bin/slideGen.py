@@ -112,8 +112,8 @@ slidesFile = open("slides.md", "w")
 
 for fileName in fileList:
     fileParts = fileName.rsplit(".")
-    print(fileParts)
     if len(fileParts) == 2 and fileParts[1] == ".md":
+        print(fileParts)
         f = open(fileName, "r")
         text = f.read()
         f.close()
