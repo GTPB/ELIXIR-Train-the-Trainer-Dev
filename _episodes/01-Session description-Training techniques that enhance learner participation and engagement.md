@@ -27,23 +27,59 @@ keypoints:
 
 
 $$$
-The triple dollar sign is  
-a slide section (the content will be used to generate the slides)
+
+---
+slideOptions:
+  theme: white
+---
+
+## Training Techniques to enhance learner participation and engagement
 
 ---
 
-## some section
-### some subsection
+### Overview
+
+- Session objectives and learning outcomes
+- Introduction
+- Skills for trainers
+- Learning principles
+- Motivation and demotivation
+- Strategies for active, interactive and collaborative learning
+- Wrap-up: time to relax
+
+---
+
+### Session objectives
+
+<br/>
+
+- Reflect on your experiences in training
+- Reflect on the 7 principles of learning
+- Show strategies to enhance learning
+- Practice good training strategies, and connect strategies to prior knowledge
+
+---
+
+### Session learning outcomes
+
+<br/>
+
+- Identify learning strategy facilitating active, interactive and collaborative learning
+- Describe what makes training effective
+- Describe what makes an effective trainer
+- List motivation and demotivation factors
+
+---
+
+### Instruction design in five steps
+
+<br/>
+
+![](https://i.imgur.com/rDN1XF0.png)
+
+---
 
 $$$
 
 
 {%endcomment%}
-
-nada
-
-## Session learning outcomes
-- Identify learning strategy facilitating active, interactive and collaborative learning
-- Describe what makes training effective
-- Describe what makes an effective trainer
-- List motivation and demotivation factors
