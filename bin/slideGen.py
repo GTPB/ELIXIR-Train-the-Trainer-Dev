@@ -107,12 +107,12 @@ def extractContent(text, beginningTag, endingTag = None):
 # Extracting the entire contents of the markdown files (.md) and placing them in a string variable named text.
 folderPath = "_episodes/"
 fileList = os.listdir(folderPath)
-print(fileList)
 text = ""
 slidesFile = open("slides.md", "w")
 
 for fileName in fileList:
     fileParts = fileName.rsplit(".")
+    print(fileParts)
     if len(fileParts) == 2 and fileParts[1] == ".md":
         f = open(fileName, "r")
         text = f.read()
