@@ -110,6 +110,7 @@ def extractContent(text, beginningTag, endingTag = None):
 folderPath = "_episodes/"
 fileList = os.listdir(folderPath)
 text = ""
+slidesContent = ""
 
 for fileName in fileList:
     fileParts = fileName.rsplit(".")
@@ -122,12 +123,12 @@ for fileName in fileList:
         liquidCommentContent = extractContent(text, liquidCommentTag_beginning, liquidCommentTag_ending)
         
         # Now, in the content of 'Liquid' comment, we detect the slide tags and extract the content therein contained.
-        slidesContent = extractContent(liquidCommentContent, slidesTag)
+        slidesContent = slidesContent + extractContent(liquidCommentContent, slidesTag)
         
-        # Write the content of the slides to a file named slides.md
-        slidesFile = open("Slides/" + fileParts[0] + "_slides.md", "w")
-        slidesFile.write(slidesContent)
-        
+
+# Write the content of the slides to a file named slides.md
+slidesFile = open("Slides/slides.md", "w")
+slidesFile.write(slidesContent)        
 slidesFile.close()
 
 
