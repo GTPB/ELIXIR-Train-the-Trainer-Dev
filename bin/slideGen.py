@@ -104,9 +104,9 @@ def extractContent(text, beginningTag, endingTag = None):
 # The proper script to be run starts here.
 
 
-# Extracting entire contents of the markdown files (.md) and placing them in a string variable named text.
-folder = "_episodes"
-fileList = os.listdir("folder/")
+# Extracting the entire contents of the markdown files (.md) and placing them in a string variable named text.
+folderPath = "_episodes/"
+fileList = os.listdir(folderPath)
 text = ""
 slidesFile = open("slides.md", "w")
 
