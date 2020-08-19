@@ -9,10 +9,15 @@
 
 
 
-# -------------------------------------
-# ------------ DEFINITIONS ------------
-# -------------------------------------
-# We first define some variables and functions that will be useful.
+# ----------------------------------------------------------------
+# ------------ PRELIMINARY DEFINITIONS AND OPERATIONS ------------
+# ----------------------------------------------------------------
+# We first import some libraries and define some variables and functions that will be useful.
+
+
+# ---- Imports ----
+
+import os
 
 
 # ---- Variables ----
@@ -99,19 +104,32 @@ def extractContent(text, beginningTag, endingTag = None):
 # The proper script to be run starts here.
 
 
-# Extracting entire contents of the markdown file (.md) and placing them in a string variable named text.
-fileName = "_episodes/01-Session description-Training techniques that enhance learner participation and engagement.md"
-f = open(fileName, "r")
-text = f.read()
-f.close()
-
-# Extracting from the variable 'content' the section that rests inside the 'Liquid' comment.
-liquidCommentContent = extractContent(text, liquidCommentTag_beginning, liquidCommentTag_ending)
-
-# Now, in the content of 'Liquid' comment, we detect the slide tags and extract the content therein contained.
-slidesContent = extractContent(liquidCommentContent, slidesTag)
-
-# Write the content of the slides to a file named slides.md
+# Extracting entire contents of the markdown files (.md) and placing them in a string variable named text.
+folder = "_episodes"
+fileList = os.listdir("folder/")
+text = ""
 slidesFile = open("slides.md", "w")
-slidesFile.write(slidesContent)
+
+for fileName in fileList:
+    fileParts = fileName.rsplit(".")
+    if len(fileParts) == 2 and fileParts[1] == ".md":
+        f = open(fileName, "r")
+        text = f.read()
+        f.close()
+        
+        # Extracting from the variable 'content' the section that rests inside the 'Liquid' comment.
+        liquidCommentContent = extractContent(text, liquidCommentTag_beginning, liquidCommentTag_ending)
+        
+        # Now, in the content of 'Liquid' comment, we detect the slide tags and extract the content therein contained.
+        slidesContent = extractContent(liquidCommentContent, slidesTag)
+        
+        # Write the content of the slides to a file named slides.md
+        slidesFile.write(slidesContent, "a")
+        
 slidesFile.close()
+
+
+
+
+
+
