@@ -32,8 +32,8 @@ jobs:
       
       # This step runs the python script responsible for the actual generation of the
       # slides.md file.
-      - name: slideGen script
-        run: python3 ${{github.workspace}}/bin/slideGen.py
+      - name: slidesGen script
+        run: python3 ${{github.workspace}}/bin/slidesGen.py
       
       # This step is needed in order to assign user information to the activity generated
       # by this workflow. In this case, we just call the user 'GitHub Actions Bot' and we
@@ -46,6 +46,6 @@ jobs:
       # This step stages, commits and pushes the slides.md file back to the repository.
       - name: push 
         run: |
-          git add -A
+          git add slides.md
           git commit -m "Updated version of slides"
           git push origin gh-pages
