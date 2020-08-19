@@ -18,7 +18,7 @@
 # ---- Imports ----
 
 # the 'os' library allows for the use of several OS related operations, namely listdir(), which we use in this script
-# to access the markdown files in the '_episodes' folder
+# to access the markdown files in the '_episodes' folder.
 import os
 
 
