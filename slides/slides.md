@@ -125,11 +125,3 @@ slideOptions:
 
 ---
 
-### Instruction design in five steps
-
-<br/>
-
-![](https://i.imgur.com/rDN1XF0.png)
-
----
-
