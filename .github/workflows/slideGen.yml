@@ -21,7 +21,9 @@ jobs:
         uses: actions/checkout@v2
         
       - name: slideGen script
-        run: python3 slideGen.py
+        run: |
+          cd bin
+          python3 slideGen.py
       
       - name: config
         run: |
