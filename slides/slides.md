@@ -1,5 +1,79 @@
 
 
+---
+slideOptions:
+  theme: white
+---
+
+## Training Techniques to enhance learner participation and engagement
+
+---
+
+### Overview
+
+- Session objectives and learning outcomes
+- Introduction
+- Skills for trainers
+- Learning principles
+- Motivation and demotivation
+- Strategies for active, interactive and collaborative learning
+- Wrap-up: time to relax
+
+---
+
+### Session objectives
+
+<br/>
+
+- Reflect on your experiences in training
+- Reflect on the 7 principles of learning
+- Show strategies to enhance learning
+- Practice good training strategies, and connect strategies to prior knowledge
+
+---
+
+### Session learning outcomes
+
+<br/>
+
+- Identify learning strategy facilitating active, interactive and collaborative learning
+- Describe what makes training effective
+- Describe what makes an effective trainer
+- List motivation and demotivation factors
+
+---
+
+
+
+### Introduction
+
+<br/>
+
+- Section description
+    - Objectives:
+    - Learning outcomes:
+- Topics
+    - Introductory video
+    - Instruction design in 5 steps
+
+---
+
+### Introductory video
+
+<br/>
+
+https://www.youtube.com/watch?v=Z9orbxoRofI
+
+---
+
+## Instruction design in five steps
+
+![](../fig/Instruction_design_in_five_steps.png)
+
+---
+
+
+
 ### Skills for trainers
 
 <br/>
@@ -54,80 +128,6 @@ Write down some traits that you associate with a good trainer and describe them
     - Planning and Management (PM)
     - Learner engagement (LE)
 - Then share your thoughts with us
-
----
-
-
-
-### Introduction
-
-<br/>
-
-- Section description
-    - Objectives:
-    - Learning outcomes:
-- Topics
-    - Introductory video
-    - Instruction design in 5 steps
-
----
-
-### Introductory video
-
-<br/>
-
-https://www.youtube.com/watch?v=Z9orbxoRofI
-
----
-
-## Instruction design in five steps
-
-![](../fig/Instruction_design_in_five_steps.png)
-
----
-
-
-
----
-slideOptions:
-  theme: white
----
-
-## Training Techniques to enhance learner participation and engagement
-
----
-
-### Overview
-
-- Session objectives and learning outcomes
-- Introduction
-- Skills for trainers
-- Learning principles
-- Motivation and demotivation
-- Strategies for active, interactive and collaborative learning
-- Wrap-up: time to relax
-
----
-
-### Session objectives
-
-<br/>
-
-- Reflect on your experiences in training
-- Reflect on the 7 principles of learning
-- Show strategies to enhance learning
-- Practice good training strategies, and connect strategies to prior knowledge
-
----
-
-### Session learning outcomes
-
-<br/>
-
-- Identify learning strategy facilitating active, interactive and collaborative learning
-- Describe what makes training effective
-- Describe what makes an effective trainer
-- List motivation and demotivation factors
 
 ---
 
