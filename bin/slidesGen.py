@@ -84,20 +84,16 @@ slidesTag = "$$$"
 def extractContent(text, beginningTag, endingTag = None):
     if endingTag == None:
         endingTag = beginningTag
-     
-    # text.find(string) will return the position where the first occurrence of 'string'
-    # begins in the text. It will return -1 if 'string' is not found.
+        
     tagPosition = text.find(beginningTag)
-    
-    # If tagPosition is -1 then that means beginningTag was not found in the text.
     if tagPosition != -1:
-        content_beginning = tagPosition + len(beginningTag)
-    	content = text[content_beginning:]
+    	content_begin = tagPosition + len(beginningTag)
+    	content = text[content_begin:]
 
     	tagPosition = content.find(endingTag)
-        if tagPosition != -1:
-            content = content[:tagPosition]
-            return content
+    	if tagPosition != -1:
+    		content = content[:tagPosition]
+    		return content
     	else:
     		return ""
 
