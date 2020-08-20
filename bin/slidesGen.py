@@ -91,8 +91,8 @@ def extractContent(text, beginningTag, endingTag = None):
     
     # If tagPosition is -1 then that means beginningTag was not found in the text.
     if tagPosition != -1:
-        content_begin = tagPosition + len(beginningTag)
-    	content = text[content_begin:]
+        content_beginning = tagPosition + len(beginningTag)
+    	content = text[content_beginning:]
 
     	tagPosition = content.find(endingTag)
         if tagPosition != -1:
