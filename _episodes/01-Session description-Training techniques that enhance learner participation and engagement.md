@@ -25,7 +25,6 @@ keypoints:
 - This is something
 - This is something else
 
-
 $$$
 
 ## Training Techniques to enhance learner participation and engagement
