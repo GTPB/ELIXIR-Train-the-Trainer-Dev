@@ -91,7 +91,7 @@ def extractContent(text, beginningTag, endingTag = None):
     
     # If tagPosition is -1 then that means beginningTag was not found in the text.
     if tagPosition != -1:
-    	content_begin = tagPosition + len(beginningTag)
+        content_begin = tagPosition + len(beginningTag)
     	content = text[content_begin:]
 
     	tagPosition = content.find(endingTag)
@@ -116,7 +116,7 @@ def extractContent(text, beginningTag, endingTag = None):
 
 # Extracting the entire contents of the markdown files (.md) and placing them in a string variable named text.
 folderPath = "_episodes/"
-fileList = os.listdir(folderPath).sort()
+fileList = os.listdir(folderPath)
 text = ""
 slidesContent = ""
 
