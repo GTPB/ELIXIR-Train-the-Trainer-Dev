@@ -1,0 +1,4 @@
+---
+slideOptions:
+  theme: white
+---
