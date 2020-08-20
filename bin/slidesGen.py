@@ -95,11 +95,9 @@ def extractContent(text, beginningTag, endingTag = None):
     	content = text[content_begin:]
 
     	tagPosition = content.find(endingTag)
-    	
-        # If tagPosition is -1 then that means endingTag was not found in the text.
         if tagPosition != -1:
-    		content = content[:tagPosition]
-    		return content
+            content = content[:tagPosition]
+            return content
     	else:
     		return ""
 
