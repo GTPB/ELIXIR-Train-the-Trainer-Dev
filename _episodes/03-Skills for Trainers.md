@@ -97,7 +97,7 @@ Write down some traits that you associate with a good trainer and describe them
 <br/>
 
 - Try to reflect on your current skills and how they fit with this matrix
-    - Communication (C)
+    - Communication (COMM)
     - Expertise and knowledge (EK)
     - Planning and Management (PM)
     - Learner engagement (LE)
