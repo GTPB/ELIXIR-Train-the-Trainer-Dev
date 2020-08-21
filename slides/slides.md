@@ -1,3 +1,7 @@
+---
+slideOptions:
+  theme: white
+---
 
 
 ## Training Techniques to enhance learner participation and engagement
