@@ -115,7 +115,9 @@ folderPath = "_episodes/"
 fileList = os.listdir(folderPath)
 fileList.sort()
 text = ""
-slidesContent = ""
+
+slidesOptionsFile = open("slides/slidesOptions.md", "r")
+slidesContent = slidesOptionsFile.read()
 
 for fileName in fileList:
     fileParts = fileName.rsplit(".")
