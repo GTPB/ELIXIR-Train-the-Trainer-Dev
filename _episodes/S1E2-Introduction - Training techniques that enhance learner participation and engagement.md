@@ -7,7 +7,7 @@ outcomes:
 questions:
 - What steps should a trainer follow in order to prepare and deliver an effective
   course?
-slides_url: https://hackmd.io/@XMetaMaker/SkCmTzaQD#/4
+slides_url: https://hackmd.io/@AVqzE8o7Qu6EkjWoI56gZA/ByBbXmTQv#/4
 teaching: 18
 title: S1E2-Introduction - Training techniques that enhance learner participation
   and engagement

@@ -10,7 +10,7 @@ outcomes:
 - Know how to provide a motivating learning experience.
 questions:
 - How can a trainer motivate their students?
-slides_url: https://hackmd.io/@XMetaMaker/SkCmTzaQD#/12
+slides_url: https://hackmd.io/@AVqzE8o7Qu6EkjWoI56gZA/ByBbXmTQv#/12
 teaching: 10
 title: S1E5-Motivation and Demotivation
 
