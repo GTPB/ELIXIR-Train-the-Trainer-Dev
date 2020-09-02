@@ -9,7 +9,7 @@ outcomes:
   are expected to acquire.
 questions:
 - What are the goals and intended learning outcomes of this session?
-slides_url: https://hackmd.io/@XMetaMaker/BkbnHJnQP#/
+slides_url: https://hackmd.io/@XMetaMaker/SkCmTzaQD#/
 teaching: 3
 title: S1E1-Session description - Training techniques that enhance learner participation
   and engagement
