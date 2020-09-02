@@ -1,13 +1,15 @@
 ---
-title: "Skills for Trainers"
-teaching: 5
 exercises: 5
-questions:
-- "What skills should trainers have?"
-outcomes:
-- "Clearly identify the relevant sets of skills of a trainer."
 keypoints:
-- "The skills matrix summarizes the whole set of skills a trainer should have."
+- The skills matrix summarizes the whole set of skills a trainer should have.
+outcomes:
+- Clearly identify the relevant sets of skills of a trainer.
+questions:
+- What skills should trainers have?
+slides_url: someurl
+teaching: 5
+title: S1E3-Skills for Trainers
+
 ---
 
 > ## Challenge 1 - Recall concrete examples of past trainings and list your thoughts

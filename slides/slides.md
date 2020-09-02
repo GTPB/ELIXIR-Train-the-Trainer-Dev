@@ -130,3 +130,77 @@ Write down some traits that you associate with a good trainer and describe them
 
 ---
 
+
+
+### Learning principles
+
+<br/>
+
+- Section description
+    - Objectives:
+    - Learning outcomes:
+- Topics
+    - 7 evidence-based learning principles
+- Challenges
+    - What is your understanding of these learning principles?
+
+---
+
+### 7 Evidence-based Learning Principles
+
+<br/>
+
+- Principle P1: Students' prior knowledge can help or hinder learning.
+
+- Principle P2: How students organise knowledge influences how they learn and apply what they know.
+
+- Principle P3: Students motivation determines, directs and sustains what they do learn
+
+---
+
+- Principle P4: To develop mastery, students must acquire component skills, practice integrating them, and know when to apply what they have learned
+
+- Principle P5: Goal-directed practice coupled with targeted feedback enhances the quality of sudents' learning
+
+---
+
+- Principle P6: Students' current level of development interacts with the social, emotional, and intellectual climate of the course to impact learning
+
+- Principle P7: To become self-directed learners, students must learn to monitor and adjust their approaches to learning.
+
+---
+
+### Challenge 4 - What is your understanding of the principles of learning (10 min)?
+
+<br/>
+
+- Work in groups of three
+- Carefully read the principles as a group
+- Pick one principle you like (with no overlap with the other groups)
+- Discuss what you would do as a teacher/instructor to facilitate learning according to the principle
+
+---
+
+
+
+
+
+
+
+
+
+some slide
+
+---
+
+# End of Session
+
+---
+
+
+
+
+
+
+
+

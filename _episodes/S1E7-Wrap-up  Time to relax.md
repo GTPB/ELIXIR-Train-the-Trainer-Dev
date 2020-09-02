@@ -1,15 +1,17 @@
 ---
-title: "Wrap-up: Time to relax"
-teaching: 10
 exercises: 10
-questions:
-- "What are the main takeaways from thsi session?"
-outcomes:
-- "Clearly list the main takeaways."
 keypoints:
-- "Learning environment."
-- "The 7 principles of learning."
-- "Strategies applied to learning principles."
+- Learning environment.
+- The 7 principles of learning.
+- Strategies applied to learning principles.
+outcomes:
+- Clearly list the main takeaways.
+questions:
+- What are the main takeaways from thsi session?
+slides_url: https://hackmd.io/@XMetaMaker/BkbnHJnQP#/17
+teaching: 10
+title: 'S1E7-Wrap-up: Time to relax'
+
 ---
 
 ## More resources
@@ -83,3 +85,19 @@ _Willingham, 2009_
 >
 > [Random Thoughts - How Learning Works](../files/Ambrose_RandomThoughts_HowLearningWorks.pdf)
 {: .challenge}
+
+{%comment%}
+
+$$$
+
+some slide
+
+---
+
+$$$
+
+
+
+
+
+{%endcomment%}

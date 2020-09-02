@@ -1,13 +1,15 @@
 ---
-title: "Introduction - Assessment and feedback in training and teaching"
-teaching: 5
 exercises: 0
-questions:
-- "In what ways can one assess?"
-outcomes:
-- "Describe the different ways in which one can assess students.."
 keypoints:
-- "There are many ways to assess."
+- There are many ways to assess.
+outcomes:
+- Describe the different ways in which one can assess students..
+questions:
+- In what ways can one assess?
+slides_url: https://hackmd.io/@XMetaMaker/BkbnHJnQP#/17
+teaching: 5
+title: S3E2-Introduction - Assessment and feedback in training and teaching
+
 ---
 
 

@@ -1,0 +1,52 @@
+# -------------------------------------
+# ------------ SUMMARY ----------------
+# -------------------------------------
+# This yaml file defines some of the structure of the entire lesson (titles of each episode,
+# their order, and section they belong to).
+# The 'lesson_build.yml' workflow file calls the 'structure_lesson.py' python script, which
+# sorts the markdown files in the '_episodes' folder according to the structure defined below.
+# This is achieved by having the 'structure_lesson.py' script write the number of the episode
+# into the name of the corresponding file in the '_episodes' folder. 
+
+
+
+
+
+# ---------------------------------------
+# ------------ PROPER DATA ------------
+# ---------------------------------------
+# The proper data to be to be read starts here.
+
+
+# ---- Lesson structure ----
+
+# The lesson structure is defined below.
+# 'lesson' is a list of lists. The top-level list corresponds to the sessions. Within each session we have a
+# list of episodes.
+
+lesson:
+ -
+  - "Session description - Training techniques that enhance learner participation and engagement"
+  - "Introduction - Training techniques that enhance learner participation and engagement"
+  - "Skills for Trainers"
+  - "Learning Principles"
+  - "Motivation and Demotivation"
+  - "Strategies for active, interactive and collaborative learning"
+  - "Wrap-up: Time to relax"
+ - 
+  - "Session description - Design and plan session, course, materials"
+  - "Design of a mini-training"
+  - "From lesson to session plan"
+  - "From lesson to course planning"
+ -
+  - "Session description - Assessment and feedback in training and teaching"
+  - "Introduction - Assessment and feedback in training and teaching"
+  - "Formative assessment"
+  - "Feedback"
+
+
+# ---- Lesson info ----
+
+# The base URL for the slides.  
+
+slides_base_url: "https://hackmd.io/@XMetaMaker/BkbnHJnQP#"

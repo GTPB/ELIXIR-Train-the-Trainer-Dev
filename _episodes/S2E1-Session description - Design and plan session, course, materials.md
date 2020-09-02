@@ -1,13 +1,15 @@
 ---
-title: "Session description - Design and plan session, course, materials"
-teaching: 5
 exercises: 0
-questions:
-- "How should a trainer design a course?"
-outcomes:
-- "Describe the objectives and learning outcomes of this session."
 keypoints:
-- "Reflect upon course design."
+- Reflect upon course design.
+outcomes:
+- Describe the objectives and learning outcomes of this session.
+questions:
+- How should a trainer design a course?
+slides_url: https://hackmd.io/@XMetaMaker/BkbnHJnQP#/17
+teaching: 5
+title: S2E1-Session description - Design and plan session, course, materials
+
 ---
 
 ## Session objectives
@@ -60,3 +62,33 @@ Good concept maps are built with iterations and feedback
 Joseph D. Novak , 1972
 
 
+{%comment%}
+
+
+# ELIXIR – EXCELERATE Train-the Trainer subtask
+
+## Session 3: Session, course, and materials design
+
+* [Using Concept Maps to develop courses and sessions;](#conceptmaps)
+* [Training session design and plan;](#sessions)
+* [Training materials: sharing and making re-use possible;](#design)
+    * [Training materials repositories and resources: GOBLET, TeSS, GitHub, etc.](#repositories)
+* [Reproducibility of compute environments;](#reproducibility)
+* [Training rooms for bioinformatics;](#rooms)
+
+In this session you will learn how to:
+
+- design, prepare, deliver, get feedback, and review (according to feedback) a three-minute presentation;
+- design a training session;
+- design a training course;
+- design and develop training materials;
+
+
+
+$$$
+
+
+$$$
+
+
+{%endcomment%}

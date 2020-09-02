@@ -1,14 +1,16 @@
 ---
-title: "From lesson to session plan"
-teaching: 10
 exercises: 10
-questions:
-- "What are the steps to designing a session of a course?"
-outcomes:
-- "Know all the steps to designing a session of a course"
 keypoints:
-- "Instruction design."
-- "Lesson/session plan."
+- Instruction design.
+- Lesson/session plan.
+outcomes:
+- Know all the steps to designing a session of a course
+questions:
+- What are the steps to designing a session of a course?
+slides_url: https://hackmd.io/@XMetaMaker/BkbnHJnQP#/17
+teaching: 10
+title: S2E3-From lesson to session plan
+
 ---
 
 

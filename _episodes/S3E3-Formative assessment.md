@@ -1,13 +1,15 @@
 ---
-title: "Formative assessment"
-teaching: 10
 exercises: 10
-questions:
-- "What is formative assessment?"
-outcomes:
-- "Describe what formative assessment is and how to do it."
 keypoints:
-- "Diagnostic, formative and summative assessment."
+- Diagnostic, formative and summative assessment.
+outcomes:
+- Describe what formative assessment is and how to do it.
+questions:
+- What is formative assessment?
+slides_url: https://hackmd.io/@XMetaMaker/BkbnHJnQP#/17
+teaching: 10
+title: S3E3-Formative assessment
+
 ---
 
 

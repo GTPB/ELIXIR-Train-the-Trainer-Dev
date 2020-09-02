@@ -1,13 +1,16 @@
 ---
-title: "Introduction - Training techniques that enhance learner participation and engagement"
-teaching: 18
 exercises: 0
-questions:
-- "What steps should a trainer follow in order to prepare and deliver an effective course?"
-outcomes:
-- "Clearly identify the 5 steps of instruction design."
 keypoints:
-- "LOs, LEs, content, assessments, evaluate."
+- LOs, LEs, content, assessments, evaluate.
+outcomes:
+- Clearly identify the 5 steps of instruction design.
+questions:
+- What steps should a trainer follow in order to prepare and deliver an effective
+  course?
+slides_url: someurl
+teaching: 18
+title: S1E2-Introduction - Training techniques that enhance learner participation
+  and engagement
 
 ---
 

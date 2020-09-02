@@ -1,13 +1,15 @@
 ---
-title: "Feedback"
-teaching: 10
 exercises: 10
-questions:
-- "How to get and handle feedback?"
-outcomes:
-- "Describe how to get and handle feedback."
 keypoints:
-- "Feedback is hard."
+- Feedback is hard.
+outcomes:
+- Describe how to get and handle feedback.
+questions:
+- How to get and handle feedback?
+slides_url: someurl
+teaching: 10
+title: S3E4-Feedback
+
 ---
 
 
@@ -75,8 +77,13 @@ Trainees feedback should be considered along other forms of quality evidence:
 
 [http://bit.ly/2Xgr3cI](http://bit.ly/2Xgr3cI)
 
+{%comment%}
+$$$
 
+some slide
 
+---
 
+$$$
 
-
+{%endcomment%}

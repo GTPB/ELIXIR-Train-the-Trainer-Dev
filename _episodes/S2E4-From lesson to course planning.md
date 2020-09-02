@@ -1,16 +1,18 @@
 ---
-title: "From lesson to course planning"
-teaching: 10
 exercises: 10
-questions:
-- "What are the steps to designing a course?"
-outcomes:
-- "Know all the steps to designing a course."
 keypoints:
-- "Plan."
-- "Define aims."
-- "Reproducibility."
-- "Training environment and materials."
+- Plan.
+- Define aims.
+- Reproducibility.
+- Training environment and materials.
+outcomes:
+- Know all the steps to designing a course.
+questions:
+- What are the steps to designing a course?
+slides_url: https://hackmd.io/@XMetaMaker/BkbnHJnQP#/17
+teaching: 10
+title: S2E4-From lesson to course planning
+
 ---
 
 
