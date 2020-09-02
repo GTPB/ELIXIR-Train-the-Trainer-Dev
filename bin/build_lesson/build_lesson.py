@@ -82,7 +82,7 @@ episodesFolderPath = "_episodes/"
 # Location of the yaml file containing the structure of the lesson and some options
 lesson_structureFilePath = "bin/build_lesson/lesson_structure.yml"
 slidesFolderPath = "slides/"
-slides_optionsFilePath = slidesFolderPath + "slides_options.md"
+slides_headerFilePath = slidesFolderPath + "slides_header.md"
 slides_end_of_sessionFilePath = slidesFolderPath + "slides_end_of_session.md"
 slidesFilePath = slidesFolderPath + "slides.md"
 
@@ -279,9 +279,9 @@ def updateAllYamlHeaders(lessonDict):
 def buildSlidesFile(lessonDict):
     # The content in 'slidesOptionsFile.md' needs to be at the beginning of the 'slides.md' file, so that HackMD can configure
     # the presentation according to these options.
-    slides_optionsFile = open(slides_optionsFilePath, "r")
-    slidesContent = slides_optionsFile.read()
-    slides_optionsFile.close()
+    slides_headerFile = open(slides_headerFilePath, "r")
+    slidesContent = slides_headerFile.read()
+    slides_headerFile.close()
     slides_end_of_sessionFile = open(slides_end_of_sessionFilePath, "r")
     slides_end_of_sessionContent = slides_end_of_sessionFile.read()
     slides_end_of_sessionFile.close()
