@@ -50,9 +50,9 @@ slideOptions:
 
 <br/>
 
-- Section description
-    - Objectives:
-    - Learning outcomes:
+- Episode description
+    - Objectives
+    - Learning outcomes
 - Topics
     - Introductory video
     - Instruction design in 5 steps
