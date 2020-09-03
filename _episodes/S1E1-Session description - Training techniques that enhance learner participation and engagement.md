@@ -5,7 +5,7 @@ keypoints:
 - Internalize and learn to mentally structure several ideas and concepts related to
   learning, training and teaching.
 outcomes:
-- Get a clear understanding of the goals of this session and of the skil the learners
+- Get a clear understanding of the goals of this session and of the skills the learners
   are expected to acquire.
 questions:
 - What are the goals and intended learning outcomes of this session?
