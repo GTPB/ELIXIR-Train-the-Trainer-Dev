@@ -7,7 +7,7 @@ outcomes:
 - Know all the steps to designing a session of a course
 questions:
 - What are the steps to designing a session of a course?
-slides_url: https://hackmd.io/@AVqzE8o7Qu6EkjWoI56gZA/ByBbXmTQv#/25
+slides_url: https://hackmd.io/@AVqzE8o7Qu6EkjWoI56gZA/ByBbXmTQv#/35
 teaching: 10
 title: S2E3-From lesson to session plan
 

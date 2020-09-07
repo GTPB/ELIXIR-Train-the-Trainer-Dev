@@ -8,7 +8,7 @@ outcomes:
 - Clearly list the main takeaways.
 questions:
 - What are the main takeaways from thsi session?
-slides_url: https://hackmd.io/@AVqzE8o7Qu6EkjWoI56gZA/ByBbXmTQv#/25
+slides_url: https://hackmd.io/@AVqzE8o7Qu6EkjWoI56gZA/ByBbXmTQv#/35
 teaching: 10
 title: 'S1E7-Wrap-up: Time to relax'
 
