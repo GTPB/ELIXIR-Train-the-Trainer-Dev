@@ -6,7 +6,7 @@ outcomes:
 - Clearly identify the relevant sets of skills of a trainer.
 questions:
 - What skills should trainers have?
-slides_url: https://hackmd.io/@AVqzE8o7Qu6EkjWoI56gZA/ByBbXmTQv#/7
+slides_url: https://hackmd.io/@XMetaMaker/BkbnHJnQP#/7
 teaching: 5
 title: S1E3-Skills for Trainers
 
@@ -148,7 +148,6 @@ The TtT taskforce of the Global Organisation for Bioinformatics Learning, Educat
 
 
 $$$
-
 ### Skills for trainers
 
 <br/>
@@ -205,7 +204,6 @@ Write down some traits that you associate with a good trainer and describe them
 - Then share your thoughts with us
 
 ---
-
 $$$
 
 
