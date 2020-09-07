@@ -850,4 +850,15 @@ What did you learn in this session?
 
 ---
 
+## Session objectives
 
+Develop an understanding of different types of feedback, when to give and receive feedback, and for which purpose.
+
+---
+
+## Session learning outcomes
+
+- Describe the differences between formative and summative assessment
+- Tell why frequent feedback is important
+- List and describe a few techniques for formative feedback
+---
