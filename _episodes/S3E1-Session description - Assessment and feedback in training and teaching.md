@@ -414,8 +414,20 @@ You may like to read an article about applying Kirkpatrick's methods. https://ww
  - Assessing Learner Reactions to Class Activities, Assignments, and Materials
 
 A description of the book written by the authors can be found [here](angelo_and_cross_assessment_techniques.pdf). 
-$$$
 
+$$$
+## Session objectives
+
+Develop an understanding of different types of feedback, when to give and receive feedback, and for which purpose.
+
+---
+
+## Session learning outcomes
+
+- Describe the differences between formative and summative assessment
+- Tell why frequent feedback is important
+- List and describe a few techniques for formative feedback
+---
 $$$
 
 {%endcomment%}
