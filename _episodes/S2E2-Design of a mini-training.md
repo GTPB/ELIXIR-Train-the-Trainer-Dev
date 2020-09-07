@@ -10,7 +10,7 @@ outcomes:
 - Know how to mockup a course.
 questions:
 - How to design a mini-training?
-slides_url: https://hackmd.io/@XMetaMaker/BkbnHJnQP#/49
+slides_url: https://hackmd.io/@AVqzE8o7Qu6EkjWoI56gZA/ByBbXmTQv#/49
 teaching: 10
 title: S2E2-Design of a mini-training
 
