@@ -71,7 +71,6 @@ https://www.youtube.com/watch?v=Z9orbxoRofI
 
 ---
 
-
 ### Skills for trainers
 
 <br/>
@@ -128,7 +127,6 @@ Write down some traits that you associate with a good trainer and describe them
 - Then share your thoughts with us
 
 ---
-
 
 
 ### Learning principles
