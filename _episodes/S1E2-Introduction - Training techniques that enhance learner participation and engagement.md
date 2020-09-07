@@ -7,7 +7,7 @@ outcomes:
 questions:
 - What steps should a trainer follow in order to prepare and deliver an effective
   course?
-slides_url: https://hackmd.io/@AVqzE8o7Qu6EkjWoI56gZA/ByBbXmTQv#/4
+slides_url: https://hackmd.io/@XMetaMaker/BkbnHJnQP#/4
 teaching: 18
 title: S1E2-Introduction - Training techniques that enhance learner participation
   and engagement
@@ -109,14 +109,13 @@ Feedback at the end of each session should be quick and simple. One example appr
 >According to experiment described in (Willingham, 2009), effective teachers have two qualities: they are able to connect personally with students, and they organise the material in a way that makes it interesting and easy to understand (the class is well organised).
 
 $$$
-
 ### Introduction
 
 <br/>
 
-- Episode description
-    - Objectives
-    - Learning outcomes
+- Section description
+    - Objectives:
+    - Learning outcomes:
 - Topics
     - Introductory video
     - Instruction design in 5 steps
@@ -136,8 +135,8 @@ https://www.youtube.com/watch?v=Z9orbxoRofI
 ![](../fig/Instruction_design_in_five_steps.png)
 
 ---
-
 $$$
+
 
 
 {%endcomment%}
