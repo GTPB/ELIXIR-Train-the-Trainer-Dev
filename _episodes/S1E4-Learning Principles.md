@@ -7,7 +7,7 @@ outcomes:
 questions:
 - What principles should a trainer apply to their course in order to allow for effective
   learning from their students.
-slides_url: https://hackmd.io/@AVqzE8o7Qu6EkjWoI56gZA/ByBbXmTQv#/12
+slides_url: https://hackmd.io/@XMetaMaker/BkbnHJnQP#/12
 teaching: 10
 title: S1E4-Learning Principles
 
@@ -614,12 +614,11 @@ Willingham DT (2009) Why Don't Students like School? Jossey-Bass, A Wiley Imprin
 
 
 $$$
-
 ### Learning principles
 
 <br/>
 
-- Section description
+- Episode description
     - Objectives:
     - Learning outcomes:
 - Topics
@@ -653,17 +652,26 @@ $$$
 
 ---
 
-### Challenge 4 - What is your understanding of the principles of learning (10 min)?
+![](../fig/How_Learning_Works.png)
 
-<br/>
-
+## Challenge 4 - What is your understanding of these learning principles?
 - Work in groups of three
 - Carefully read the principles as a group
 - Pick one principle you like (with no overlap with the other groups)
 - Discuss what you would do as a teacher/instructor to facilitate learning according to the principle
 
----
 
+## Challenge 5 - what is your understanding of these learning principles?
+### Example
+Principle 2: How students organise knowledge influences how they learn and apply what they know.
+<br/>
+Possible teaching practices:
+- Teach learners how to build and use concept maps
+- Provide learners with a scheme and show them how every new concept/fact fits into the scheme
+- Every time a new concept/fact is introduced, explain how it fits into the general picture
+
+---
 $$$
 
 {%endcomment%}
+
