@@ -10,7 +10,7 @@ questions:
 - What are the main takeaways from thsi session?
 slides_url: https://hackmd.io/@AVqzE8o7Qu6EkjWoI56gZA/ByBbXmTQv#/17
 teaching: 10
-title: 'S1E8-Wrap-up: Time to relax'
+title: 'S1E7-Wrap-up: Time to relax'
 
 ---
 
