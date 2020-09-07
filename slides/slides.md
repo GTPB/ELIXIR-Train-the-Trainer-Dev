@@ -44,14 +44,13 @@ slideOptions:
 ---
 
 
-
 ### Introduction
 
 <br/>
 
-- Episode description
-    - Objectives
-    - Learning outcomes
+- Section description
+    - Objectives:
+    - Learning outcomes:
 - Topics
     - Introductory video
     - Instruction design in 5 steps
@@ -71,7 +70,6 @@ https://www.youtube.com/watch?v=Z9orbxoRofI
 ![](../fig/Instruction_design_in_five_steps.png)
 
 ---
-
 
 
 ### Skills for trainers
