@@ -12,6 +12,9 @@ title: S3E4-Feedback
 
 ---
 
+[![hackmd-github-sync-badge](https://hackmd.io/lbfie_aZStCoUSnTqn6W5A/badge)](https://hackmd.io/lbfie_aZStCoUSnTqn6W5A)
+
+
 
 ## Fist of five feedback
 
