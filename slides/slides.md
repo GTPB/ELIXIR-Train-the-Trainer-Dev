@@ -67,7 +67,7 @@ https://www.youtube.com/watch?v=Z9orbxoRofI
 
 ## Instruction design in five steps
 
-![](../fig/Instruction_design_in_five_steps.png)
+![](https://i.imgur.com/hrnfYMk.png)
 
 ---
 
