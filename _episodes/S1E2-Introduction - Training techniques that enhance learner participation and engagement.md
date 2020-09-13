@@ -22,7 +22,8 @@ title: S1E2-Introduction - Training techniques that enhance learner participatio
 
 ## Instruction design in five steps
 
-![](../fig/Instruction_design_in_five_steps.png)
+![](https://i.imgur.com/hrnfYMk.png)
+
 
 
 {%comment%}
@@ -132,7 +133,7 @@ https://www.youtube.com/watch?v=Z9orbxoRofI
 
 ## Instruction design in five steps
 
-![](../fig/Instruction_design_in_five_steps.png)
+![](https://i.imgur.com/hrnfYMk.png)
 
 ---
 $$$
