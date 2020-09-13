@@ -191,7 +191,7 @@ def createLessonDict():
      
     return lessonDict
 
-
+# Function to extract slides information from a string (the string is usually the whole text from an episode file).
 def extractTextInfoToDict(lessonDict, text):
     episodeHeaderStringInfo = extractContent(text, yamlDocumentTag)
     episodeHeaderString = episodeHeaderStringInfo["content"]
