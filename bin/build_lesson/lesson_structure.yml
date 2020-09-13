@@ -5,8 +5,10 @@
 # their order, and session they belong to).
 # The 'lesson_build_wf.yml' workflow file calls the 'structure_lesson.py' python script, which
 # sorts the markdown files in the '_episodes' folder according to the structure defined below.
-# This is achieved by having the 'structure_lesson.py' script write the number of the episode
-# into the name of the corresponding file in the '_episodes' folder. 
+# This is achieved by having the 'structure_lesson.py' script write the number of session and
+# of the episode (within that session) into the name of the corresponding file in the '_episodes' folder.
+# This is done by adding a prefix of the form 'SIEJ-', where I is the session number and J is the episode
+# number (within that session).
 
 
 
@@ -23,6 +25,8 @@
 # The lesson structure is defined below.
 # 'lesson' is a list of lists. The top-level list corresponds to the sessions. Within each session we have a
 # list of episodes.
+# If you want to add an episode to the '_episodes' folder you should add it here as well, in the correct position
+# in the list. Otherwise it won't be recognised or it will be given the wrong 'SIEJ-' prefix.
 
 lesson:
  -
