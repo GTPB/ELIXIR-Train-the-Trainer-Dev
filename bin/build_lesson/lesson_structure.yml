@@ -2,8 +2,8 @@
 # ------------ SUMMARY ----------------
 # -------------------------------------
 # This yaml file defines some of the structure of the entire lesson (titles of each episode,
-# their order, and section they belong to).
-# The 'lesson_build.yml' workflow file calls the 'structure_lesson.py' python script, which
+# their order, and session they belong to).
+# The 'lesson_build_wf.yml' workflow file calls the 'structure_lesson.py' python script, which
 # sorts the markdown files in the '_episodes' folder according to the structure defined below.
 # This is achieved by having the 'structure_lesson.py' script write the number of the episode
 # into the name of the corresponding file in the '_episodes' folder. 
@@ -47,6 +47,10 @@ lesson:
 
 # ---- Lesson info ----
 
-# The base URL for the slides.  
+# The base URL for the slides.
+# The reason we call this the "slides_base_url is that it serves as the first part (or base) of the url for each slide.
+# Each slide will have a 'slide_number' and it will have a url given by:
+#
+# slides_base_url/slide_number
 
 slides_base_url: "https://hackmd.io/@AVqzE8o7Qu6EkjWoI56gZA/ByBbXmTQv#"
