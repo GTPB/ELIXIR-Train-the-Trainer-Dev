@@ -74,23 +74,30 @@ liquidCommentTag_ending = "{%endcomment%}"
 
 # The slides tag. Change it here if you wish to use another tag for the content of the slides. 
 slidesTag = "$$$"
-# The tag delimiting a document within a yaml file.
+# The tag delimiting a document within a yaml file. It is used in thsi script to detect the
+# beginning and ending of a yaml header.
 yamlDocumentTag = "---"
 # The tag that will be added to unrecognised files in the _episodes folder.
 unrecognisedTag = "Unrecognised-"
 # Folder where the episodes can be found.
 build_lessonFolderPath = "bin/build_lesson/"
-mockFolderPath = build_lessonFolderPath + "mock/"
+# When information is to be dumped into the yaml header of each episode file, we first dump it into
+# temporary file called 'temp.yml'. From this file we then extract it and write it into the yaml header
+# in the correct episode file. The reason for this is that the Python yaml.dump()
+# function seems to have some weird behaviour at times. This way we can better control what we end up writing.
 tempFilePath = build_lessonFolderPath + "temp.yml"
-episodesFolderPath = "_episodes/"
 # Location of the yaml file containing the structure of the lesson and some options
 lesson_structureFilePath = "bin/build_lesson/lesson_structure.yml"
+# Folder where the episodes can be found.
+episodesFolderPath = "_episodes/"
+# Folder where the slides can be found.
 slidesFolderPath = "slides/"
+# Filepath with the information to be added to the yaml header in the 'slides.md' file.
 slides_headerFilePath = slidesFolderPath + "slides_header.md"
+# Filepath with the information to be added to the end of each session in the 'slides.md' file.
 slides_end_of_sessionFilePath = slidesFolderPath + "slides_end_of_session.md"
+# Filepath to the 'slides.md' file.
 slidesFilePath = slidesFolderPath + "slides.md"
-
-
 
 
 # ---- Loads ----
@@ -131,12 +138,24 @@ def extractContent(text, beginningTag, endingTag = None):
     else:
         return None
 
-    
+# Function used to replace the string variable 'text' with 'newContent' at the positions specified by
+# 'content_begins' and 'content_ends'.
 def replaceContent(text, newContent, content_begins, content_ends):
     newText = text[:content_begins] + "\n" + newContent + "\n" + text[content_ends:]
     return newText
 
-
+# Function used to create a dictionary containing information pertaining to the episodes.
+# Here is the information it contains:
+#
+# - It is a dictionary where the keys are the episode titles.
+# - Each value in this dictionary is itself a dictionary, with the following keys:
+#   - sessionNumber (number of the session the episode belongs to)
+#   - episodeNumber (number of the episode within the session)
+#   - globalEpisodeNumber (number of the episode within the whole lesson)
+#   - prefix (prefix of the form 'SIEJ-', to be added to the an episode filename, where I is the sessionNumber and J the episodeNumber)
+#   - slidesContent (string containing the entire content of the slides in the episode)
+#   - slideCount (number of slides in the episode)
+#   - firstSlideNumber (number of the first slide of the episode)
 def createLessonDict():
     lessonDict = {}
     sessions = yamlLessonStructure["lesson"]
