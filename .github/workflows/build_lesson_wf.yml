@@ -1,8 +1,14 @@
-# This workflow is meant to generate the slides markdown file 'slides.md', which can be found in the
-# 'slides' folder.
+# This workflow is meant to do a few things:
+# 1. Generate the slides markdown file 'slides.md', which can be found in the 'slides' folder.
+# 2. Sort the episodes in the '_episodes' folder according to the 'lesson_structure.yml' file in 'bin/build_lesson' folder,
+# while naming each episode markdown file correctly, according to the title in its yaml header.
+#
 # It uses the 'build_lesson.py' python script, which can be found in the 'bin/build_lesson' folder.
 # This python script is responsible for extracting the right content from the markdown files (lesson episodes)
 # in the '_episodes' folder, generating the 'slides.md file' and placing it inside the 'slides' folder.
+# It also looks at the title in the yaml header of each episode markdown file and compares it to the titles in the
+# 'lesson_structure.yml' file. If it finds a match, it adds that same title to the filename of the correct episode file, plus
+# a prefix 'SIEJ-', where I is the session number and J is the episode number (within that session).
 
 name: build_lesson
 
