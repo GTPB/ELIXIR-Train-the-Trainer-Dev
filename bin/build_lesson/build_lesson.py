@@ -4,6 +4,10 @@
 # This python script is used by the build_lesson_wf.yml workflow to generate the 'slides.md' file (in the 'slides' folder) from
 # the set of episodes (.md files) contained in the '_episodes' folder. The 'slides.md' file should then be pulled to and synched
 # with a HackMD account so that the slides can be accessed and viewed by anyone with the proper HackMD link.
+#
+# This script also looks at the title in the yaml header of each episode markdown file and compares it to the titles in the
+# 'lesson_structure.yml' file. If it finds a match, it adds that same title to the filename of the correct episode file, plus
+# a prefix 'SIEJ-', where I is the session number and J is the episode number (within that session).
 
 
 
