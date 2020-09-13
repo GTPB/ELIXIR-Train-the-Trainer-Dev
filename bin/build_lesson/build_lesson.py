@@ -51,6 +51,7 @@ import yaml
 
 # Tag to open a comment section.
 liquidCommentTag_beginning = "{%comment%}"
+
 # Tag to close a comment section.
 liquidCommentTag_ending = "{%endcomment%}"
 
@@ -74,28 +75,38 @@ liquidCommentTag_ending = "{%endcomment%}"
 
 # The slides tag. Change it here if you wish to use another tag for the content of the slides. 
 slidesTag = "$$$"
+
 # The tag delimiting a document within a yaml file. It is used in thsi script to detect the
 # beginning and ending of a yaml header.
 yamlDocumentTag = "---"
+
 # The tag that will be added to unrecognised files in the _episodes folder.
 unrecognisedTag = "Unrecognised-"
+
 # Folder where the episodes can be found.
 build_lessonFolderPath = "bin/build_lesson/"
+
 # When information is to be dumped into the yaml header of each episode file, we first dump it into
 # temporary file called 'temp.yml'. From this file we then extract it and write it into the yaml header
 # in the correct episode file. The reason for this is that the Python yaml.dump()
 # function seems to have some weird behaviour at times. This way we can better control what we end up writing.
 tempFilePath = build_lessonFolderPath + "temp.yml"
+
 # Location of the yaml file containing the structure of the lesson and some options
 lesson_structureFilePath = "bin/build_lesson/lesson_structure.yml"
+
 # Folder where the episodes can be found.
 episodesFolderPath = "_episodes/"
+
 # Folder where the slides can be found.
 slidesFolderPath = "slides/"
+
 # Filepath with the information to be added to the yaml header in the 'slides.md' file.
 slides_headerFilePath = slidesFolderPath + "slides_header.md"
+
 # Filepath with the information to be added to the end of each session in the 'slides.md' file.
 slides_end_of_sessionFilePath = slidesFolderPath + "slides_end_of_session.md"
+
 # Filepath to the 'slides.md' file.
 slidesFilePath = slidesFolderPath + "slides.md"
 
@@ -336,13 +347,26 @@ def buildSlidesFile(lessonDict):
 # The proper script to be run starts here.
 
 
-
+# Firstly, we create the lesson dictionary, which contains some information about the whole lesson and its episodes.
 lessonDict = createLessonDict()
+
+# Next, we need to do some pre-processing.
+# Looking into each episode, determine whether or not it has a recognisable title and change the filename accordingly.
+# Then, update the lesson dictionary with some information pertaining to the slides.
 preProcessing(lessonDict)
+
+# This function has to run separately, in a second pass over all the episodes, because we need information that
+# was collected in the first pass (carried out in the preprocessing() function).
 addSlideNumbersToDict(lessonDict)
+
+# Now, equipped with all the information we need (in the lesson dictionary) we can go back to each of the files and
+# update their yaml headers.
 updateAllYamlHeaders(lessonDict)
+
+# We can finally build the slides file 'slides.md', with the information in the lesson dictionary.
 buildSlidesFile(lessonDict)
 
+# Before the end of the script we remove the temporary file, since it is no longer needed.
 os.remove(tempFilePath)
 
 
