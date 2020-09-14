@@ -36,7 +36,8 @@ Students' current level of development interacts with the social, emotional, and
 #### Principle P7:
 To become self-directed learners, students must learn to monitor and adjust their approaches to learning.
 
-![](../fig/How_Learning_Works.png)
+![](https://i.imgur.com/rRMuTLb.png)
+
 
 > ## Challenge 4 - What is your understanding of these learning principles?
 > - Work in groups of three
@@ -66,7 +67,7 @@ To become self-directed learners, students must learn to monitor and adjust thei
 ## Topics of session 1
  * [How learning works](#learn)
  * [Our pedagogical model](#model)
- * [The Bloom's six categories of cognitive skills](#bloom)
+ * [Bloom's six categories of cognitive skills](#bloom)
  * [Teaching Objectives and Learning Outcomes](#learning)
  * [Declarative and procedural knowledge](#declarative)
  * [What is formal and non-formal learning?](#formal)
@@ -326,7 +327,8 @@ Another model of learning, which is somehow related to the Bloom's six categorie
 See the [Dreyfus model on Wikipedia](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) and the [work of Patricia Benner](https://www.worldcat.org/search?q=au%3ABenner%2C+Patricia+E.&qt=hot_author#x0%253Abook-%2C%2528x0%253Abook%2Bx4%253Aprintbook%2529%2C%2528x0%253Abook%2Bx4%253Adigital%2529%2C%2528x0%253Abook%2Bx4%253Athsis%2529format).
 This model suggests that learners acquire skills through distinct stages of learning. Dreyfus identifies five stages:
 
-![Dreyfus model](fig/dreyfus-skill-acquisition-model.jpg)
+![](https://i.imgur.com/pNeWAJn.jpg)
+
 
 > #### From the [Carpentry Instructor Training](http://carpentries.github.io/instructor-training/) 
 > The carpentries propose a simplified form of the model consisting in:
@@ -349,7 +351,8 @@ Let's analyse the differences among these stages in terms of cognitive developme
 A mental model is a collection of concepts and facts, along with the relationships between those concepts, that a person has about a topic or field. It is how people organise their knowledge. You can think of a graph with nodes (facts, concepts) and edges (connections). 
 
 
-![Mental model example](fig/mental-model-example.png)
+![](https://i.imgur.com/EzKd0wI.png)
+
 
 
 > ### Challenge: What are the main differences between a novice and an expert in terms of knowledge and learning?
@@ -398,7 +401,8 @@ Misconceptions can be managed through **reflective practice**, i.e., practice fo
 
 Another very simple model of the mind, is the following (Willingham, 2009):
 
-![working memory model](fig/short-long-term-memory.jpg)
+![](https://i.imgur.com/qlM4r77.jpg)
+
 
 **Environment**: full of things to see and hear, problem to be solved etc. 
 
@@ -499,7 +503,8 @@ Examples:
 - A square is a figure and should be described using a figural medium
 - Split attention effect
 
-![split attention effect](fig/split-attention-effect.png)
+![](https://i.imgur.com/I9BldMo.png)
+
 
 Cognitive load theory’s proponents claim that eliminating extraneous cognitive load accelerates learning.
 
@@ -511,7 +516,8 @@ Cognitive load theory’s proponents claim that eliminating extraneous cognitive
 - Mindset
 
 > From Ambrose et al. 2010
-![effects on motivation](fig/motivation-ambrose.jpg)
+![](https://i.imgur.com/OXORun1.png)
+
 >**Value**: the goal is valued (attainment value - satisfaction that one gains from mastery and accomplishment of a goal or task -, intrinsic value and motivation - the satisfaction that one gains simply from doing the task rather than from a parricular outcome of the task, instrumental value/extrinsic rewards - praise, punlic recognition, money, material goods, an interesting career, a high-status job, etc.) <br>
 >**Efficacy**: positive outcomes expectancies for success (growth vs fixed mindset) - Efficacy expetancies represent the belief that onw is capable of identifying, organising, initiating, and executing a course of action that will bring about a desired outcome (Bandura, 1997). So, in order to hold a positive expectancy for success, a student must not only believe that doing the assigned work can earn a passing grade (growth mindset), she must also believe that she is capable of doing the work necessary to earn a passing grade<br>
 >**Environment**: complex dynamics of the classroom, its tone, the interpersonal forces at play, the nature and structure of communication patterns. E.g. "The instructor is approachable and several of my classmates seem willing to help me if I run into troubles". <br>
