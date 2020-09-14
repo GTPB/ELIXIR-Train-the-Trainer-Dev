@@ -23,7 +23,8 @@ title: S1E6-Strategies for active, interactive and collaborative learning
 
 _Waldrop, Nature 2015_
 
-![](../fig/Strategies_for_Active_Learning.jpg)
+![](https://i.imgur.com/0HVvM9B.png)
+
 
 
 
