@@ -248,7 +248,8 @@ A group of educators, led by Benjamin Bloom, identified a hierarchy of six categ
 4.	**Analyze/Predict** - performance requires analysis and prediction, using rules;
 5.	**Create/ Synthesize** - performance yields something innovative and novel, creating, describing and justifying something new from existing things/ideas;
 
-![Bloom's taxonomy](fig/blooms-taxonomy.jpg)
+![](https://i.imgur.com/bLUBV7j.jpg)
+
 
 The representation of the Bloom's hierarchy using a pyramid is aimed at stressing that "knowledge " is the foundation of everything: without knowledge, there is no comprehension, with no comprehension there is no application, and so forth. 
 Critical thinking - which is the highest goal of learning - is only possible if it lays on the solid bases of the other five categories.
