@@ -875,7 +875,7 @@ Develop an understanding of different types of feedback, when to give and receiv
 
 ## Different ways to categorize assessment
 
-![](../fig/Categories_Of_Assessment.png)
+![](https://i.imgur.com/w15CD4A.png)
 
 ---
 
