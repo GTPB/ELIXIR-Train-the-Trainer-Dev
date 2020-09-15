@@ -181,6 +181,9 @@ Write down some traits that you associate with a good trainer and describe them
 ### Challenge 5 - what is your understanding of these learning principles?
 #### Example
 Principle 2: How students organise knowledge influences how they learn and apply what they know.
+
+---
+
 <br/>
 Possible teaching practices:
 - Teach learners how to build and use concept maps
