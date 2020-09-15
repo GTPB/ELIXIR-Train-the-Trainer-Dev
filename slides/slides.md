@@ -277,7 +277,7 @@ Learners who actively engage with course materials will end up retaining it for 
 
 _Waldrop, Nature 2015_
 
-![](../fig/Strategies_for_Active_Learning.jpg)
+![](https://i.imgur.com/0HVvM9B.png)
 
 ---
 
