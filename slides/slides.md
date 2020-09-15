@@ -466,6 +466,7 @@ How learning works
 [Random Thoughts - How Learning Works](../files/Ambrose_RandomThoughts_HowLearningWorks.pdf)
 
 ---
+
 # End of Session
 
 ---
@@ -870,6 +871,7 @@ What did you learn in this session?
 ## Time to relax!
 
 ---
+
 # End of Session
 
 ---
@@ -1055,6 +1057,7 @@ Trainees feedback should be considered along other forms of quality evidence:
 [http://bit.ly/2Xgr3cI](http://bit.ly/2Xgr3cI)
 
 ---
+
 # End of Session
 
 ---
