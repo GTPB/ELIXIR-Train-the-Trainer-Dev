@@ -7,4 +7,4 @@ Below you will find a careful explanation of how to edit each file. If you want 
 - []
 
 
-The links take you to the **.github/workflows** folder and to the  **bin/build_lesson**folder, respectively
+The links take you to the **.github/workflows** folder and to the  **bin/build_lesson**folder, respectively. Both of them are folders in this repository.
