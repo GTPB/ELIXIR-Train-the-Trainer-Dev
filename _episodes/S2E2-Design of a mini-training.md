@@ -468,7 +468,7 @@ $$$
 
 ## Concept map
 
-![](../fig/Concept_Map_Example.png)
+![](https://i.imgur.com/eF8ODCF.png)
 
 ---
 
@@ -478,7 +478,7 @@ What is this supposed to look like?
 
 ---
 
-![](../fig/Concept_Map_Structure.png)
+![](https://i.imgur.com/9tFHK7t.png)
 
 ---
 
@@ -564,7 +564,7 @@ How to give feedback?
 
 ## Constructive feedback
 
-![](../fig/Constructive_Feddback.png)
+![](https://i.imgur.com/fiThDwz.png)
 
 ---
 
