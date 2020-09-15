@@ -963,7 +963,7 @@ Develop an understanding of different types of feedback, when to give and receiv
 
 ## Fist of five feedback
 
-![](../fig/Fist_Of_Five_Feedback.png)
+![](https://i.imgur.com/W1JyGUz.png)
 
 ---
 
@@ -974,7 +974,7 @@ Develop an understanding of different types of feedback, when to give and receiv
 - Attention span: 10-15 min 
 - Refocus attention
 
-![](../fig/Attention_Curve.png)
+![](https://i.imgur.com/bvNsKj0.png)
 
 ---
 
@@ -995,13 +995,13 @@ This is Instant Feedback.
 - Assessing learner reactions to class activities, assignments, and materials thus giving instructors information that will help them improve their course materials and assignments.
 - Assessing learner reactions to course organisational aspects, thus providing the organiser information that will help him or her to improve the course organisation;
 
-![](../fig/Feedback_From_Learners.png)
+![](https://i.imgur.com/Esk9qub.png)
 
 ---
 
 ## Feedback is hard
 
-![](../fig/Feedback_Is_Hard_Cartoon.png)
+![](https://i.imgur.com/d6WF7T7.png)
 
 ---
 
@@ -1024,7 +1024,7 @@ Trainees feedback should be considered along other forms of quality evidence:
 
 ### Learn and teach others how to give good feedback
 
-![](../fig/Good_Feedback_Cartoon.png)
+![](https://i.imgur.com/TYlzZRn.png)
 
 ---
 
