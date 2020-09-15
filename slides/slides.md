@@ -889,7 +889,7 @@ Develop an understanding of different types of feedback, when to give and receiv
 
 ## Challenge 1 - Who would feel comfortable with giving a definition of "formative assessment"? (5 min)
 
-![](../fig/Define_Assessment.png)
+![](https://i.imgur.com/dR5UgeP.png)
 
 [Fill out his form](http://bit.ly/2VZA8Fr)
 
@@ -897,7 +897,7 @@ Develop an understanding of different types of feedback, when to give and receiv
 
 ## The purpose of formative assessment
 
-![](../fig/Formative_Summative.png)
+![](https://i.imgur.com/2APHMT4.png)
 
 ---
 
@@ -917,7 +917,7 @@ Develop an understanding of different types of feedback, when to give and receiv
 - Constantly monitor what is happening to students as they set about learning, as well as pay attention and investigate whether things are proceeding according to plan and as expected.
 - They also question their own methods so they might get better at ensuring that their students learn successfully.
 
-![](../fig/Best_Teachers.png)
+![](https://i.imgur.com/2HuMDL4.png)
 
 ---
 
@@ -931,7 +931,7 @@ Develop an understanding of different types of feedback, when to give and receiv
 
 ---
 
-![](../fig/Formative_Assessment_Forms.png)
+![](https://i.imgur.com/8e1nBPu.png)
 
 ---
 
@@ -941,15 +941,19 @@ Develop an understanding of different types of feedback, when to give and receiv
 
 #### [Socrative](https://b.socrative.com/)
 
-![](../fig/Socrative1.png)
+![](https://i.imgur.com/7rOD9co.png)
 
-![](../fig/Socrative2.png)
 
-![](../fig/Socrative3.png)
+![](https://i.imgur.com/C4iSMSk.png)
 
-![](../fig/Socrative4.png)
 
-![](../fig/Socrative5.png)
+![](https://i.imgur.com/VVIbDUI.png)
+
+
+![](https://i.imgur.com/f4SUCGN.png)
+
+
+![](https://i.imgur.com/x4K6CKf.png)
 
 ---
 
