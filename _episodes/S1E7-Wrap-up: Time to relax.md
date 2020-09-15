@@ -53,7 +53,8 @@ _Willingham, 2009_
 
 ## The 7 principles of learning
 
-![](../fig/Seven_Principles_of_Learning.png)
+![](https://i.imgur.com/3qGlSTj.png)
+
 
 [Ambrose, Susan A., et al. How Learning Works, John Wiley & Sons, Incorporated, 2010](https://extend.ecampusontario.ca/teacher-for-learning-how-learning-works/)
 
@@ -127,7 +128,7 @@ _Willingham, 2009_
 
 ## The 7 principles of learning
 
-![](../fig/Seven_Principles_of_Learning.png)
+![](https://i.imgur.com/3qGlSTj.png)
 
 [Ambrose, Susan A., et al. How Learning Works, John Wiley & Sons, Incorporated, 2010](https://extend.ecampusontario.ca/teacher-for-learning-how-learning-works/)
 
