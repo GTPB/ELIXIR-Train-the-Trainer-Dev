@@ -149,6 +149,7 @@ def extractContent(text, beginningTag, endingTag = None):
     else:
         return None
 
+ 
 # Function used to replace the string variable 'text' with 'newContent' at the positions specified by
 # 'content_begins' and 'content_ends'.
 def replaceContent(text, newContent, content_begins, content_ends):
@@ -191,7 +192,8 @@ def createLessonDict():
      
     return lessonDict
 
-# Function to extract slides information from a string (the string is usually the whole text from an episode file).
+# Function to extract slides information from a string variable called 'text' (the string is usually the whole text from an episode file).
+# It only extracts the information from markdown files that have a yaml header with a title that matches the titles in the 'lesson_structure.yml' file.
 def extractTextInfoToDict(lessonDict, text):
     episodeHeaderStringInfo = extractContent(text, yamlDocumentTag)
     episodeHeaderString = episodeHeaderStringInfo["content"]
@@ -231,7 +233,7 @@ def preProcessing(lessonDict):
     for fileName in fileList:
         fileParts = fileName.rsplit(".")
         # Extracting the entire contents of the markdown files (.md) and placing them in the string variable named 'text'.
-        if len(fileParts) == 2 and fileParts[1] == "md":
+        if len(fileParts) == 2 and fileParts[1] == "md" and fileParts[0] != "README":
             filePath = episodesFolderPath + fileName
             f = open(filePath, "r")
             text = f.read()
@@ -266,7 +268,6 @@ def addSlideNumbersToDict(lessonDict):
         lastEpisodeInfo = episodeInfo
         
     
-
 def updateFileYamlHeader(lessonDict, fileName):
     # Extracting the entire contents of the markdown files (.md) and placing them in the string variable named 'text'.
     f = open(episodesFolderPath + fileName, "r")
@@ -295,9 +296,7 @@ def updateFileYamlHeader(lessonDict, fileName):
         updatedFile = open(episodesFolderPath + fileName, "w")
         updatedFile.write(newText)
         updatedFile.close()
-    
    
-
 
 def updateAllYamlHeaders(lessonDict):
     # Preparing the list of files in the episodes folder, so that we can loop over it.
@@ -308,7 +307,7 @@ def updateAllYamlHeaders(lessonDict):
             updateFileYamlHeader(lessonDict, fileName)
 
 
-# Writing the content of the slides to a file named 'slides.md' (in a folder also named 'slides').
+# Function used to write the content of the slides to a file named 'slides.md' (in a folder also named 'slides').
 # We need to access the 'lessonDict' variable to get the slides' content for each episode. Then we can put them all together.
 def buildSlidesFile(lessonDict):
     # The content in 'slidesOptionsFile.md' needs to be at the beginning of the 'slides.md' file, so that HackMD can configure
@@ -347,7 +346,7 @@ def buildSlidesFile(lessonDict):
 # The proper script to be run starts here.
 
 
-# Firstly, we create the lesson dictionary, which contains some information about the whole lesson and its episodes.
+# Firstly, we create the lesson dictionary, which will contain some information about the whole lesson and its episodes.
 lessonDict = createLessonDict()
 
 # Next, we need to do some pre-processing.
