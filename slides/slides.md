@@ -666,7 +666,7 @@ How to give feedback?
 
 ## Instruction design in five steps
 
-![](../fig/Instruction_design_in_five_steps.png)
+![](https://i.imgur.com/4PGnK8r.png)
 
 _Nicholls G (2002). Developing teaching and learning in higher education. London, UK: Routledge. Pp 51-75_
 
@@ -674,7 +674,8 @@ _Nicholls G (2002). Developing teaching and learning in higher education. London
 
 ## lesson/session plan
 
-![](../fig/Lesson_Session_Plan.png)
+![](https://i.imgur.com/4SZey73.png)
+
 
 ---
 
