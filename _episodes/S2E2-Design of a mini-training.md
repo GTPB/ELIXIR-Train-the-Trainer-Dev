@@ -48,13 +48,15 @@ title: S2E2-Design of a mini-training
 
 ## Concept map
 
-![](../fig/Concept_Map_Example.png)
+![](https://i.imgur.com/WwrHmvY.png)
+
 
 ## Concept map - FAIR principles
 Parking lot?
 What is this supposed to look like?
 
-![](../fig/Concept_Map_Structure.png)
+![](https://i.imgur.com/PtkvTwH.png)
+
 
 ## Concept maps - How to use the tool
 - Concept maps are graphical tools for organizing and representing knowledge
@@ -129,7 +131,8 @@ How to give feedback?
 
 ## Constructive feedback
 
-![](../fig/Constructive_Feddback.png)
+![](https://i.imgur.com/Lgb5GcI.png)
+
 
 
 ## Discussions/feedback
@@ -174,12 +177,14 @@ How to give feedback?
 > **The concept map deals with a key concept that needs to be understood as a foundation for learning science. See the following example for the beginning of a concept map with a focus question and a parking lot with concepts to be included in the map:**
 > 
 > 
-> ![focus session and parking lot](fig/concept-map-parking-lot.jpg)
+> ![](https://i.imgur.com/eF8ODCF.png)
+
 > 
 > **An expert skeleton concept map**<br>
 > Now see the concept map that was drawn based on the parking lot from the previous figure. Some concepts were left in the parking lot for subsequent addition.
 > 
-> ![focus session and parking lot](fig/concept-map.jpg)
+> ![](https://i.imgur.com/9tFHK7t.png)
+
 
 **Activity (individual)**: Building up step by step the design of a very short lesson (three-minute session)
 - Choose a topic you think you can teach in three minutes. This can be **any** topic (how to make an origami bird, introduction to biochemistry, how bats recognise the presence of obstacles, the second law of Newton, how to draw a comic strip, etc);
