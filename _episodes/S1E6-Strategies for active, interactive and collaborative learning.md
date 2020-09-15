@@ -248,6 +248,9 @@ https://serc.carleton.edu/sp/library/interactive/
 - Brainstorming
 - Impromptu writing assignments
 - Hands-on activities
+
+---
+
 - Experiential learning events
 - Establish teamwork by agreement
 - Introduce blended multimedia materials
