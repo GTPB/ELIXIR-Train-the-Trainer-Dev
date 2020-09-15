@@ -659,17 +659,20 @@ $$$
 
 ---
 
-![](../fig/How_Learning_Works.png)
+![](https://i.imgur.com/8aQFZy3.png)
 
-## Challenge 4 - What is your understanding of these learning principles?
+---
+
+### Challenge 4 - What is your understanding of these learning principles?
 - Work in groups of three
 - Carefully read the principles as a group
 - Pick one principle you like (with no overlap with the other groups)
 - Discuss what you would do as a teacher/instructor to facilitate learning according to the principle
 
+---
 
-## Challenge 5 - what is your understanding of these learning principles?
-### Example
+### Challenge 5 - what is your understanding of these learning principles?
+#### Example
 Principle 2: How students organise knowledge influences how they learn and apply what they know.
 <br/>
 Possible teaching practices:
