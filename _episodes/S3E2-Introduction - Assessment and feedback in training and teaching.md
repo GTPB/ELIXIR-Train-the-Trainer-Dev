@@ -22,7 +22,8 @@ title: S3E2-Introduction - Assessment and feedback in training and teaching
 
 ## Different ways to categorize assessment
 
-![](../fig/Categories_Of_Assessment.png)
+![](https://i.imgur.com/w15CD4A.png)
+
 
 
 {%comment%}
@@ -38,7 +39,7 @@ $$$
 
 ## Different ways to categorize assessment
 
-![](../fig/Categories_Of_Assessment.png)
+![](https://i.imgur.com/w15CD4A.png)
 
 ---
 $$$
