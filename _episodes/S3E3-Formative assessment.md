@@ -6,7 +6,7 @@ outcomes:
 - Describe what formative assessment is and how to do it.
 questions:
 - What is formative assessment?
-slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/95
+slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/96
 teaching: 10
 title: S3E3-Formative assessment
 
