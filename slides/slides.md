@@ -755,7 +755,7 @@ Define training session structure/lesson plan (including indicative content, len
 
 - A well-written course aim will guide the generation of LOs
 
-![](../fig/Course_Aim.png)
+![](https://i.imgur.com/piDsVEW.png)
 
 - LOs should then be instantiated as activities and quality checks
   - Learning activities: scripts, slides, exercises, tutorials, …
