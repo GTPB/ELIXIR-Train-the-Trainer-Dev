@@ -184,8 +184,8 @@ Principle 2: How students organise knowledge influences how they learn and apply
 
 ---
 
-<br/>
-Possible teaching practices:
+Possible teaching practices  
+
 - Teach learners how to build and use concept maps
 - Provide learners with a scheme and show them how every new concept/fact fits into the scheme
 - Every time a new concept/fact is introduced, explain how it fits into the general picture
