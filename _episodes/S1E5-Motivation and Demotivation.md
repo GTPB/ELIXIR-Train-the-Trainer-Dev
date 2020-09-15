@@ -152,10 +152,12 @@ Examples of techniques that you can use to promote engagement in training:
 
 $$$
 ## Challenge 6 - Motivation
+  
 Think about a motivating experience in your life (as a student or as an instructor/teacher) and share it in the GDoc.
 
-![](https://i.imgur.com/fZVxchj.png)
+---
 
+![](https://i.imgur.com/fZVxchj.png)
 
 ---
 
@@ -165,6 +167,9 @@ Think about a motivating experience in your life (as a student or as an instruct
 - Intrinsic value
   - The satisfaction that one gains simply from doing the task rather than from a particular outcome of the task
   - It is the source of intrinsic motivation
+  
+---  
+  
 - Instrumental value/extrinsic rewards 
   - Praise
   - Public recognition
@@ -180,7 +185,10 @@ Think about a motivating experience in your life (as a student or as an instruct
 - Growth vs fixed mindset  
 - Efficacy expetancies represent the belief that one is capable of identifying, organising, initiating, and executing a course of action that will bring about a desired outcome (Bandura, 1997). 
 - Positive outcomes expectancies for success
-- Growth vs fixed mindset  
+- Growth vs fixed mindset
+
+---
+
 - Efficacy expetancies represent the belief that one is capable of identifying, organising, initiating, and executing a course of action that will bring about a desired outcome (Bandura, 1997). 
 - In order to hold a positive expectancy for success, learners must not only believe that doing the assigned work can earn a passing grade (growth mindset), they must also believe that they are capable of doing the work necessary to earn a passing grade
 
@@ -211,6 +219,9 @@ Share it with us.
 - Identify and reward what you value
 - Show your own passion and enthusiasm for the discipline
 - Build positive expectations
+
+---
+
 - Ensure alignment of objectives, assessments, and instructional strategies
 - Identify an appropriate level of challenge
 - Provide early success opportunities
