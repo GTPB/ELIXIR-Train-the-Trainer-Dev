@@ -1,4 +1,4 @@
-# Editing Guide
+# Episode-Editing Guide
 
 This is a guide for anyone who wants to edit these episodes. The reason for having such a guide is that, unlike other repositories, the episode files in this folder might undergo some extra automatic transformations after each edit/commit. They are also meant to be used both by GitHub Pages and HackMD, which requires some extra care with the formatting.
 
