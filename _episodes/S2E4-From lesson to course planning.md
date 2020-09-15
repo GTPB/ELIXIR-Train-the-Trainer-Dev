@@ -42,7 +42,8 @@ title: S2E4-From lesson to course planning
 
 - A well-written course aim will guide the generation of LOs
 
-![](../fig/Course_Aim.png)
+![](https://i.imgur.com/piDsVEW.png)
+
 
 - LOs should then be instantiated as activities and quality checks
   - Learning activities: scripts, slides, exercises, tutorials, …
@@ -157,7 +158,7 @@ $$$
 
 - A well-written course aim will guide the generation of LOs
 
-![](../fig/Course_Aim.png)
+![](https://i.imgur.com/piDsVEW.png)
 
 - LOs should then be instantiated as activities and quality checks
   - Learning activities: scripts, slides, exercises, tutorials, …
