@@ -27,7 +27,7 @@ title: S1E1-Session description - Training techniques that enhance learner parti
 
 $$$
 
-## Training Techniques to enhance learner participation and engagement for Patricia
+## Training Techniques to enhance learner participation and engagement
 
 ---
 
