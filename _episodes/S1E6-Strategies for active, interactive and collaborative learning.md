@@ -12,7 +12,7 @@ outcomes:
 - Know how to apply strategies that induce engagement.
 questions:
 - What strategies can a trainer apply?
-slides_url: https://hackmd.io/@AVqzE8o7Qu6EkjWoI56gZA/ByBbXmTQv#/25
+slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/25
 teaching: 10
 title: S1E6-Strategies for active, interactive and collaborative learning
 

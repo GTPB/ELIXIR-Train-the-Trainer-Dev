@@ -6,7 +6,7 @@ outcomes:
 - Clearly identify the relevant sets of skills of a trainer.
 questions:
 - What skills should trainers have?
-slides_url: https://hackmd.io/@AVqzE8o7Qu6EkjWoI56gZA/ByBbXmTQv#/7
+slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/7
 teaching: 5
 title: S1E3-Skills for Trainers
 

@@ -6,7 +6,7 @@ outcomes:
 - Describe the different ways in which one can assess students..
 questions:
 - In what ways can one assess?
-slides_url: https://hackmd.io/@AVqzE8o7Qu6EkjWoI56gZA/ByBbXmTQv#/85
+slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/85
 teaching: 5
 title: S3E2-Introduction - Assessment and feedback in training and teaching
 
