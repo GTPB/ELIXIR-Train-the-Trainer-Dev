@@ -149,7 +149,9 @@ _Willingham, 2009_
 
 2. Be explicit about learning goals, learning objectives and expectations (P3, P5, P6). Goals challenging but attainable.
 
-3. Scaffold complex tasks (P2-P7). Teach and test at the right level, think about your audience
+3. Scaffold complex tasks (P2-P7). Teach and test at the right level, think about your audience.
+
+---
 
 4. Let learners formulate solutions before moving to work on new problems. Have them reflect on what they learned, and what they will do differently in the future (P2, P4, P7).
 
