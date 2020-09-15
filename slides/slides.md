@@ -5,7 +5,7 @@ slideOptions:
 ---
 
 
-## Training Techniques to enhance learner participation and engagement for Patricia
+## Training Techniques to enhance learner participation and engagement
 
 ---
 
