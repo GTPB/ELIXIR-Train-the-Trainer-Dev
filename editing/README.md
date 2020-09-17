@@ -51,11 +51,11 @@ slides
 
 #### HackMD
 
-#### Setting up HackMD
+#### Setting Up HackMD
 
-##### HackMD account
+##### HackMD Account
 
-##### Browser extension
+##### Browser Extension
 
 ##### Permissions
 
