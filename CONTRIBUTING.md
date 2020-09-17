@@ -49,7 +49,7 @@ and to meet some of our community members.
     please work in <https://github.com/swcarpentry/FIXME>,
     which can be viewed at <https://swcarpentry.github.io/FIXME>.
     Editing the episodes of this lesson can be done in the [\_episodes](_episodes) folder.
-    We recommend reading the [Editing Guide](editing).   
+    We recommend reading the [Editing Guide](editing) beforehand.   
 
 2.  If you wish to change the example lesson,
     please work in <https://github.com/carpentries/lesson-example>,
