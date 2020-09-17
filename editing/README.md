@@ -13,7 +13,7 @@
       - [Slides Content](#Slides-Content)
   - [Editing](#Editing)
     - [Main concerns](#Main-concerns)
-    - [HackMD](#HackMD)
+    - [HackMD Editing](#HackMD-Editing)
       - [Setting Up HackMD](#Setting-Up-HackMD)
         - [HackMD Account](#HackMD-Account)
         - [Browser Extension](#Browser-Extension)
@@ -23,6 +23,7 @@
         - [HackMD Basics](#HackMD-Basics)
           - [Notes](#Notes)
           - [Push and Pull](#Push-and-Pull)
+    - [GitHub Editing](#GitHub-Editing)
 
 ## Summary
 
@@ -65,7 +66,7 @@ The second folder contains the actual script that is run by the aforementioned w
 images
 slides
 
-#### HackMD
+#### HackMD Editing
 
 #### Setting Up HackMD
 
@@ -93,3 +94,5 @@ slides
 - if you forget to pull
 
 - don't switch
+
+#### GitHub Editing
