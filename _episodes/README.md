@@ -5,7 +5,7 @@
 - [Summary](#Summary)
 - [Introduction](#Introduction)
 - [Editing Instructions and Guidelines](#Editing Instructions and Guidelines)
-- [Episode File Structure](#Editing Instructions and Guidelines)
+- [Episode File Structure](#Episode File Structure)
 
 ## Summary
 
