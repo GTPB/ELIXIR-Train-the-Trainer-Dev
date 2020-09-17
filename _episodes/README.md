@@ -4,7 +4,8 @@ This is a guide for anyone who wants to edit these episodes. The reason for havi
 
 Below you will find a careful explanation of how to edit each file. If you want to dig a bit deeper and better understand some of the transformations that the files might undergo, as well as the scripts that execute them, you can check these links:
 
-- []
+- [](../tree/gh-pages/bin/build_lesson)
+-[](../tree/gh-pages/bin/build_lesson)
 
 
 The links take you to the **.github/workflows** folder and to the  **bin/build_lesson**folder, respectively. Both of them are folders in this repository.
