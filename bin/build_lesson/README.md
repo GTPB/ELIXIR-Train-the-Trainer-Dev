@@ -1,7 +1,7 @@
 # Summary
 This folder contains the python script and yaml file used by the **build_lesson_wf.yml**
-workflow file (which can be found in .github/workflows) to properly structure the lesson
-and generate the slides markdown file (which can be found in the 'slides' folder).  
+workflow file (which can be found in [this folder](.github/workflows)) to properly structure the lesson
+and generate the slides markdown file (which can be found in the [slides](../../slides) folder).  
 
 <br/>
 
