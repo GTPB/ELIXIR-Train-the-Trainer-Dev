@@ -5,7 +5,8 @@
 - [Summary](#Summary)
 - [Introduction](#Introduction)
 - [Editing Instructions and Guidelines](#Editing-Instructions-and-Guidelines)
-- [Episode File Structure](#Episode-File-Structure)
+  - [Episode File Structure](#Episode-File-Structure)
+    - [YAML Header](#YAML-Header)
 
 ## Summary
 
