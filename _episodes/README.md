@@ -8,4 +8,4 @@ Below you will find a careful explanation of how to edit each file. If you want 
 - [Lesson-building scripts](../bin/build_lesson)
 
 
-The links take you to the **.github/workflows** folder and to the  **bin/build_lesson**folder, respectively. Both of them are folders in this repository.
+The links take you to the **.github/workflows** folder and to the  **bin/build_lesson** folder, respectively. Both of them are folders in this repository.
