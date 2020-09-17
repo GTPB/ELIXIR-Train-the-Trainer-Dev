@@ -15,7 +15,7 @@ of the session it belongs to (for more details regarding this part read below).
 
 By "generate the slides markdown file" we mean the following:
 1. Extracting the (properly tagged) content from all the episode files and putting it all into one file called
-**slides.md** (in the 'slides' folder).
+**slides.md** (in the **slides** folder).
 
 <br/>
 <br/>
@@ -56,7 +56,7 @@ Liquid is a template language used by Jekyll.
 ### Slides content
 
 Within the the Liquid comments, one can tag content meant to show up on the slides, but not on the website. The tag itself can be easily
-modified in the slide_generation.py script, by changing the string assigned to the slidesTag variable. Currently, the tag is $$$. See the example below:
+modified in the **build_lesson.py** script, by changing the string assigned to the **slidesTag** variable. Currently, the tag is **$$$**. See the example below:
 
 ~~~
 {%comment%}
@@ -74,7 +74,7 @@ Some other comment.
 {%endcomment%}
 ~~~
 
-If you wish to change the slides tag, just look under the **'PRELIMINARY DEFINITIONS AND OPERATIONS'** section, in the **slides_generation.py** script:
+If you wish to change the slides tag, just look under the **'PRELIMINARY DEFINITIONS AND OPERATIONS'** section, in the **build_lesson.py** script:
 
 ~~~
 # ----------------------------------------------------------------
@@ -90,8 +90,8 @@ Under this section you will find, at one point, the following piece of code:
 slidesTag = "$$$"
 ~~~
 
-You can change the 'slidesTag' variable to whatever string you wish. Keep in mind, though, that if you do that you should also change the tag in the
-episode files where it is used, otherwise the slides content will not be properly identified by the **slides_generation.py** script.
+You can change the **slidesTag** variable to whatever string you wish. Keep in mind, though, that if you do that you should also change the tag in the
+episode files where it is used, otherwise the slides content will not be properly identified by the **build_lesson.py** script.
 
 <br/>
 
