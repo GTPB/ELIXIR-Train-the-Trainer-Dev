@@ -46,6 +46,9 @@ The second folder contains the actual script that is run by the aforementioned w
 
 #### Main concerns
 
+images
+slides
+
 #### HackMD
 
 #### Setting up HackMD
