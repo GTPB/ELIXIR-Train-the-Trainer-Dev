@@ -1,5 +1,9 @@
 # Episode-Editing Guide
 
+## Table Of Contents
+
+[Summary](#Summary)
+
 ## Summary
 
 This is a guide for anyone who wants to edit these episodes. The reason for having such a guide is that, unlike other repositories, the episode files in this folder might undergo some extra automatic transformations after each edit/commit. They are also meant to be used both by GitHub Pages and HackMD, which requires some extra care with the formatting.
@@ -52,7 +56,20 @@ The second folder contains the actual script that is run by the aforementioned w
 
 ###### HackMD Permissions
 
-####### Note 
+
+
+##### HackMD Basics
+
+###### Notes
+
+- Episode Notes
+- Slides Note
+
+###### Push and Pull
+
+- if you forget to pull
+
+- don't switch
 
 
 
