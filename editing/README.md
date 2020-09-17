@@ -24,6 +24,8 @@
           - [Notes](#Notes)
           - [Push and Pull](#Push-and-Pull)
     - [GitHub Editing](#GitHub-Editing)
+    - [Editing the YAML Header](#Editing-the-YAML-Header)
+  - [File Naming](#File-Naming)
 
 ## Summary
 
@@ -96,3 +98,7 @@ slides
 - don't switch
 
 #### GitHub Editing
+
+#### Editing the YAML Header
+
+### File Naming
