@@ -39,7 +39,7 @@ This is a guide for anyone who wants to edit these episodes. The reason for havi
 
 ## Introduction
 
-Below you will find a careful explanation of how to edit each file. If you want to dig a bit deeper and better understand some of the transformations that the files might undergo, as well as the scripts that execute them, you can check these links:
+Below you will find a careful explanation of how to edit each file. Despite not being strictly necessary, if you want to dig a bit deeper and better understand some of the transformations that the files might undergo, as well as the scripts that execute them, you can check these links:
 
 - [Workflows](../.github/workflows)
 - [Lesson-building scripts](../bin/build_lesson)
