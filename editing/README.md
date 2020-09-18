@@ -111,7 +111,7 @@ title: S1E1-Session description - Training techniques that enhance learner parti
 
 <br/>
 
-The information in the YAML header is chiefly responsible for generating the header in the corresponding website and episode (which follows a _Carpentries_ template), as well as the **Key Points** section (which can be found at the bottom of the episode page). **Example 1** above would generate the following header and **Key Points** section (**Fig 1** and **Fig 2**):
+The information in the YAML header is chiefly responsible for generating the header in the corresponding website and episode (which follows a _Carpentries_ template), as well as the **Key Points** section (which, if it exists, can be found at the bottom of the each episode page). **Example 1** above would generate the following header and **Key Points** section (**Fig 1** and **Fig 2**):
 
 <br/>
 
