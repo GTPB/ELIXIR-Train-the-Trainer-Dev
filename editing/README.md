@@ -15,6 +15,7 @@
       - [Slides Content](#Slides-Content)
   - [Editing](#Editing)
     - [Main concerns](#Main-concerns)
+    - [File Creation and Naming](#File-Creation-and-Naming)
     - [HackMD Editing](#HackMD-Editing)
       - [Setting Up HackMD](#Setting-Up-HackMD)
         - [HackMD Account](#HackMD-Account)
@@ -27,7 +28,6 @@
           - [Push and Pull](#Push-and-Pull)
     - [GitHub Editing](#GitHub-Editing)
     - [Editing the YAML Header](#Editing-the-YAML-Header)
-  - [File Naming](#File-Naming)
   
 <br/>
 
