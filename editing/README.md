@@ -135,7 +135,7 @@ The information in the YAML header is chiefly responsible for generating the hea
 
 ### Editing
 
-#### Main concerns
+#### Main Concerns
 
 images
 slides
