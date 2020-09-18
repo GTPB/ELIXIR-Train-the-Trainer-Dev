@@ -9,7 +9,7 @@
 - [Editing Instructions and Guidelines](#Editing-Instructions-and-Guidelines)
   - [Episode File Structure](#Episode-File-Structure)
     - [YAML Header](#YAML-Header)
-    - [Main Body](#Main-Body)
+    - [Website Content](#Website-Content)
     - [Liquid Comment Section](#Liquid-Comment-Section)
       - [GitHub-Only](#GitHub-Only)
       - [Slides Content](#Slides-Content)
