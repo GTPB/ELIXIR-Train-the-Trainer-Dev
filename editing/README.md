@@ -23,9 +23,9 @@
         - [Permissions](#Permissions)
           - [GitHub Permissions](#GitHub-Permissions)
           - [HackMD Permissions](#HackMD-Permissions)
-        - [HackMD Basics](#HackMD-Basics)
-          - [Notes](#Notes)
-          - [Push and Pull](#Push-and-Pull)
+      - [HackMD Basics](#HackMD-Basics)
+        - [Notes](#Notes)
+        - [Push and Pull](#Push-and-Pull)
     - [GitHub Editing](#GitHub-Editing)
     - [Editing the YAML Header](#Editing-the-YAML-Header)
   
