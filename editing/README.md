@@ -1,5 +1,7 @@
 # Episode-Editing Guide
 
+<br/>
+
 ## Table Of Contents
 
 - [Summary](#Summary)
@@ -26,11 +28,14 @@
     - [GitHub Editing](#GitHub-Editing)
     - [Editing the YAML Header](#Editing-the-YAML-Header)
   - [File Naming](#File-Naming)
+  
+<br/>
 
 ## Summary
 
 This is a guide for anyone who wants to edit these episodes. The reason for having such a guide is that, unlike many simpler repositories, the episode files in this folder might undergo some extra automatic transformations after each edit/commit. They are also meant to be used both by GitHub Pages and HackMD, which requires some extra care with the formatting.
 
+<br/>
 
 ## Introduction
 
@@ -46,8 +51,11 @@ The first folder contains files that are meant to be executed by _GitHub Actions
 
 The second folder contains the actual script that is run by the aforementioned workflow, as well as a yaml file containing data pertaining to the episode titles and their relative order. It also contains a README.md file with further information.
 
+<br/>
 
 ## Editing Instructions and Guidelines
+
+<br/>
 
 ### Episode File Structure
 
@@ -61,6 +69,8 @@ The **Liquid Comment Section** can, in turn, be composed of two different subsec
 
 - **GitHub-Only**
 - **Slides Content**
+
+<br/>
 
 #### YAML Header
 
@@ -101,6 +111,8 @@ The information in the YAML header is chiefly responsible for generating the hea
 ![](editing_figs/YAML_Header)
 
 ![](editing_figs/Key_Points)
+
+<br/>
 
 #### Website Content
 
