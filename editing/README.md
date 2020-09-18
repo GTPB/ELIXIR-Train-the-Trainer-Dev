@@ -51,9 +51,58 @@ The second folder contains the actual script that is run by the aforementioned w
 
 ### Episode File Structure
 
+Each episode markdown file can be composed of three different sections, two of which can be omitted:
+
+- **YAML Header** (cannot be omitted) 
+- **Website Content**
+- **Liquid Comment Section**
+
+The **Liquid Comment Section** can, in turn, be composed of two different subsections, both of which can be omitted:
+
+- **GitHub-Only**
+- **Slides Content**
+
 #### YAML Header
 
-#### Main Body
+A section of this type should be found at the top of the episode file. It is the only one that cannot be omitted, otherwise the file will not be recognised as an episode. It follows the YAML syntax and looks as depicted below, although the order in which the key-value pairs appear might differ (in YAML the order of these pairs is not relevant for the correct parsing of the information therein contained).
+
+As you can see in the example below, there are seven keys (also referred to as fields):
+
+- exercises
+- keypoints
+- outcomes
+- questions
+- slides_url
+- teaching
+- title
+
+~~~
+---
+exercises: 0
+keypoints:
+- Reflect upon concepts around learning, training and teaching.
+- Internalize and learn to mentally structure several ideas and concepts related to
+  learning, training and teaching.
+outcomes:
+- Get a clear understanding of the goals of this session and of the skil the learners
+  are expected to acquire.
+questions:
+- What are the goals and intended learning outcomes of this session?
+slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/
+teaching: 3
+title: S1E1-Session description - Training techniques that enhance learner participation
+  and engagement
+
+---
+~~~
+
+The information in the YAML header is chiefly responsible for generating the header in the corresponding website and episode (which follows a _Carpentries_ template), as well as the **Key Points** section (which can be found at the bottom of the episode page). The example above would generate the following header and **Key Points** section:
+
+![](editing_figs/YAML_Header)
+
+![](editing_figs/Key_Points)
+
+#### Website Content
 
 #### Liquid Comment Section
 
@@ -67,6 +116,8 @@ The second folder contains the actual script that is run by the aforementioned w
 
 images
 slides
+
+#### File Creation and Naming
 
 #### HackMD Editing
 
@@ -101,4 +152,3 @@ slides
 
 #### Editing the YAML Header
 
-### File Naming
