@@ -86,6 +86,8 @@ As you can see in the example below, there are seven keys (also referred to as f
 - teaching
 - title
 
+
+**Example 1**
 ~~~
 ---
 exercises: 0
