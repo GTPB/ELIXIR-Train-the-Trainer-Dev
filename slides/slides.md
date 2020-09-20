@@ -4,6 +4,16 @@ slideOptions:
   theme: white
 ---
 
+<style>
+.reveal {
+  font-size: 30px;
+}
+body {
+        background: url(https://i.imgur.com/vzDYUFa.png);
+        background-size:cover;
+}
+</style>
+
 
 ## Training Techniques to enhance learner participation and engagement
 
