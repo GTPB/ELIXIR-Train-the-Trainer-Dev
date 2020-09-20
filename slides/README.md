@@ -27,9 +27,13 @@ This is a guide for anyone who wants to understand or edit these files.
 This is the file that contains the final slides content.
 When using HackMD and pulling from GitHub to generate the slides, pull this file as is.
 
+<br/>
+
 ### slides_end_of_session.md
 
 This file contains a simple section saying 'End Of Session', which is automatically added after the last slide from each session.
+
+<br/>
 
 ### slides_header.md
 
