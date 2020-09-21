@@ -31,26 +31,22 @@ $$$
 
 ### Overview
 
-- Session objectives and learning outcomes
+- Session Objectives and Learning Outcomes
 - Introduction
-- Theoretical Priciples and Resources
+- Theoretical Principles and Resources
 - How Does Learning Progress?
 - Working Memory, Long-Term Memory and Learning
 - Improving Working Memory
 - Wrap-up
 ---
 
-### Session objectives
-
-<br/>
+### Session Objectives
 
 - TBD
 
 ---
 
-### Session learning outcomes
-
-<br/>
+### Session Learning Outcomes
 
 - TBD
 
