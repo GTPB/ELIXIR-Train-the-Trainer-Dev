@@ -145,6 +145,8 @@ slides
 
 #### File Creation and Naming
 
+no duplicate names
+
 #### HackMD Editing
 
 #### Setting Up HackMD
