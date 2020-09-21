@@ -12,7 +12,7 @@ questions:
 - How to design a mini-training?
 slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/59
 teaching: 10
-title: S2E2-Design of a mini-training
+title: Design of a Mini-Training
 
 ---
 
