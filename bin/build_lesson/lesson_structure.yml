@@ -30,23 +30,32 @@
 
 lesson:
  -
-  - "Session description - Training techniques that enhance learner participation and engagement"
+  - "Session Description - Principles of learning and how they apply to training and teaching"
+  - "Introduction - Principles of learning and how they apply to training and teaching"
+  - "episode 3"
+  - "episode 4"
+  - "Wrap-up - Principles of learning and how they apply to training and teaching"
+ -
+  - "Session Description - Training techniques that enhance learner participation and engagement"
   - "Introduction - Training techniques that enhance learner participation and engagement"
   - "Skills for Trainers"
   - "Learning Principles"
   - "Motivation and Demotivation"
-  - "Strategies for active, interactive and collaborative learning"
-  - "Wrap-up: Time to relax"
+  - "Strategies for Active, Interactive and Collaborative Learning"
+  - "Wrap-up - Training techniques that enhance learner participation and engagement"
  - 
-  - "Session description - Design and plan session, course, materials"
-  - "Design of a mini-training"
-  - "From lesson to session plan"
-  - "From lesson to course planning"
+  - "Session Description - Design and plan session, course, materials"
+  - "Introduction - Design and plan session, course, materials"
+  - "Design of a Mini-Training"
+  - "From Lesson to Session Plan"
+  - "From Lesson to Course Planning"
+  - "Wrap-up - Design and plan session, course, materials"
  -
-  - "Session description - Assessment and feedback in training and teaching"
+  - "Session Description - Assessment and feedback in training and teaching"
   - "Introduction - Assessment and feedback in training and teaching"
-  - "Formative assessment"
+  - "Formative Assessment"
   - "Feedback"
+  - "Wrap-up - Assessment and feedback in training and teaching"
 
 
 # ---- Lesson info ----
