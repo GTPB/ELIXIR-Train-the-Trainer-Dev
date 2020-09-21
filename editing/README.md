@@ -149,6 +149,8 @@ no duplicate names
 
 name it whatever, but make sure it has an .md at the end
 
+do not add files with no yaml header - might not build the website
+
 #### HackMD Editing
 
 #### Setting Up HackMD
