@@ -9,7 +9,7 @@ questions:
 - What are the objectives and learning outcomes of this session?
 slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/93
 teaching: 10
-title: S3E1-Session description - Assessment and feedback in training and teaching
+title: Session Description - Assessment and feedback in training and teaching
 
 ---
 
