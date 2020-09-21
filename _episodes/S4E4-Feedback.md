@@ -6,9 +6,9 @@ outcomes:
 - Describe how to get and handle feedback.
 questions:
 - How to get and handle feedback?
-slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/108
+slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/30
 teaching: 10
-title: S3E4-Feedback
+title: S4E4-Feedback
 
 ---
 
