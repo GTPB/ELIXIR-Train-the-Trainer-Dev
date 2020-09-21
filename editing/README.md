@@ -147,6 +147,8 @@ slides
 
 no duplicate names
 
+name it whatever, but make sure it has an .md at the end
+
 #### HackMD Editing
 
 #### Setting Up HackMD
