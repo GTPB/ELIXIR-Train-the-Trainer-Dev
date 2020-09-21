@@ -6,10 +6,10 @@
 
 - [Summary](#Summary)
 - [Markdown Files](#Markdown-Files)
-  - [slides.md](#slides.md)
-  - [slides_end_of_session.md](#slides_end_of_session.md)
-  - [slides_header.md](#slides_header.md)
-- [Elixir_Background.png](#Elixir_Background.png)
+  - [slides.md](#slides)
+  - [slides_end_of_session.md](#slides_end_of_session)
+  - [slides_header.md](#slides_header)
+- [Elixir_Background.png](#Elixir_Background)
   
 <br/>
 
@@ -23,20 +23,20 @@ This is a guide for anyone who wants to understand or edit these files.
 
 <br/>
 
-### slides.md
+### slides
 
 This is the file that contains the final slides content.
 When using HackMD and pulling from GitHub to generate the slides, pull this file as is.
 
 <br/>
 
-### slides_end_of_session.md
+### slides_end_of_session
 
 This file contains a simple section saying 'End Of Session', which is automatically added after the last slide from each session.
 
 <br/>
 
-### slides_header.md
+### slides_header
 
 This file contains two sections:
 
@@ -57,7 +57,7 @@ The HTML/CSS <style> section carries information regarding:
 - The font size of the whole slide presentation.
 - The background for the whole slide presentation. In this case, it features an address that is recognised by HackMD as a reference to an image, which happens to be a white background with an **Elixir** logo on the bottom left. The background is set to cover each slide entorely.
 
-### Elixir_Background.png
+### Elixir_Background
 
 This is the background for the slides. This file is not really used by any script. It is simply stored in this folder as a reference. Integrating it into the slide presentation entails:
 
