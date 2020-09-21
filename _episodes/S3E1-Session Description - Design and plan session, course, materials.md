@@ -8,7 +8,7 @@ questions:
 - How should a trainer design a course?
 slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/52
 teaching: 5
-title: Session Description - Design and plan session, course, materials
+title: S3E1-Session Description - Design and plan session, course, materials
 
 ---
 
