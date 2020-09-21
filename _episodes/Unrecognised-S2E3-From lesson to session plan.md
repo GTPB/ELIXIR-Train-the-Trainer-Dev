@@ -9,7 +9,7 @@ questions:
 - What are the steps to designing a session of a course?
 slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/76
 teaching: 10
-title: S2E3-From lesson to session plan
+title: From Lesson to Session Plan
 
 ---
 
