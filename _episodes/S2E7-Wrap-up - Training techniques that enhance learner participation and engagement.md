@@ -10,7 +10,7 @@ questions:
 - What are the main takeaways from thsi session?
 slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/43
 teaching: 10
-title: Wrap-up - Training techniques that enhance learner participation and engagement
+title: S2E7-Wrap-up - Training techniques that enhance learner participation and engagement
 
 ---
 
