@@ -18,10 +18,7 @@ title: S1E1-Session Description - Principles of learning and how they apply to t
 
 
 ## Session objectives
-- Reflect on your experiences in training
-- Reflect on the 7 principles of learning
-- Show strategies to enhance learning
-- Practice good training strategies, and connect strategies to prior knowledge
+- TBD
 
 {%comment%}
 
