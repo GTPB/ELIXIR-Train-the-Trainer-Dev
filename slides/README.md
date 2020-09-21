@@ -6,9 +6,9 @@
 
 - [Summary](#Summary)
 - [Markdown Files](#Markdown-Files)
-  - [slides.md](#slides)
-  - [slides_end_of_session.md](#slides_end_of_session)
-  - [slides_header.md](#slides_header)
+  - [Slides](#Slides)
+  - [Slides End Of Session](#Slides-End-Of-Session)
+  - [Slides Header](#Slides-Header)
 - [Elixir_Background.png](#Elixir_Background)
   
 <br/>
@@ -56,6 +56,8 @@ The HTML/CSS <style> section carries information regarding:
   
 - The font size of the whole slide presentation.
 - The background for the whole slide presentation. In this case, it features an address that is recognised by HackMD as a reference to an image, which happens to be a white background with an **Elixir** logo on the bottom left. The background is set to cover each slide entorely.
+
+<br/>
 
 ### Elixir_Background
 
