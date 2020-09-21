@@ -9,6 +9,7 @@
   - [slides.md](#Slides.md)
   - [slides_end_of_session.md](#slides_end_of_session.md)
   - [slides_header.md](#slides_header.md)
+  - [Elixir_Background.png](Elixir_Background.png)
   
 <br/>
 
@@ -55,3 +56,11 @@ The HTML/CSS <style> section carries information regarding:
   
 - The font size of the whole slide presentation.
 - The background for the whole slide presentation. In this case, it features an address that is recognised by HackMD as a reference to an image, which happens to be a white background with an **Elixir** logo on the bottom left. The background is set to cover each slide entorely.
+
+### Elixir_Background.png
+
+This is the background for the slides. This file is not really used by any script. It is simply stored in this folder as a reference. Integrating it into the slide presentation entails:
+
+1. Adding it first as an image file on HackMD.
+2. Copying the address that is generated.
+3. Pasting the address into the slides_header.md file, at the right location (within the url() tag). 
