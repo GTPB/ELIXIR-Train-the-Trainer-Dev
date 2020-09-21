@@ -11,6 +11,6 @@ questions:
 - What are the goals and intended learning outcomes of this session?
 slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/
 teaching: 3
-title: Improving Working Memory
+title: S1E6-Improving Working Memory
 
 ---
