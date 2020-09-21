@@ -15,6 +15,39 @@ body {
 </style>
 
 
+## Principles of learning and how they apply to training and teaching
+
+---
+
+### Overview
+
+- Session objectives and learning outcomes
+- Introduction
+- Theoretical Priciples and Resources
+- How Does Learning Progress?
+- Working Memory, Long-Term Memory and Learning
+- Improving Working Memory
+- Wrap-up
+---
+
+### Session objectives
+
+<br/>
+
+- TBD
+
+---
+
+### Session learning outcomes
+
+<br/>
+
+- TBD
+
+---
+
+
+
 ## Training Techniques to enhance learner participation and engagement
 
 ---
