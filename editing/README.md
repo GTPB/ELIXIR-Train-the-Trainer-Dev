@@ -184,5 +184,8 @@ give it some time
 
 actions tab
 
+potential issues if you don't way long enough - warning that file might have been changed
+   what to do? - copy-paste
+
 #### Editing the YAML Header
 
