@@ -8,7 +8,7 @@ questions:
 - What is formative assessment?
 slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/97
 teaching: 10
-title: S3E3-Formative assessment
+title: S3E3-Formative Assessment
 
 ---
 
