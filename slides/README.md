@@ -55,7 +55,7 @@ The YAML header carries information regarding:
 The HTML/CSS <style> section carries information regarding:
   
 - The font size of the whole slide presentation.
-- The background for the whole slide presentation. In this case, it features an address that is recognised by HackMD as a reference to an image, which happens to be a white background with an **Elixir** logo on the bottom left. The background is set to cover each slide entorely.
+- The background for the whole slide presentation. In this case, it features an address that is recognised by HackMD as a reference to an image, which happens to be a white background with an **Elixir** logo on the bottom left. The background is set to cover each slide entirely.
 
 <br/>
 
