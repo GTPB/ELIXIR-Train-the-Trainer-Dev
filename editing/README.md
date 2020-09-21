@@ -176,7 +176,13 @@ no duplicate names
 
 - don't switch
 
+- give it some time
+
 #### GitHub Editing
+
+give it some time
+
+actions tab
 
 #### Editing the YAML Header
 
