@@ -5,8 +5,8 @@
 ## Table Of Contents
 
 - [Summary](#Summary)
-- [Markdown Files](#Markdown-Files.md)
-  - [slides.md](#Slides.md)
+- [Markdown Files](#Markdown-Files)
+  - [slides.md](#slides.md)
   - [slides_end_of_session.md](#slides_end_of_session.md)
   - [slides_header.md](#slides_header.md)
 - [Elixir_Background.png](Elixir_Background.png)
