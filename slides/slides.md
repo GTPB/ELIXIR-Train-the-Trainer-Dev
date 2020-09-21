@@ -14,6 +14,46 @@ body {
 }
 </style>
 
+
+## Training Techniques to enhance learner participation and engagement
+
+---
+
+### Overview
+
+- Session objectives and learning outcomes
+- Introduction
+- Skills for trainers
+- Learning principles
+- Motivation and demotivation
+- Strategies for active, interactive and collaborative learning
+- Wrap-up: time to relax
+
+---
+
+### Session objectives
+
+<br/>
+
+- Reflect on your experiences in training
+- Reflect on the 7 principles of learning
+- Show strategies to enhance learning
+- Practice good training strategies, and connect strategies to prior knowledge
+
+---
+
+### Session learning outcomes
+
+<br/>
+
+- Identify learning strategy facilitating active, interactive and collaborative learning
+- Describe what makes training effective
+- Describe what makes an effective trainer
+- List motivation and demotivation factors
+
+---
+
+
 ### Introduction
 
 <br/>
