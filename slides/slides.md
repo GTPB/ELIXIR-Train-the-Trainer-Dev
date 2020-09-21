@@ -516,13 +516,13 @@ How learning works
 - From lesson to session planning
 - From lesson to course planning
 
-## Session objectives
+## Session Objectives
 
 Learn how to design a course.
 
 ---
 
-## Session learning outcomes
+## Session Learning Outcomes
 
 Design and prepare a 3-minute minitraining
 
