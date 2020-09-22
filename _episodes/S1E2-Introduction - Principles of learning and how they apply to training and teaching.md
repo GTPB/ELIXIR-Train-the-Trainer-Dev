@@ -34,7 +34,7 @@ https://elixir-europe.org/events/code-of-conduct
 ## Introductions
 
 > Introductions set the stage for learning.  
-> _Tracy Teal, Executive Director, The Carpentries_
+>     _Tracy Teal, Executive Director, The Carpentries_
 
 ## Challenge 1: Your Intro (3min + 1min for each of you)
 
