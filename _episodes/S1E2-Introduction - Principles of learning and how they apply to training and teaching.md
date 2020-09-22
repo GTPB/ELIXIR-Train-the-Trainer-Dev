@@ -33,7 +33,7 @@ https://elixir-europe.org/events/code-of-conduct
 
 ## Introductions
 
-> Introductions set the stage for learning.
+> Introductions set the stage for learning.  
 > _Tracy Teal, Executive Director, The Carpentries_
 
 ## Challenge 1: Your Intro (3min + 1min for each of you)
@@ -64,10 +64,10 @@ https://elixir-europe.org/events/code-of-conduct
 **Day 2**
 
 - 9:00 - Morning session: **Session, course, and materials design**
-- 12:30 _Lunch break_
-- 13:30 Afternoon session: **Assessment and feedback in training**
-- 15:45 Wrap-up and feedback questionnaire
-- 16:00 _End of course_
+- 12:30 - _Lunch break_
+- 13:30 - Afternoon session: **Assessment and feedback in training**
+- 15:45 - Wrap-up and feedback questionnaire
+- 16:00 - _End of course_
 
 
 
