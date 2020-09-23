@@ -162,6 +162,7 @@ Think about a motivating experience in your life (as a student or as an instruct
 ---
 
 ## Value
+
 - Attainment value
   - Satisfaction that one gains from mastery and accomplishment of a goal or task 
 - Intrinsic value
@@ -176,7 +177,7 @@ Think about a motivating experience in your life (as a student or as an instruct
   - Money
   - Material goods
   - An interesting career
-  - A high-status job, etc.) 
+  - A high-status job, etc 
 
 ---
 
