@@ -126,6 +126,10 @@ https://elixir-europe.org/events/code-of-conduct
 - 17:45 - Wrap-up of the day
 - 18:00 - _End of the day_
 
+---
+
+## Schedule
+
 **Day 2**
 
 - 9:00 - Morning session: **Session, course, and materials design**
@@ -135,7 +139,6 @@ https://elixir-europe.org/events/code-of-conduct
 - 16:00 - _End of course_
 
 ---
-
 $$$
 
 {%endcomment%}
