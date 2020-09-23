@@ -104,7 +104,7 @@ title: S1E1-Session description - Training techniques that enhance learner parti
 
 <br/>
 
-As you can see in the example below, there are seven keys (also referred to as fields):
+As you can see in the example above, there are seven keys (also referred to as fields):
 
 - exercises
 - keypoints
