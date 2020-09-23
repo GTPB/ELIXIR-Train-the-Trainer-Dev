@@ -174,6 +174,10 @@ do not add files with no yaml header - might not build the website
 - Episode Notes
 - Slides Note
 
+###### HackMD Button
+
+github editor also opens (you will have to exit after, saying yes to not saving changes)
+
 ###### Push and Pull
 
 - if you forget to pull
@@ -183,6 +187,8 @@ do not add files with no yaml header - might not build the website
 - give it some time
 
 - first time vs every other time
+
+- exiting a note (issue)
 
 #### GitHub Editing
 
