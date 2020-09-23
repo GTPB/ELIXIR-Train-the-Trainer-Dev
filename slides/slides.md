@@ -927,6 +927,8 @@ How learning works
 - From lesson to session planning
 - From lesson to course planning
 
+---
+
 ## Session Objectives
 
 Learn how to design a course.
