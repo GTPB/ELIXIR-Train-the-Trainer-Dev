@@ -20,10 +20,20 @@ title: S1E3-Theoretical Priciples and Resources
 - How do people learn?
 - How does learning work?
 
+![](https://i.imgur.com/GKQ6EN7.png)
+
 
 ## Resources for you to learn more about how learning works
 
+![](https://i.imgur.com/1PgoUNf.jpg)
+
+
+
+
 ### The _Carpentries_ instructor training materials
+
+![](https://i.imgur.com/mLLzy3d.png)
+
 
 [http://carpentries.github.io/instructor-training/](http://carpentries.github.io/instructor-training/)
 
@@ -46,10 +56,14 @@ title: S1E3-Theoretical Priciples and Resources
 
 ## Learning theory
 
-There is no universal theory of learning, but evidence-based research results support some learning principles, which are today accepted and applied
+There is no universal theory of learning, but evidence-based research results support some learning principles, which are today accepted and applied.
+
+![](https://i.imgur.com/U5kzhNA.jpg)
+
 
 
 ## Six strategies for effective learning (based on evidence from cognitive research)
+
 
 
 _Six Strategies for Effective Learning_ by Yana Weinstein, Megan Smith & Oliver Caviglioli is licensed under a Create Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. It is based on work that can be found at [http://www.learningscientists.org, teachinghow2s.com/cogsci](http://www.learningscientists.org, teachinghow2s.com/cogsci)
