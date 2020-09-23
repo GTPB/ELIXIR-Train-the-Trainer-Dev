@@ -171,6 +171,8 @@ $$$
 
 There is no universal theory of learning, but evidence-based research results support some learning principles, which are today accepted and applied.
 
+---
+
 ![](https://i.imgur.com/U5kzhNA.jpg)
 
 ---
@@ -178,6 +180,8 @@ There is no universal theory of learning, but evidence-based research results su
 ## Six strategies for effective learning (based on evidence from cognitive research)
 
 ![](https://i.imgur.com/zs1NHjV.png)
+
+---
 
 _Six Strategies for Effective Learning_, by Yana Weinstein, Megan Smith & Oliver Caviglioli is licensed under a Create Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. It is based on work that can be found at [http://www.learningscientists.org, teachinghow2s.com/cogsci](http://www.learningscientists.org, teachinghow2s.com/cogsci)
 
@@ -207,6 +211,8 @@ Students motivation determines, directs and sustains what they do learn.
 
 #### Principle P4:
 To develop mastery, students must acquire component skills, practice integrating them, and know when to apply what they have learned.
+
+---
 
 #### Principle P5:
 Goal-directed practice coupled with targeted feedback enhances the quality of students' learning.
