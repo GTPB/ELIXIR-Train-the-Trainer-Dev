@@ -24,21 +24,34 @@ title: S1E6-Improving Working Memory
 
 ## Increasing background knowledge
 
+![](https://i.imgur.com/ZpsI8UM.png)
+
+
 Principle **P1**: Students' prior knowledge can help or hinder learning.
 
 ## How does learning progress?
 
 ### The Dreyfus model of skill acquisition
 
+![](https://i.imgur.com/83hHqVL.png)
+
 
 ### The Carpentries model of skill acquisition
+
+![](https://i.imgur.com/MqtFAuL.png)
 
 
 ## Mental models
 
 Mental model - A collection of concepts and facts, along with the relationships between those concepts, that a person has about a topic or field.
 
+![](https://i.imgur.com/LcX3r2T.png)
+
+
 Example: mental model of DNA
+
+![](https://i.imgur.com/J8nGdnt.png)
+
 
 ### Novice vs Competent Practitioner vs Expert
 
@@ -79,7 +92,14 @@ Experts’ mental models are much more densely connected. Therefore they can jum
 
 ### Attention split effect
 
+![](https://i.imgur.com/GvMRzj7.png)
+
 Split-attention occurs when learners are required to split their attention between at least two sources of information that have been separated either spatially or temporally.
+
+
+![](https://i.imgur.com/xNVGiL2.png)
+
+![](https://i.imgur.com/aEfW2Mb.png)
 
 
 ## Challenge: Extraneous cognitive load (10 min)
