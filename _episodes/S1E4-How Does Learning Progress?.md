@@ -9,7 +9,7 @@ outcomes:
   are expected to acquire.
 questions:
 - What are the goals and intended learning outcomes of this session?
-slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/9
+slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/
 teaching: 3
 title: S1E4-How Does Learning Progress?
 
@@ -18,10 +18,16 @@ title: S1E4-How Does Learning Progress?
 
 ## How does learning progress?
 
+![](https://i.imgur.com/0LidygS.png)
+
+
 
 ## Bloom's taxonomy
 
 ### Bloom's six categories of cognitive skills
+
+![](https://i.imgur.com/M4xZHFQ.png)
+
 
 ### Using Bloom's taxonomy
 
@@ -46,12 +52,14 @@ You may not end up assessing all of them, but they are statements of what a succ
 
 By the end of the lesson (session/course/instruction) the successful learner will be able to.........
 
+![](https://i.imgur.com/WvwHoQO.png)
+
 
 ### Writing learning outcomes using assessable verbs
 
 1. Think about what learners will be able to do by the end of instruction
 2. Use the sentence:
-  - By the end of the lesson (session/course/instruction) the successful learner will be able to......... 
+    - By the end of the lesson (session/course/instruction) the successful learner will be able to......... 
 3. Replace dots with a verb that you can assess (name, explain, solve, distinguish, etc.).
 4. Avoid verbs that are open to many interpretations: e.g., appreciate, have faith in, know, learn, understand, believe
 
