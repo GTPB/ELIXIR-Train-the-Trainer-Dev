@@ -44,6 +44,71 @@ body {
 
 
 
+## Introductory Information
+
+### Collaborative Document
+
+- TBD
+
+### Code of Conduct
+
+https://elixir-europe.org/events/code-of-conduct
+
+### Course Materials
+
+- TBD
+
+---
+
+## Introductions
+
+> Introductions set the stage for learning.  
+> _Tracy Teal, Executive Director, The Carpentries_
+
+---
+
+## Challenge 1: Your Intro (3min + 1min for each of you)
+
+- Take 1 min to think about 3 keywords that describe you (could be adjectives, interests, research topics, personal characteristics, etc)
+- Introduce yourself telling us:
+- Your name
+- Your affiliation / country
+- The 3 keywords that describe you
+- One thing you are proud of from the last month
+{: .challenge}
+
+---
+
+## Challenge 2: Your Expectations (3min)
+
+- Write down your expectations. What do you expect to take home from this course?
+{: .challenge}
+
+---
+
+## Schedule
+
+**Day 1**
+
+- 9:00 - Introductions & ELIXIR
+- 9:30 - Morning session: **Learning principles and how they apply to training and teaching**
+- 12:30 - _Lunch break_
+- 14:00 - Afternoon session: **Training techniques to enhance learner engagement and participation**
+- 17:45 - Wrap-up of the day
+- 18:00 - _End of the day_
+
+**Day 2**
+
+- 9:00 - Morning session: **Session, course, and materials design**
+- 12:30 - _Lunch break_
+- 13:30 - Afternoon session: **Assessment and feedback in training**
+- 15:45 - Wrap-up and feedback questionnaire
+- 16:00 - _End of course_
+
+---
+
+
+
 ## Training Techniques to enhance learner participation and engagement
 
 ---
