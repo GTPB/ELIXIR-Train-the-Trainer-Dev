@@ -73,7 +73,6 @@ https://elixir-europe.org/events/code-of-conduct
 {%comment%}
 
 $$$
-
 ## Introductory Information
 
 ### Collaborative Document
