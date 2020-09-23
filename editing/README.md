@@ -196,6 +196,8 @@ github editor also opens (you will have to exit after, saying yes to not saving 
 
 - exiting a note (issue)
 
+if you edit and then push slides file from hackMD to github it won't do anything
+
 #### GitHub Editing
 
 give it some time
@@ -204,6 +206,8 @@ actions tab
 
 potential issues if you don't way long enough - warning that file might have been changed
    what to do? - copy-paste
+   
+if you want the slides to work you still have to go to the TtT file on HackMD and pull
 
 #### Editing the YAML Header
 
