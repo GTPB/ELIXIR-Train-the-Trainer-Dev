@@ -79,16 +79,6 @@ The **Liquid Comment Section** can, in turn, be composed of two different subsec
 
 A section of this type should be found at the top of the episode file. It is the only one that cannot be omitted, otherwise the file will not be recognised as an episode. It follows the YAML syntax and looks as depicted below, although the order in which the key-value pairs appear might differ (in the YAML syntax the order of these pairs is not relevant for the correct parsing of the information therein contained).
 
-As you can see in the example below, there are seven keys (also referred to as fields):
-
-- exercises
-- keypoints
-- outcomes
-- questions
-- slides_url
-- teaching
-- title
-
 <br/>
 
 **Example 1**
@@ -111,6 +101,18 @@ title: S1E1-Session description - Training techniques that enhance learner parti
 
 ---
 ~~~
+
+<br/>
+
+As you can see in the example below, there are seven keys (also referred to as fields):
+
+- exercises
+- keypoints
+- outcomes
+- questions
+- slides_url
+- teaching
+- title
 
 <br/>
 
