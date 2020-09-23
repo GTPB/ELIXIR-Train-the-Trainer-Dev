@@ -64,9 +64,12 @@ There is no universal theory of learning, but evidence-based research results su
 
 ## Six strategies for effective learning (based on evidence from cognitive research)
 
+![](https://i.imgur.com/zs1NHjV.png)
 
+_Six Strategies for Effective Learning_, by Yana Weinstein, Megan Smith & Oliver Caviglioli is licensed under a Create Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. It is based on work that can be found at [http://www.learningscientists.org, teachinghow2s.com/cogsci](http://www.learningscientists.org, teachinghow2s.com/cogsci)
 
-_Six Strategies for Effective Learning_ by Yana Weinstein, Megan Smith & Oliver Caviglioli is licensed under a Create Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. It is based on work that can be found at [http://www.learningscientists.org, teachinghow2s.com/cogsci](http://www.learningscientists.org, teachinghow2s.com/cogsci)
+![](https://i.imgur.com/cyRoQaE.png)
+
 
 ## Challenge: How do you understand the six strategies for effective learning? (10 min)
 
@@ -107,10 +110,16 @@ To become self-directed learners, students must learn to monitor and adjust thei
 - Pick one principle that is not clear to you.
 - Ask one question.
 
+
+
 ## Challenge: Teaching or training? (3 min + 3 min)
+
+![](https://i.imgur.com/k6AW9or.png)
+
 
 - Based on your experience, what are in your opinion the differences between teaching and training?
 - Identify two main differences
 - Discuss them with your partner
 - Write them in the Gdoc (share them with us)
+
 
