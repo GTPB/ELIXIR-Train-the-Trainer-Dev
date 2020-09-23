@@ -63,8 +63,6 @@ The HTML/CSS <style> section carries information regarding:
 
 This is the background for the slides. This file is not really used by any script. It is simply stored in this folder as a reference.
 
-<img src="Elixir_Background.png" width="125" height="100">
-
 Integrating it into the slide presentation entails:
 
 1. Adding it first as an image file on HackMD.
