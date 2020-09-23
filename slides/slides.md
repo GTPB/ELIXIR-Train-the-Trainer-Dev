@@ -42,7 +42,6 @@ body {
 
 ---
 
-
 ## Introductory Information
 
 ### Collaborative Document
