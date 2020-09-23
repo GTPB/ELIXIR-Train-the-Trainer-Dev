@@ -14,7 +14,6 @@ body {
 }
 </style>
 
-
 ## Principles of learning and how they apply to training and teaching
 
 ---
@@ -28,6 +27,7 @@ body {
 - Working Memory, Long-Term Memory and Learning
 - Improving Working Memory
 - Wrap-up
+
 ---
 
 ### Session Objectives
@@ -41,7 +41,6 @@ body {
 - TBD
 
 ---
-
 
 
 ## Introductory Information
