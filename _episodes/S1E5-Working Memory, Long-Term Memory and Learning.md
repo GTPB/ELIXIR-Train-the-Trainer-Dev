@@ -15,6 +15,9 @@ title: S1E5-Working Memory, Long-Term Memory and Learning
 
 ---
 
+![](https://i.imgur.com/mCRBRqu.png)
+
+
 
 ## Challenge: Short-term memory
 
