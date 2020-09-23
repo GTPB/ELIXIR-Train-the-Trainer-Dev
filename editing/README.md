@@ -182,6 +182,8 @@ do not add files with no yaml header - might not build the website
 
 - give it some time
 
+- first time vs every other time
+
 #### GitHub Editing
 
 give it some time
