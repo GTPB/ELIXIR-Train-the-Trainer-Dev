@@ -291,6 +291,42 @@ By the end of the lesson (session/course/instruction) the successful learner wil
 
 ---
 
+![](https://i.imgur.com/mCRBRqu.png)
+
+---
+
+## Challenge: Short-term memory
+
+How many words do you remember?
+
+---
+
+## Challenge: Willigham (2009)
+
+How many consecutive letters can you remember? Write them down.
+
+- XCN
+- NPH
+- DFB
+- ICI
+- ANC
+- AAX
+
+---
+
+What about now?
+
+- X
+- CNN
+- PHD
+- FBI
+- CIA
+- NCAA
+- X
+
+---
+
+
 
 ## Training Techniques to enhance learner participation and engagement
 
