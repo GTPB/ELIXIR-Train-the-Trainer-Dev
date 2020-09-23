@@ -9,7 +9,7 @@ outcomes:
   are expected to acquire.
 questions:
 - What are the goals and intended learning outcomes of this session?
-slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/25
+slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/22
 teaching: 3
 title: S1E4-How Does Learning Progress?
 
@@ -92,13 +92,12 @@ $$$
 
 ### Using Bloom's taxonomy
 
-Bloom's taxonomy can be helpful in aligning the training with the learners' level of thinking (complexity, experience, etc).
+- Bloom's taxonomy can be helpful in aligning the training with the learners' level of thinking (complexity, experience, etc).
 
-In practice, Bloom's level of cognitive complexity can be used to:
-
-- Write learning outcomes (LOs)
-- Design instruction and learning experiences
-- Assess learning
+- In practice, Bloom's level of cognitive complexity can be used to:
+  - Write learning outcomes (LOs)
+  - Design instruction and learning experiences
+  - Assess learning
 
 ---
 
@@ -110,17 +109,21 @@ In practice, Bloom's level of cognitive complexity can be used to:
 
 ## Learning outcomes (LOs)
 
-LOs (more accurately “desired LOs”) are statements of what you might (in principle) assess. 
+- LOs (more accurately “desired LOs”) are statements of what you might (in principle) assess. 
 
-You may not end up assessing all of them, but they are statements of what a successful* student will know or be able to do at the end of instruction.
+- You may not end up assessing all of them, but they are statements of what a successful* student will know or be able to do at the end of instruction.
 
-By the end of the lesson (session/course/instruction) the successful learner will be able to.........
+- By the end of the lesson (session/course/instruction) the successful learner will be able to.........
+
+---
 
 ![](https://i.imgur.com/WvwHoQO.png)
 
 ---
 
 ### Writing learning outcomes using assessable verbs
+
+<br/>
 
 1. Think about what learners will be able to do by the end of instruction
 2. Use the sentence:
