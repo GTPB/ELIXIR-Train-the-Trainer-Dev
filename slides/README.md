@@ -63,7 +63,7 @@ The HTML/CSS <style> section carries information regarding:
 
 This is the background for the slides. This file is not really used by any script. It is simply stored in this folder as a reference.
 
-<img src="Elixir_Background.png" width="500" height="600">
+<img src="Elixir_Background.png" width="125" height="100">
 
 Integrating it into the slide presentation entails:
 
