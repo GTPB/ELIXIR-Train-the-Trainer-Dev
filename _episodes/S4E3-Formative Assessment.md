@@ -1,184 +1,73 @@
 ---
-exercises: 10
+exercises: 0
 keypoints:
-- Diagnostic, formative and summative assessment.
+- Reflect upon concepts around learning, training and teaching.
+- Internalize and learn to mentally structure several ideas and concepts related to
+  learning, training and teaching.
 outcomes:
-- Describe what formative assessment is and how to do it.
+- Get a clear understanding of the goals of this session and of the skil the learners
+  are expected to acquire.
 questions:
-- What is formative assessment?
-slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/101
-teaching: 10
-title: S4E3-Formative Assessment
+- What are the goals and intended learning outcomes of this session?
+slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/
+teaching: 3
+title: S1E4-How Does Learning Progress?
 
 ---
 
 
+## How does learning progress?
 
-## Pre-course assessment - Diagnostic questionnaires
+![](https://i.imgur.com/0LidygS.png)
 
-- Anonymous questionnaires allow us to have an idea of the level of knowledge of the whole group of learners.
 
-- Non-anonymous and personal questionnaires allow us to find out if the learner has a necessary pre-required knowledge, and in the negative case indicate an appropriate teaching choice to palliate this lack.
 
+## Bloom's taxonomy
 
+### Bloom's six categories of cognitive skills
 
-> ## Challenge 1 - Who would feel comfortable with giving a definition of "formative assessment"? (5 min)
->
-> ![](https://i.imgur.com/dR5UgeP.png)
+![](https://i.imgur.com/M4xZHFQ.png)
 
->
-> [Fill out his form](http://bit.ly/2VZA8Fr)
-{: .challenge}
 
-## The purpose of formative assessment
+### Using Bloom's taxonomy
 
-![](https://i.imgur.com/2APHMT4.png)
+Bloom's taxonomy can be helpful in aligning the training with the learners' level of thinking (complexity, experience, etc).
 
+In practice, Bloom's level of cognitive complexity can be used to:
 
-### Formative assessment can be used to collect information about learners'
-- goals and objectives
-  - Are learners' goals and objectives aligned with the course's goals and outcomes?
-- Frequent mistakes
-  - Which types of mistakes need special attention?
-  
-  
-  
-## How to carry out formative assessment
+- Write learning outcomes (LOs)
+- Design instruction and learning experiences
+- Assess learning
 
-### The best teachers...
-- Constantly monitor what is happening to students as they set about learning, as well as pay attention and investigate whether things are proceeding according to plan and as expected.
-- They also question their own methods so they might get better at ensuring that their students learn successfully.
+## Instruction design in five steps
 
-![](https://i.imgur.com/2HuMDL4.png)
+![](https://i.imgur.com/hrnfYMk.png)
 
 
-### It can be done in many different ways
-- Asking questions to learners and getting responses orally.
-- Asking them to describe the strategy they would adopt to solve a problem.
-- Asking them to solve a problem in groups, or individually but in front of the class.
-- Using brainstorming and discussions.
-- Providing diagnostic questionnaire.
-- Providing MCQs with distractors.
+## Learning outcomes (LOs)
 
-![](https://i.imgur.com/8e1nBPu.png)
+LOs (more accurately “desired LOs”) are statements of what you might (in principle) assess. 
 
+You may not end up assessing all of them, but they are statements of what a successful* student will know or be able to do at the end of instruction.
 
-### Tools
+By the end of the lesson (session/course/instruction) the successful learner will be able to.........
 
-#### [Socrative](https://b.socrative.com/)
+![](https://i.imgur.com/WvwHoQO.png)
 
-![](https://i.imgur.com/7rOD9co.png)
 
+### Writing learning outcomes using assessable verbs
 
-![](https://i.imgur.com/C4iSMSk.png)
+1. Think about what learners will be able to do by the end of instruction
+2. Use the sentence:
+  - By the end of the lesson (session/course/instruction) the successful learner will be able to......... 
+3. Replace dots with a verb that you can assess (name, explain, solve, distinguish, etc.).
+4. Avoid verbs that are open to many interpretations: e.g., appreciate, have faith in, know, learn, understand, believe
 
 
-![](https://i.imgur.com/VVIbDUI.png)
+## Challenge: How do I write LOs?
 
-
-![](https://i.imgur.com/f4SUCGN.png)
-
-
-![](https://i.imgur.com/x4K6CKf.png)
-
-
-
-#### [Mentimeter](https://www.mentimeter.com)
-
-
-{%comment%}
-
-$$$
-## Pre-course assessment - Diagnostic questionnaires
-
-- Anonymous questionnaires allow us to have an idea of the level of knowledge of the whole group of learners.
-
-- Non-anonymous and personal questionnaires allow us to find out if the learner has a necessary pre-required knowledge, and in the negative case indicate an appropriate teaching choice to palliate this lack.
-
----
-
-## Challenge 1 - Who would feel comfortable with giving a definition of "formative assessment"? (5 min)
-
-![](https://i.imgur.com/dR5UgeP.png)
-
-[Fill out his form](http://bit.ly/2VZA8Fr)
-
----
-
-## The purpose of formative assessment
-
-![](https://i.imgur.com/2APHMT4.png)
-
----
-
-### Formative assessment can be used to collect information about learners'
-- goals and objectives
-  - Are learners' goals and objectives aligned with the course's goals and outcomes?
-- Frequent mistakes
-  - Which types of mistakes need special attention?
-  
----
-  
-## How to carry out formative assessment
-
----
-
-### The best teachers...
-- Constantly monitor what is happening to students as they set about learning, as well as pay attention and investigate whether things are proceeding according to plan and as expected.
-- They also question their own methods so they might get better at ensuring that their students learn successfully.
-
-![](https://i.imgur.com/2HuMDL4.png)
-
----
-
-### It can be done in many different ways
-- Asking questions to learners and getting responses orally.
-- Asking them to describe the strategy they would adopt to solve a problem.
-- Asking them to solve a problem in groups, or individually but in front of the class.
-- Using brainstorming and discussions.
-- Providing diagnostic questionnaire.
-- Providing MCQs with distractors.
-
----
-
-![](https://i.imgur.com/8e1nBPu.png)
-
----
-
-### Tools
-
----
-
-#### [Socrative](https://b.socrative.com/)
-
-![](https://i.imgur.com/7rOD9co.png)
-
-
-![](https://i.imgur.com/C4iSMSk.png)
-
-
-![](https://i.imgur.com/VVIbDUI.png)
-
-
-![](https://i.imgur.com/f4SUCGN.png)
-
-
-![](https://i.imgur.com/x4K6CKf.png)
-
----
-
-#### [Mentimeter](https://www.mentimeter.com)
-
----
-$$$
-
-{%endcomment%}
-
-
-
-  
-  
-
-
+1. Think of a lesson/session you usually deliver 
+2. Write one or more Learning Outcomes for the lesson/session
+3. Write to the GDoc the title of the lesson/session and the corresponding LO(s)
 
 
