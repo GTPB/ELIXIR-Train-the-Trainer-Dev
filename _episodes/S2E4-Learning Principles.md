@@ -657,8 +657,6 @@ $$$
 
 - Principle P7: To become self-directed learners, students must learn to monitor and adjust their approaches to learning.
 
----
-
 ![](https://i.imgur.com/8aQFZy3.png)
 
 ---
