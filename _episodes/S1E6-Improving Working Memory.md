@@ -77,7 +77,7 @@ Experts’ mental models are much more densely connected. Therefore they can jum
 2. **Extraneous cognitive load** is everything else that distracts or gets in the way. Extraneous cognitive load refers to the way information or tasks are presented to a learner.
 
 
-### Attentino split effect
+### Attention split effect
 
 Split-attention occurs when learners are required to split their attention between at least two sources of information that have been separated either spatially or temporally.
 
