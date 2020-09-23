@@ -151,19 +151,23 @@ name it whatever, but make sure it has an .md at the end
 
 do not add files with no yaml header - might not build the website
 
+de-synching from HackMD if file name changes (whether it is the prefix or the title)
+  pulling won't work
+  go through github hackmd edit button
+
 #### HackMD Editing
 
-#### Setting Up HackMD
+##### Setting Up HackMD
 
-##### HackMD Account
+###### HackMD Account
 
-##### Browser Extension
+###### Browser Extension
 
-##### Permissions
+###### Permissions
 
-###### GitHub Permissions
+- GitHub Permissions
 
-###### HackMD Permissions
+- HackMD Permissions
 
 
 
@@ -174,11 +178,13 @@ do not add files with no yaml header - might not build the website
 - Episode Notes
 - Slides Note
 
-###### HackMD Button
+###### Features
+
+##### HackMD Button
 
 github editor also opens (you will have to exit after, saying yes to not saving changes)
 
-###### Push and Pull
+##### Push and Pull
 
 - if you forget to pull
 
