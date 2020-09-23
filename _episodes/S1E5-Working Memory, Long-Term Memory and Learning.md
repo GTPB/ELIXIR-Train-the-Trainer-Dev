@@ -19,10 +19,47 @@ title: S1E5-Working Memory, Long-Term Memory and Learning
 
 
 
+> ## Challenge: Short-term memory
+>
+> How many words do you remember?
+{: .challenge}
+
+> ## Challenge: Willigham (2009)
+>
+> How many consecutive letters can you remember? Write them down.
+>
+> - XCN
+> - NPH
+> - DFB
+> - ICI
+> - ANC
+> - AAX
+>
+> What about now?
+>
+> - X
+> - CNN
+> - PHD
+> - FBI
+> - CIA
+> - NCAA
+> - X
+{: .challenge}
+
+> The amount of space in working memory does not depend on the number of letters; it depends on the **number of meaningful objects**.
+
+{%comment%}
+
+$$$
+![](https://i.imgur.com/mCRBRqu.png)
+
+---
+
 ## Challenge: Short-term memory
 
 How many words do you remember?
 
+---
 
 ## Challenge: Willigham (2009)
 
@@ -35,6 +72,8 @@ How many consecutive letters can you remember? Write them down.
 - ANC
 - AAX
 
+---
+
 What about now?
 
 - X
@@ -45,4 +84,8 @@ What about now?
 - NCAA
 - X
 
-> The amount of space in working memory does not depend on the number of letters; it depends on the **number of meaningful objects**.
+---
+
+$$$
+
+{%endcomment%}
