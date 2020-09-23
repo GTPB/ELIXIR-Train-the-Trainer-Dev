@@ -24,7 +24,6 @@ title: S1E1-Session Description - Principles of learning and how they apply to t
 
 
 $$$
-
 ## Principles of learning and how they apply to training and teaching
 
 ---
@@ -38,6 +37,7 @@ $$$
 - Working Memory, Long-Term Memory and Learning
 - Improving Working Memory
 - Wrap-up
+
 ---
 
 ### Session Objectives
@@ -51,7 +51,6 @@ $$$
 - TBD
 
 ---
-
 $$$
 
 
