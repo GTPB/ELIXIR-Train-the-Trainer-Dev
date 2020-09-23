@@ -6,7 +6,7 @@ outcomes:
 - Describe the objectives and learning outcomes of this session.
 questions:
 - How should a trainer design a course?
-slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/73
+slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/81
 teaching: 5
 title: S3E1-Session Description - Design and plan session, course, materials
 

@@ -9,7 +9,7 @@ outcomes:
   are expected to acquire.
 questions:
 - What are the goals and intended learning outcomes of this session?
-slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/9
+slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/21
 teaching: 3
 title: S1E5-Working Memory, Long-Term Memory and Learning
 
