@@ -140,9 +140,10 @@ Below the YAML header, everything you write is what we call the main body of the
 
 <br/>
 
-Carpentries-style websites have pre-defined sections for their episodes, which will have a specific look and feel, depending on their purpose. The two 
-
 ##### Challenges
+
+Carpentries-style websites can have pre-defined sections for their episodes, which will have a specific look and feel, depending on their purpose. The one that is particularly relevant to us is the **Challenge** section, which looks as dpectied below:
+
 
 
 
