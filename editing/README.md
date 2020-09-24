@@ -188,13 +188,11 @@ Since Carpentries-style websites use the Liquid template language they can also 
 <br/>
 
 ~~~
-
 {%comment%}
 
 This is a comment in the Liquid template language. It will not show up on the website, but you can still see it on a text file or on a markdown viewer, like the one on GitHub. The empty lines right after the beginning tag and right before the ending tag are a matter of choice.
 
 {%endcomment%}
-
 ~~~
 
 <br/>
@@ -214,7 +212,6 @@ In order to add content for the slides we use the **$$$** tag within the liquid 
 <br/>
 
 ~~~
-
 {%comment%}
 
 This is a comment in the Liquid template language. It will not show up on the website, but you can still see it on a text file or on a markdown viewer, like the one on GitHub. The empty lines right after the beginning tag and right before the ending tag are a matter of choice.
@@ -224,7 +221,6 @@ This is content that will not show up on the website, since it is within the Liq
 $$$
 
 {%endcomment%}
-
 ~~~
 
 <br/>
