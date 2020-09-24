@@ -247,7 +247,6 @@ To become self-directed learners, students must learn to monitor and adjust thei
 - Write them in the Gdoc (share them with us)
 
 ---
-
 $$$
 
 {%endcomment%}
