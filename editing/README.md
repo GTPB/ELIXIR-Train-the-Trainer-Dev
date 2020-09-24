@@ -116,21 +116,21 @@ As you can see in the example above, there are seven keys (also referred to as f
 
 <br/>
 
-The information in the YAML header is chiefly responsible for generating the header in the corresponding website and episode (which follows a _Carpentries_ template), as well as the **Key Points** section (which, if it exists, can be found at the bottom of each episode page). **Example 1** above would generate the following header and **Key Points** section (**Fig 1** and **Fig 2**):
+The information in the YAML header is chiefly responsible for generating the header in the corresponding website and episode (which follows a _Carpentries_ template), as well as the **Key Points** section (which, if it exists, can be found at the bottom of each episode page). **Example: YAML Header** above would generate the following header and **Key Points** section (**Fig: YAML Header** and **Fig: Key Points**):
 
 <br/>
 
-**Fig 1**
+**Fig: YAML Header**
 ![](editing_figs/YAML_Header.png)
 
 <br/>
 
-**Fig 2**
+**Fig: Key Points**
 ![](editing_figs/Key_Points.png)
 
 <br/>
 
-In the header, **Slides** (in blue) is a link to whatever URL is assigned to 'slides_url'.
+In the header, **Slides** (in blue) is a link to whatever URL is assigned to the 'slides_url' field in **Example: YAML Header**.
 
 <br/>
 
@@ -142,10 +142,31 @@ Below the YAML header, everything you write is what we call the main body of the
 
 ##### Challenges
 
-Carpentries-style websites can have pre-defined sections for their episodes, which will have a specific look and feel, depending on their purpose. The one that is particularly relevant to us is the **Challenge** section, which looks as dpectied below:
+Carpentries-style websites can have pre-defined sections for their episodes, which will have a specific look and feel, depending on their purpose. The one that is particularly relevant to us is the **Challenge** section, which looks as depicted below (**Fig: Challenge**):
 
+**Fig: Challenge**
+![](editing_figs/Challenge.png)
 
+<br/>
 
+Below you can see the piece of markdown text and liquid tag responsible for generating the section above:
+
+~~~
+> ## Challenge: Teaching or training? (3 min + 3 min)
+>
+> - Based on your experience, what are in your opinion the differences between teaching and training?
+> - Identify two main differences
+> - Discuss them with your partner
+> - Write them in the Gdoc (share them with us)
+{: .challenge}
+~~~
+
+<br/>
+
+Notice the two aspects needed to create a **Challenge** section:
+
+- **Greater than** symbol (**>**) before every line of text.
+- The **{: .challenge}** tag at the end of the piece of text.
 
 #### Liquid Comment Section
 
