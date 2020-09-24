@@ -229,6 +229,22 @@ $$$
 
 <br/>
 
+~~~
+{%comment%}
+
+Some comment.
+
+$$$
+
+This content will only be shown on the slides.
+
+$$$
+
+Some other comment.
+
+{%endcomment%}
+~~~
+
 We recommend not leaving an empty line between the **$$$** tags and the content, as it may lead to bad formatting.
 
 There is one other thing to consider when building the slides - how does one delimit the content for just one slide?
