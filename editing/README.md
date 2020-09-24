@@ -45,6 +45,7 @@ Below you will find a careful explanation of how to edit each file. Despite not 
 - [Lesson-building scripts](../bin/build_lesson)
 - [Slides Resources](../slides)
 
+<br/>
 
 The links take you to the **.github/workflows**, **bin/build_lesson** and **slides** folders, respectively. All of them are folders in this repository.
 
@@ -144,6 +145,8 @@ Below the YAML header, everything you write is what we call the main body of the
 
 Carpentries-style websites can have pre-defined sections for their episodes, which will have a specific look and feel, depending on their purpose. The one that is particularly relevant to us is the **Challenge** section, which looks as depicted below (**Fig: Challenge**):
 
+<br/>
+
 **Fig: Challenge**
 ![](editing_figs/Challenge.png)
 
@@ -168,6 +171,8 @@ Notice the two aspects needed to create a **Challenge** section:
 - **Greater than** symbol (**>**) before every line of text. The empty space between every **>** and the first letter of each line is unnecessary and changes nothing about the rendering (we use it merely for readability purposes in the markdown file itself). 
 - The **{: .challenge}** tag at the end of the piece of text.
 
+<br/>
+
 The empty line between the first and third lines is unnecessary and changes nothing about the rendering (we use it merely for readability purposes in the markdown file itself).
 
 We should note that the text in the first line is absolutely up to you. There is no need to include the word **Challenge**, nor the particular header type that we show in the example (in our case, the **##** header type). Our use of these was a choice.
@@ -180,17 +185,25 @@ We recommend not numbering the **Challenge** sections, as this makes it harder t
 
 Since Carpentries-style websites use the Liquid template language they can also make use of the comment tags that come with the latter. If you want to add a comment that will not show up on the website, you just have to write it within the beginning tag **{%comment%}** and the ending tag **{%endcomment%}**. Here is an example:
 
+<br/>
+
 ~~~
+
 {%comment%}
 
 This is a comment in the Liquid template language. It will not show up on the website, but you can still see it on a text file or on a markdown viewer, like the one on GitHub. The empty lines right after the beginning tag and right before the ending tag are a matter of choice.
 
 {%endcomment%}
+
 ~~~
+
+<br/>
 
 ##### GitHub-Only
 
 If there is content that you would like to add to the markdown files (e.g. for people to read using the GitHub markdown viewer) but to not show up on the website, you can use the Liquid comment anywhere and as many times as you would like on the text.
+
+<br/>
 
 ##### Slides Content
 
@@ -198,7 +211,10 @@ Since Liquid comments are invisible to the generated website, we use it here to 
 
 In order to add content for the slides we use the **$$$** tag within the liquid comment tags. So, it would look something like this:
 
+<br/>
+
 ~~~
+
 {%comment%}
 
 This is a comment in the Liquid template language. It will not show up on the website, but you can still see it on a text file or on a markdown viewer, like the one on GitHub. The empty lines right after the beginning tag and right before the ending tag are a matter of choice.
@@ -208,7 +224,10 @@ This is content that will not show up on the website, since it is within the Liq
 $$$
 
 {%endcomment%}
+
 ~~~
+
+<br/>
 
 We recommend not leaving an empty line between the **$$$** tags and the content, as it may lead to bad formatting.
 
