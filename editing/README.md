@@ -130,7 +130,7 @@ The information in the YAML header is chiefly responsible for generating the hea
 
 <br/>
 
-In the header, **Slides** (in blue) is a link to whatever URL is assigned to the 'slides_url' field in **Example: YAML Header**.
+In the header, **Slides** (in blue) is a link to whatever URL is assigned to the 'slides_url' field in **Example: YAML Header**. The link will take you to the first slide of that episode. In case an episode does not have any slides, the link will take you to the first slide of the last episode that had slides.
 
 <br/>
 
@@ -165,14 +165,64 @@ Below you can see the piece of markdown text and liquid tag responsible for gene
 
 Notice the two aspects needed to create a **Challenge** section:
 
-- **Greater than** symbol (**>**) before every line of text.
+- **Greater than** symbol (**>**) before every line of text. The empty space between every **>** and the first letter of each line is unnecessary and changes nothing about the rendering (we use it merely for readability purposes in the markdown file itself). 
 - The **{: .challenge}** tag at the end of the piece of text.
+
+The empty line between the first and third lines is unnecessary and changes nothing about the rendering (we use it merely for readability purposes in the markdown file itself).
+
+We should note that the text in the first line is absolutely up to you. There is no need to include the word **Challenge**, nor the particular header type that we show in the example (in our case, the **##** header type). Our use of these was a choice.
+
+We recommend not numbering the **Challenge** sections, as this makes it harder to maintain the episodes. If you were to number them and you wanted to add a new **Challenge** you would have to change the numbering of all the subsequent challenges. This is only practical if there is an automatic mechanism to do so, which is not the case.
+
+<br/>
 
 #### Liquid Comment Section
 
+Since Carpentries-style websites use the Liquid template language they can also make use of the comment tags that come with the latter. If you want to add a comment that will not show up on the website, you just have to write it within the beginning tag **{%comment%}** and the ending tag **{%endcomment%}**. Here is an example:
+
+~~~
+{%comment%}
+
+This is a comment in the Liquid template language. It will not show up on the website, but you can still see it on a text file or on a markdown viewer, like the one on GitHub. The empty lines right after the beginning tag and right before the ending tag are a matter of choice.
+
+{%endcomment%}
+~~~
+
 ##### GitHub-Only
 
+If there is content that you would like to add to the markdown files (e.g. for people to read using the GitHub markdown viewer) but to not show up on the website, you can use the Liquid comment anywhere and as many times as you would like on the text.
+
 ##### Slides Content
+
+Since Liquid comments are invisible to the generated website, we use it here to also add the content for the slides. The slides are meant to be shown using [HackMD](https://hackmd.io/team/nyTtT?nav=overview).
+
+In order to add content for the slides we use the **$$$** tag within the liquid comment tags. So, it would look something like this:
+
+~~~
+{%comment%}
+
+This is a comment in the Liquid template language. It will not show up on the website, but you can still see it on a text file or on a markdown viewer, like the one on GitHub. The empty lines right after the beginning tag and right before the ending tag are a matter of choice.
+
+$$$
+This is content that will not show up on the website, since it is within the Liquid comment tags, but it will be used in the slides.
+$$$
+
+{%endcomment%}
+~~~
+
+We recommend not leaving an empty line between the **$$$** tags and the content, as it may lead to bad formatting.
+
+There is one other thing to consider when building the slides - how does one delimit the content for just one slide?
+The way to tell HackMD that a slide is over and another one begins is by adding three dashes (**---**) between them. **Example: Slide delimiter** illustrates this:
+
+**Example: Slide delimiter**
+{%comment%}
+
+$$$
+This is content for
+$$$
+
+{%endcomment%}
 
 ### Editing
 
@@ -219,6 +269,10 @@ de-synching from HackMD if file name changes (whether it is the prefix or the ti
 - Slides Note
 
 ###### Features
+
+Recommendations for Adding Images
+  group as one image
+  resize somewhere else
 
 ##### HackMD Button
 
