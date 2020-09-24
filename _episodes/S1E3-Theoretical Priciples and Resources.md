@@ -114,12 +114,11 @@ To become self-directed learners, students must learn to monitor and adjust thei
 
 ![](https://i.imgur.com/k6AW9or.png)
 
-> ## Challenge: Teaching or training? (3 min + 3 min)
->
-> - Based on your experience, what are in your opinion the differences between teaching and training?
-> - Identify two main differences
-> - Discuss them with your partner
-> - Write them in the Gdoc (share them with us)
+>## Challenge: Teaching or training? (3 min + 3 min)
+>- Based on your experience, what are in your opinion the differences between teaching and training?
+>- Identify two main differences
+>- Discuss them with your partner
+>- Write them in the Gdoc (share them with us)
 {: .challenge}
 
 {%comment%}
