@@ -233,7 +233,6 @@ To become self-directed learners, students must learn to monitor and adjust thei
 
 ---
 
-
 ## How does learning progress?
 
 ![](https://i.imgur.com/0LidygS.png)
