@@ -130,7 +130,13 @@ The information in the YAML header is chiefly responsible for generating the hea
 
 <br/>
 
+In the header, **Slides** (in blue) is a link to whatever URL is assigned to 'slides_url'.
+
 #### Website Content
+
+After the YAML header, everything you write is what we call the main body of the file. All of the content in that main body, apart from comments, will feature on the website, in the webpage corresponding to the episode. In the next section ([Liquid Comment Section](#Liquid-Comment-Section)) we will show you how to add comments to the main body. These will be written according to the Liquid template language, for which reason we might also refer to them as Liquid comments.
+
+##### Challenges
 
 #### Liquid Comment Section
 
