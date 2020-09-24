@@ -26,15 +26,14 @@ title: S2E7-Wrap-up - Training techniques that enhance learner participation and
 
 
 
-> ## Challenge 12
+> ## Challenge
 >
-> In pairs ( 10 min)  
-> One person will explain a topic for 90 seconds, while the other person write feedback about presentation and content.
-> Then you have a minute to go through the feedback.
-> Then switch and repeat. 
+> - In pairs ( 10 min)  
+> - One person will explain a topic for 90 seconds, while the other person write feedback about presentation and content. Then you have a minute to go through the feedback.
+> - Then switch and repeat. 
 >
-> As group (10 min )
-> We will go through the feedback together.
+> - As group (10 min )
+> - We will go through the feedback together.
 {: .challenge}
 
 
@@ -80,7 +79,7 @@ _Willingham, 2009_
 5. Establish a supportive class climate (P3, P6). Learn and use learners' names and encourage them to interact with you in and outside of the course. Collect anonymous learner feedback and investigate and respond to any complaints related to class climate.
 
 
-> ## Exercise reading
+> ## Challenge: Exercise Reading
 > Let’s take 15 min to read about the seven learning principles from the book 
 > How learning works
 >
@@ -101,7 +100,7 @@ $$$
 
 ---
 
-## Challenge 12
+## Challenge
 
 In pairs ( 10 min)  
 One person will explain a topic for 90 seconds, while the other person write feedback about presentation and content.
@@ -159,7 +158,7 @@ _Willingham, 2009_
 
 ---
 
-## Exercise reading
+## Challenge: Exercise Reading
 Let’s take 15 min to read about the seven learning principles from the book 
 How learning works
 
