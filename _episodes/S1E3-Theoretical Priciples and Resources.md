@@ -58,8 +58,7 @@ title: S1E3-Theoretical Priciples and Resources
 
 There is no universal theory of learning, but evidence-based research results support some learning principles, which are today accepted and applied.
 
-![](https://i.imgur.com/U5kzhNA.jpg)
-
+![](https://i.imgur.com/NnT2Fzr.jpg)
 
 
 ## Six strategies for effective learning (based on evidence from cognitive research)
@@ -170,9 +169,7 @@ $$$
 
 There is no universal theory of learning, but evidence-based research results support some learning principles, which are today accepted and applied.
 
----
-
-![](https://i.imgur.com/U5kzhNA.jpg)
+![](https://i.imgur.com/NnT2Fzr.jpg =800x500)
 
 ---
 
