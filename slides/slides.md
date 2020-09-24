@@ -851,7 +851,7 @@ Add a + sign next to the point you agree the most
 
 ---
 
-## Challenge 12
+## Challenge
 
 In pairs ( 10 min)  
 One person will explain a topic for 90 seconds, while the other person write feedback about presentation and content.
@@ -909,7 +909,7 @@ _Willingham, 2009_
 
 ---
 
-## Exercise reading
+## Challenge: Exercise Reading
 Let’s take 15 min to read about the seven learning principles from the book 
 How learning works
 
