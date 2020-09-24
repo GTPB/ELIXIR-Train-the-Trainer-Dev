@@ -80,7 +80,6 @@ https://elixir-europe.org/events/code-of-conduct
 ## Challenge 2: Your Expectations (3min)
 
 - Write down your expectations. What do you expect to take home from this course?
-{: .challenge}
 
 ---
 
