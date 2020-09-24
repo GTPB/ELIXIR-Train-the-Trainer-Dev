@@ -73,7 +73,6 @@ https://elixir-europe.org/events/code-of-conduct
 - Your affiliation / country
 - The 3 keywords that describe you
 - One thing you are proud of from the last month
-{: .challenge}
 
 ---
 
