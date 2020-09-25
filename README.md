@@ -557,7 +557,7 @@ You might still have a few questions:
 <br/>
 <br/>
 
-**Q**: I have noticed that the title I added in the YAML header of an episode has been automatically updated with a **SiEj** prefix. Now I want to change that title. Do I replace just the title and leave the prefix in the YAML header?
+**Q**: I have noticed that the title I added in the YAML header of an episode has been automatically updated with a **SiEj** prefix. Now I want to change that title. Do I replace just the title and leave the prefix in the YAML header? Or do I overwrite the whole thing?
 
 **A**: It does not matter. You can either leave the prefix or replace everything with the new title. As long as the title is recognised, the algorithms will take care of adding the prefix if it is not there.
 
