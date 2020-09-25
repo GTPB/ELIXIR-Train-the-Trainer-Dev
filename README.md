@@ -268,13 +268,14 @@ In order to add content fto the slides we use the **$$$** tag within the liquid 
 ~~~
 {%comment%}
 
-This is a comment in the Liquid template language. It will not show up on the website, but you can still see it on
-a text file or on a markdown viewer, like the one on GitHub. The empty lines right after the beginning tag and right
+This is a comment in the Liquid template language. It will not show up on
+the website, but you can still see it on a text file or on a markdown viewer,
+like the one on GitHub. The empty lines right after the beginning tag and right
 before the ending tag are a matter of choice.
 
 $$$
-This is content that will not show up on the website, since it is within the Liquid comment tags, but it will be used
-in the slides.
+This is content that will not show up on the website, since it is within the Liquid
+comment tags, but it will be used in the slides.
 $$$
 
 This is another comment in the Liquid template language.
@@ -331,9 +332,12 @@ $$$
 
 1. Think about what learners will be able to do by the end of instruction
 2. Use the sentence:
-    - By the end of the lesson (session/course/instruction) the successful learner will be able to......... 
-3. Replace dots with a verb that you can assess (name, explain, solve, distinguish, etc.).
-4. Avoid verbs that are open to many interpretations: e.g., appreciate, have faith in, know, learn, understand, believe
+    - By the end of the lesson (session/course/instruction) the successful
+    learner will be able to......... 
+3. Replace dots with a verb that you can assess (name, explain, solve,
+distinguish, etc.).
+4. Avoid verbs that are open to many interpretations: e.g., appreciate,
+have faith in, know, learn, understand, believe
 
 ---
 
