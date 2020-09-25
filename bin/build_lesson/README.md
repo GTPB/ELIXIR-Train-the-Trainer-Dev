@@ -7,7 +7,7 @@ and generate the slides markdown file (which can be found in the [slides](../../
 
 By "structure the lesson" we mean the following:
 1. Sorting the episodes correctly, according to the order defined in the **lesson_structure.yml** file.
-2. Optionally adding a prefix to the episode file names, as well as to their titles (defined in a yaml header
+2. Adding a prefix to the episode files' names, as well as to their titles (defined in a YAML header
 at the top of each episode file), encoding its number (relative to their order in the lesson) and the number
 of the session it belongs to (for more details regarding this part read below).
 
