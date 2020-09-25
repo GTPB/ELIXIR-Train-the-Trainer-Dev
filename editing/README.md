@@ -266,8 +266,7 @@ However, as you will see in the next section, in our case, we will have to be a 
 ###### Full Presentation
 
 The full presentation is built by the python script **build_lesson.py**. It extracts the slides content from each episode and concatenates
-them into one markdown file. Because of this, we also have to add the delimiter to the end of the last slide, not just between slides.
-**Example: Episode Slides**
+them into one markdown file. Because of this, we also have to add the delimiter to the end of the last slide, not just between slides. **Example: Episode Slides** illustrates this.
 
 <br/>
 
@@ -316,8 +315,8 @@ and **Fig: Episode Slides 2**
 
 <br/>
 
-**Fig: Episode Slides 2
-![](editing_figs/Slide1.png)
+**Fig: Episode Slides 2**
+![](editing_figs/Slide2.png)
 
 <br/>
 
