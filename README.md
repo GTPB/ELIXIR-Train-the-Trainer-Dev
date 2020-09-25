@@ -75,7 +75,7 @@ To cite this lesson, please consult with [CITATION](CITATION)
       - [Why We Need HackMD](#Why-We-Need-HackMD)
       - [File Creation and Naming](#File-Creation-and-Naming)
         - [Lesson Structure YAML File](#Lesson-Structure-YAML-File)
-        - [Creating/Deleting/Renaming an Episode](#Creating/Deleting/Renaming-an-Episode)
+        - [Creating-Deleting-Renaming an Episode](#Creating-Deleting-Renaming-an-Episode)
     - [HackMD Editing](#HackMD-Editing)
       - [Setting Up HackMD](#Setting-Up-HackMD)
         - [HackMD Account](#HackMD-Account)
@@ -502,7 +502,7 @@ As you can see, this is a list with two levels (otherwise know as a list of list
 
 <br/>
 
-###### Creating/Deleting/Renaming an Episode 
+###### Creating-Deleting-Renaming an Episode 
 
 Now that you know about the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file, we will describe in detail the steps you have to take in order to create, delete or rename an episode file.
 
