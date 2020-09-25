@@ -209,7 +209,7 @@ If there is content that you would like to add to the markdown files (e.g. for p
 
 Since Liquid comments are invisible to the generated website, we use it here to also add the content for the slides. The slides are meant to be shown using [HackMD](https://hackmd.io/team/nyTtT?nav=overview).
 
-In order to add content for the slides we use the **$$$** tag within the liquid comment tags. So, it would look something like this:
+In order to add content fto the slides we use the **$$$** tag within the liquid comment tags. So, it would look something like this:
 
 <br/>
 
@@ -225,6 +225,8 @@ This is content that will not show up on the website, since it is within the Liq
 in the slides.
 $$$
 
+This is another comment in the Liquid template language.
+
 {%endcomment%}
 ~~~
 
@@ -233,16 +235,108 @@ $$$
 We recommend not leaving an empty line between the **$$$** tags and the content, as it may lead to bad formatting.
 
 There is one other thing to consider when building the slides - how does one delimit the content for just one slide?
-The way to tell HackMD that a slide is over and another one begins is by adding three dashes (**---**) between them. **Example: Slide delimiter** illustrates this:
+The way to tell HackMD that a slide is over and another one begins is by adding three dashes (**---**) between them. **Example: Slide Delimiter** illustrates this:
 
-**Example: Slide delimiter**
+<br/>
+
+**Example: Slide Delimiter**
 {%comment%}
 
+~~~
 $$$
-This is content for
+This is content for a slide
+
+---
+
+This is content for the next slide
 $$$
 
 {%endcomment%}
+~~~
+
+<br/>
+
+However, as you will see in the next section, in our case, we will have to be a bit more careful.
+
+<br/>
+
+###### Full Presentation
+
+The full presentation is built by the python script **build_lesson.py**. It extracts the slides content from each episode and concatenates
+them into one markdown file. Because of this, we also have to add the delimiter to the end of the last slide, not just between slides.
+**Example: Episode Slides**
+
+<br/>
+
+**Example: Episode Slides**
+~~~
+{%comment%}
+
+$$$
+### Writing learning outcomes using assessable verbs
+
+<br/>
+
+1. Think about what learners will be able to do by the end of instruction
+2. Use the sentence:
+    - By the end of the lesson (session/course/instruction) the successful learner will be able to......... 
+3. Replace dots with a verb that you can assess (name, explain, solve, distinguish, etc.).
+4. Avoid verbs that are open to many interpretations: e.g., appreciate, have faith in, know, learn, understand, believe
+
+---
+
+## Challenge: How do I write LOs?
+
+1. Think of a lesson/session you usually deliver 
+2. Write one or more Learning Outcomes for the lesson/session
+3. Write to the GDoc the title of the lesson/session and the corresponding LO(s)
+
+---
+$$$
+
+{%endcomment%}
+~~~
+
+<br/>
+
+**Note:** the <br/> tag allows you to enter an extra empty line. It is useful when you want to bigger spacing content in a markdown file.
+
+<br/>
+
+As you can see, even the last piece of content has to have a delimiter. The result will look like in **Fig: Episode Slides 1**
+and **Fig: Episode Slides 2**
+
+<br/>
+
+**Fig: Episode Slides 1**
+![](editing_figs/Slide1.png)
+
+<br/>
+
+**Fig: Episode Slides 2
+![](editing_figs/Slide1.png)
+
+<br/>
+
+As a reminder, you can also see the presentation in full screen. To do this in Chrome, do the following:
+
+1. Go to the top right corner.
+2. Click the three vertical dots. A drop-down menu will appear.
+3. Go to the Full Screen symbol, as shown in **Fig: Full Screen**. Click it.
+4. If you want to exit Full Screen mode you can try the Esc button or going with the mouse pointer to either the left or the right top corner of
+the screen (Mac is usually left, while Windows is usually right), until the window buttons appear and allow you to set the screen to Normal mode.
+<br/>
+
+**Fig: Full Screen**
+![](editing_figs/Full_Screen.png)
+
+<br/>
+
+Notice that in all the slide figures above you can see a little grey box in the bottom right corner of the screen. This indicates the slide number.
+
+If you are not in Full Screen mode you should also be able to see the address bar. There will be a number at the end of the web address of each slide page. This is not the slide number, but it is close. It is the slide number - 1. It provides a way for you to jump to any slide you want, simply by going to the address bar and typing the number.
+
+<br/>
 
 ### Editing
 
