@@ -301,7 +301,7 @@ $$$
 
 <br/>
 
-**Note:** the <br/> tag allows you to enter an extra empty line. It is useful when you want to bigger spacing content in a markdown file.
+**Note:** the **<br/>** tag allows you to add an extra empty line. It is useful when you want to bigger spacing between content in a markdown file.
 
 <br/>
 
