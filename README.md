@@ -582,6 +582,7 @@ You might still have a few questions:
 <br/>
 <br/>
 
+###### Editing The YAML Header
 
 #### HackMD Editing
 
@@ -672,5 +673,3 @@ potential issues if you don't way long enough - warning that file might have bee
    what to do? - copy-paste
    
 if you want the slides to work you still have to go to the TtT file on HackMD and pull
-
-#### Editing the YAML Header
