@@ -299,7 +299,7 @@ def updateFileYamlHeader(lessonDict, fileName):
     
     if matchingTitle != None:
         episodeInfo = lessonDict[matchingTitle]
-        yamlEpisodeHeader["title"] = episodeInfo["prefix"] + "-" + matchingTitle
+        yamlEpisodeHeader["title"] = episodeInfo["prefix"] + " - " + matchingTitle
         yamlEpisodeHeader["slides_url"] = yamlLessonStructure["slides_base_url"] + "/" + episodeInfo["firstSlideNumber"]
         tempFileWrite = open(tempFilePath, "w")
         yaml.dump(yamlEpisodeHeader, tempFileWrite, default_flow_style=False)
