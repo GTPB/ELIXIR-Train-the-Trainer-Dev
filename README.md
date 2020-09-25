@@ -91,6 +91,9 @@ This is a guide for anyone who wants to edit these episodes. The reason for havi
 
 ## Introduction
 
+The episodes of this lesson can be found in the [\_episodes](_episodes) folder. We recommend reading
+this guide before editing.
+
 Below you will find a careful explanation of how to edit each file. Despite not being strictly necessary, if you want to dig a bit deeper and better understand some of the transformations that the files might undergo, as well as the scripts that execute them, you can check these links:
 
 - [Workflows](../.github/workflows)
