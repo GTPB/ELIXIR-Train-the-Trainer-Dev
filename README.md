@@ -101,20 +101,33 @@ this guide before editing.
 Below you will find a careful explanation of how to edit each file. Despite not being strictly necessary, if you want to dig a bit deeper and better understand some of the transformations that the files might undergo, as well as the scripts that execute them, you can check these links:
 
 - [Workflows](.github/workflows)
-- [Lesson-building scripts](bin/build_lesson)
+- [Lesson-building Scripts](bin/build_lesson)
 - [Slides Resources](slides)
 
 <br/>
 
 The links take you to the **.github/workflows**, **bin/build_lesson** and **slides** folders, respectively. All of them are folders in this repository.
 
-The first folder contains files that are meant to be executed by _GitHub Actions_. You will find there a file named **build_lesson_wf.yml**, which is a yaml file, and recognised by GitHub as a workflow. What this means is that GitHub will execute the code in this file whenever some event is detected. The events that trigger it are defined within the file itself, but you can also find that information in the README.md file in that folder.
+The first folder contains files that are meant to be executed by _GitHub Actions_. You will find there a file named **build_lesson_wf.yml**, which is a YAML file, and recognised by GitHub as a workflow. What this means is that GitHub will execute the code in this file whenever some event is detected. The events that trigger it are defined within the file itself, but you can also find that information in the README.md file in that folder. Just for the sake of completeness and brevity, know that at the time of writing, the triggering events are usually any push/commit to the gh-pages repository, or a push/commit to a small subset of folders.
 
 The second folder contains the actual script that is run by the aforementioned workflow, as well as a yaml file containing data pertaining to the episode titles and their relative order. It also contains a README.md file with further information.
 
 The third folder contains not only the markdown file with the final slides content, which is called **slides.md**, but also two other markdown files with information that is automatically added to the first one. It also contains a README.md file with further information.
 
 <br/>
+
+## Processes and Architecture on top of the Carpentries-style Template and Automation
+
+As we have mentioned before, this lesson is built using a Carpentries template, with all the automation scripts that it entails. However, for this particular lesson (Train the Trainer) we have also added some extra automation, as well as folders. Before going into the details in the guide, take a look at the diagrams below. They offer a visual aid to understand that extra layer of automation.
+
+The first diagram briefly describes the **build_lesson_wf.yml** workflow and its associated scripts and resources.
+
+**Note**: In this context, **workflow** has a very precise meaning . it is a **GitHub Actions** workflow. For more details on GitHub Actions check its [documentation](https://docs.github.com/en/free-pro-team@latest/actions/learn-github-actions) (this is not necessary to contribute to this lesson mind you).
+
+<br/>
+
+**Fig: Workflow**
+![](editing_figs/Automation_Diagram.png)
 
 ## Editing Instructions and Guidelines
 
