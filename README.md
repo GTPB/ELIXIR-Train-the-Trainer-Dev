@@ -209,7 +209,8 @@ Below you can see the piece of markdown text and liquid tag responsible for gene
 ~~~
 > ## Challenge: Teaching or training? (3 min + 3 min)
 >
-> - Based on your experience, what are in your opinion the differences between teaching and training?
+> - Based on your experience, what are in your opinion the differences
+between teaching and training?
 > - Identify two main differences
 > - Discuss them with your partner
 > - Write them in the Gdoc (share them with us)
@@ -242,9 +243,10 @@ Since Carpentries-style websites use the Liquid template language they can also 
 ~~~
 {%comment%}
 
-This is a comment in the Liquid template language. It will not show up on the website, but you can still see it on a
-text file or on a markdown viewer, like the one on GitHub. The empty lines right after the beginning tag and right
-before the ending tag are a matter of choice.
+This is a comment in the Liquid template language. It will not show up on the website,
+but you can still see it on a text file or on a markdown viewer, like the one on GitHub.
+The empty lines right after the beginning tag and right before the ending tag are a matter
+of choice.
 
 {%endcomment%}
 ~~~
