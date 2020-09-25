@@ -1,4 +1,4 @@
-# FIXME Lesson title
+# Train the Trainer Course
 
 [![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
 
@@ -9,8 +9,9 @@ This repository generates the corresponding lesson website from [The Carpentries
 We welcome all contributions to improve the lesson! Maintainers will do their best to help you if you have any
 questions, concerns, or experience any difficulties along the way.
 
-We'd like to ask you to familiarize yourself with our [Contribution Guide](CONTRIBUTING.md) and have a look at
-the [more detailed guidelines][lesson-example] on proper formatting, ways to render the lesson locally, and even
+If you would like to contribute to the content of the lesson itself, please refer to the [Episode-Editing Guide](Episode-Editing-Guide) below.
+
+If you want to learn about the general contributuion guidelines for Carpentries lesson we'd like to ask you to familiarize yourself with our [Contribution Guide](CONTRIBUTING.md) and have a look at the [more detailed guidelines][lesson-example] on proper formatting, ways to render the lesson locally, and even
 how to write new episodes.
 
 Please see the current list of [issues][FIXME] for ideas for contributing to this
@@ -24,9 +25,10 @@ Look for the tag ![good_first_issue](https://img.shields.io/badge/-good%20first%
 
 Current maintainers of this lesson are 
 
-* FIXME
-* FIXME
-* FIXME
+* Allegra Via
+* Patricia Palagi
+* Pedro Fernandes
+* Pedro Faria
 
 
 ## Authors
