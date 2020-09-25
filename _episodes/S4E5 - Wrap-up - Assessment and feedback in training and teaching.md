@@ -6,7 +6,7 @@ outcomes:
 - Describe how to get and handle feedback.
 questions:
 - How to get and handle feedback?
-slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/145
+slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/160
 teaching: 10
 title: S4E5 - Wrap-up - Assessment and feedback in training and teaching
 
