@@ -443,6 +443,7 @@ In the [bin/build_lesson](bin/build_lesson) folder you will find the [lesson_str
 
 **Example: Lesson Structure**
 
+~~~
  lesson:
  -
   - "Session Description - Principles of learning and how they apply to training and teaching"
