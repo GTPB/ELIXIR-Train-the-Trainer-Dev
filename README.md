@@ -118,7 +118,7 @@ The third folder contains not only the markdown file with the final slides conte
 
 ## Processes and Architecture on top of the Carpentries-style Template and Automation
 
-As we have mentioned before, this lesson is built using a Carpentries template, with all the automation scripts that it entails. However, for this particular lesson (Train the Trainer) we have also added some extra automation, as well as folders. Before going into the details in the guide, take a look at the diagrams below. They offer a visual aid to understand that extra layer of automation.
+As we have mentioned before, this lesson is built using a Carpentries template, with all the automation scripts that it entails. However, for this particular lesson (Train the Trainer), and as we have also mentioned before, we have added some extra automation, as well as folders. Before going ahead into the guide to read about those details, take a look at the diagrams below. They offer a visual aid to understanding that extra layer of automation.
 
 The first diagram briefly describes the **build_lesson_wf.yml** workflow and its associated scripts and resources.
 
@@ -129,6 +129,8 @@ The first diagram briefly describes the **build_lesson_wf.yml** workflow and its
 **Fig: Workflow**
 
 ![](editing_figs/Automation_Diagram.png)
+
+<br/>
 
 ## Editing Instructions and Guidelines
 
