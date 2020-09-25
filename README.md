@@ -100,9 +100,9 @@ this guide before editing.
 
 Below you will find a careful explanation of how to edit each file. Despite not being strictly necessary, if you want to dig a bit deeper and better understand some of the transformations that the files might undergo, as well as the scripts that execute them, you can check these links:
 
-- [Workflows](../.github/workflows)
-- [Lesson-building scripts](../bin/build_lesson)
-- [Slides Resources](../slides)
+- [Workflows](.github/workflows)
+- [Lesson-building scripts](bin/build_lesson)
+- [Slides Resources](slides)
 
 <br/>
 
@@ -367,12 +367,12 @@ $$$
 
 <br/>
 
-**Note:** the \<br/> tag allows you to add an extra empty line. It is useful when you want to bigger spacing between content in a markdown file.
+As you can see, even the last piece of content has to have a delimiter. The result will look like in **Fig: Episode Slides 1**
+and **Fig: Episode Slides 2**
 
 <br/>
 
-As you can see, even the last piece of content has to have a delimiter. The result will look like in **Fig: Episode Slides 1**
-and **Fig: Episode Slides 2**
+**Note:** the \<br/> tag allows you to add an extra empty line. It is useful when you want to have bigger spacing between two pieces of content in a markdown file.
 
 <br/>
 
@@ -386,7 +386,7 @@ and **Fig: Episode Slides 2**
 
 <br/>
 
-As a reminder, you can also see the presentation in full screen. To do this in Chrome, do the following:
+As a reminder, you can also see the presentation in full screen. To do this in Chrome do the following:
 
 1. Go to the top right corner.
 2. Click the three vertical dots. A drop-down menu will appear.
@@ -414,24 +414,77 @@ If you are not in Full Screen mode you should also be able to see the address ba
 
 ##### Why we need HackMD
 
-As mentioned before, this lesson/course uses [HackMD](https://hackmd.io/team/nyTtT?nav=overview). The sole purpose of this choice is to easily generate
-slides corresponding to the content shown on the website. The reason for using HackMD for slides (instead of Powerpoint) was to have its content be versionable. HackMD is a user-friendly online tool to create and edit markdown files (as its name implies). It was also built from the start to sync with GitHub, which is where the versioning capabilities come from. Moreover, markdown files on HackMD can be shared by different users, which makes them amenable
+As mentioned before, this lesson/course uses [HackMD](https://hackmd.io/team/nyTtT?nav=overview). The sole purpose of this choice was to easily generate
+slides corresponding to the content shown on the website. The reason for using HackMD for slides (instead of Powerpoint) was to have its content be versionable. HackMD is a user-friendly online tool to create and edit markdown files (as its name implies: Hack + MD). It was also built from the ground up to sync with GitHub, which is where the versioning capabilities come from. Moreover, markdown files on HackMD can be shared with different users, which makes them amenable
 to collaborative work.
 
 As you will see in the following sections, the episodes of this lesson can both be edited on GitHub directly or on HackMD. However, if you want the slides
 to work, you will always need to go to the slides file on HackMD and pull the most recent version from GitHub (if you already have the latest version of the slides on HackMD then you won't need to do anything).
 
 You might be wondering if you can edit everything on GitHub and just use HackMD to pull the most recent version of the slides. This is almost true, except for one thing: **images**. HackMD only recognises images that have been uploaded into its platform. So, if you want your images to display, you will have to use
-HackMD to upload the images there. Luckily, that is extremely easy.
+HackMD to upload the images there. Luckily, that is extremely easy to do. We will show you how to do it in one of the sections below.
 
-In conclusion, having a presentation that is versionable on GitHub is not yet very straightforward. Maybe in the future there will be an easier way of doing it, but for now, we need to use a tool like HackMd in conjunction with GitHub to achieve that goal. Once you get used to it though, it will not be that hard.
+In conclusion, having a presentation that is versionable on GitHub is not yet very straightforward. Maybe in the future there will be an easier way of doing it, but for now, we need to use a tool like HackMD in conjunction with GitHub to achieve that goal. Once you get used to it though, it will not be that hard.
 We aim to make this section of the guide as complete and easy to follow as possible, so that you know how to do it.
 
 <br/>
 
 ##### File Creation and Naming
 
-This was another concern, and the other reason why editing has to be done in a specific wayadd episodes to lesson structure first. why? what happens if you don't?
+This was another concern, and the other reason why editing has to be done in a specific way. The Carpentries website template uses the \_episodes folder to store
+the episodes files and generate the lesson from them. However, one has to have them sorted correctly in the folder, as that order will be mirrored on the website. Since GitHub sorts files alphabetically, we cannot just name them whichever way we want, otherwise we would not get them ordered as they should. The quick fix to this is simply adding a number at the start of every file name, which will force the correct relative order. Unfortunately, this creates another issue, which is related to the maintainability of the episodes. If we want to remove or add an episode we might have to manually change the numbering of all the subsequent ones. In this case, the only way to mitigate this issue was to create a script that would sort the episode files according to a pre-defined order, which could be achieved by having it automatically add a prefix to the file names according to a YAML file with an ordered list of the episodes. This is exactly the approach we chose.
+
+<br/>
+
+###### Lesson Structure YAML File
+
+In the [bin/build_lesson](bin/build_lesson) folder you will find the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file. It contains a section, under the 'lesson' field, that list all the episodes and how they fit into each session. It follows the YAML syntax and is structured as a list of lists. The example below (**Example: Lesson Structure**) shows what it looks like at the time of writing of this guide.
+
+<br/>
+
+**Example: Lesson Structure**
+ lesson:
+ -
+  - "Session Description - Principles of learning and how they apply to training and teaching"
+  - "Introduction - Principles of learning and how they apply to training and teaching"
+  - "Theoretical Principles and Resources"
+  - "How Learning Progresses"
+  - "Working Memory, Long-Term Memory and Learning"
+  - "Improving Working Memory"
+  - "Wrap-up - Principles of learning and how they apply to training and teaching"
+ -
+  - "Session Description - Training techniques that enhance learner participation and engagement"
+  - "Introduction - Training techniques that enhance learner participation and engagement"
+  - "Skills for Trainers"
+  - "Learning Principles"
+  - "Motivation and Demotivation"
+  - "Strategies for Active, Interactive and Collaborative Learning"
+  - "Wrap-up - Training techniques that enhance learner participation and engagement"
+ - 
+  - "Session Description - Design and plan session, course, materials"
+  - "Introduction - Design and plan session, course, materials"
+  - "Design of a Mini-Training"
+  - "From Lesson to Session Plan"
+  - "From Lesson to Course Planning"
+  - "Wrap-up - Design and plan session, course, materials"
+ -
+  - "Session Description - Assessment and feedback in training and teaching"
+  - "Introduction - Assessment and feedback in training and teaching"
+  - "Formative Assessment"
+  - "Feedback"
+  - "Wrap-up - Assessment and feedback in training and teaching"
+~~~
+
+<br/>
+
+As you can see, this is a list with two levels (otherwise know as a list of lists). The first level maps to the sessions. Then, within each session, you will have the list of episodes. Notice that they are not numbered. This makes it easier to maintain, since adding or removing any titles is as easy as going to the specific location on the list and inserting/deleting said title (or set of titles). No need to update any numbers, which is taken care of automatically by the script every time a change is made to an episode in the \_episodes folder. There is, however, the extra overhead of going to the YAML file and changing the list whenever you want to add or remove an episode, but we feel it is less work than the alternative. At the time of writing, you have both to change this YAML file
+and then create or delete the episode file. We would like to have the latter step be done automatically as well, but such a script has not been done as of yet.
+
+###### Creating, Deleting or Renaming an Episode 
+
+Now that you know about the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file
+
+add episodes to lesson structure first. Why? what happens if you don't?
 
 no duplicate names, avoid symbols like ?, :
 
