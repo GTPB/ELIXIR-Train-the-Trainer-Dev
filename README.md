@@ -60,6 +60,7 @@ To cite this lesson, please consult with [CITATION](CITATION)
 
 - [Summary](#Summary)
 - [Introduction](#Introduction)
+- [Processes and Architecture on Top of the Carpentries-Style Template and Automation](#Processes-and-Architecture-on-Top-of-the-Carpentries-Style-Template-and-Automation)
 - [Editing Instructions and Guidelines](#Editing-Instructions-and-Guidelines)
   - [Episode File Structure](#Episode-File-Structure)
     - [YAML Header](#YAML-Header)
@@ -71,7 +72,10 @@ To cite this lesson, please consult with [CITATION](CITATION)
         - [Full Presentation](#Full-Presentation)
   - [Editing](#Editing)
     - [Main concerns](#Main-concerns)
+      - [Why We Need HackMD](#Why-We-Need-HackMD)
       - [File Creation and Naming](#File-Creation-and-Naming)
+        - [Lesson Structure YAML File](#Lesson-Structure-YAML-File)
+        - [Creating, Deleting or Renaming an Episode](#Creating,-Deleting-or-Renaming-an-Episode)
     - [HackMD Editing](#HackMD-Editing)
       - [Setting Up HackMD](#Setting-Up-HackMD)
         - [HackMD Account](#HackMD-Account)
@@ -116,13 +120,13 @@ The third folder contains not only the markdown file with the final slides conte
 
 <br/>
 
-## Processes and Architecture on top of the Carpentries-style Template and Automation
+## Processes and Architecture on Top of the Carpentries-Style Template and Automation
 
 As we have mentioned before, this lesson is built using a Carpentries template, with all the automation scripts that it entails. However, for this particular lesson (Train the Trainer), and as we have also mentioned before, we have added some extra automation, as well as folders. Before going ahead into the guide to read about those details, take a look at the diagrams below. They offer a visual aid to understanding that extra layer of automation.
 
 The first diagram briefly describes the **build_lesson_wf.yml** workflow and its associated scripts and resources.
 
-**Note**: In this context, **workflow** has a very precise meaning . It is a **GitHub Actions** workflow. For more details on GitHub Actions check its [documentation](https://docs.github.com/en/free-pro-team@latest/actions/learn-github-actions) (this is not necessary to contribute to this lesson mind you).
+**Note**: In this context, **workflow** has a very precise meaning . It is a **GitHub Actions** workflow. For more details on GitHub Actions check its [documentation](https://docs.github.com/en/free-pro-team@latest/actions/learn-github-actions) (this is not necessary to contribute to this lesson, mind you).
 
 <br/>
 
