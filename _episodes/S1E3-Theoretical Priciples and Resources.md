@@ -11,7 +11,7 @@ questions:
 - What are the goals and intended learning outcomes of this session?
 slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/10
 teaching: 3
-title: S1E3-Theoretical Priciples and Resources
+title: S1E3-Theoretical Principles and Resources
 
 ---
 
