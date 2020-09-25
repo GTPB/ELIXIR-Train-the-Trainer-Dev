@@ -216,8 +216,7 @@ Below you can see the piece of markdown text and liquid tag responsible for gene
 ~~~
 > ## Challenge: Teaching or training? (3 min + 3 min)
 >
-> - Based on your experience, what are in your opinion the differences
-between teaching and training?
+> - Based on your experience, what are in your opinion the differences between teaching and training?
 > - Identify two main differences
 > - Discuss them with your partner
 > - Write them in the Gdoc (share them with us)
@@ -237,7 +236,7 @@ The empty line between the first and third lines is unnecessary and changes noth
 
 We should note that the text in the first line is absolutely up to you. There is no need to include the word **Challenge**, nor the particular header type that we show in the example (in our case, the **##** header type). Our use of these was a choice.
 
-We recommend not numbering the **Challenge** sections, as this makes it harder to maintain the episodes. If you were to number them and you wanted to add a new **Challenge** you would have to change the numbering of all the subsequent challenges. This is only practical if there is an automatic mechanism to do so, which is not the case.
+We recommend against numbering the **Challenge** sections, as this makes it harder to maintain the episodes. If you were to number them and you wanted to add a new **Challenge** you would have to change the numbering of all the subsequent challenges. This is only practical if there is an automatic mechanism to do so, which is not the case.
 
 <br/>
 
