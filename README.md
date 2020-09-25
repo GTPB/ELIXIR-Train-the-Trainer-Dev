@@ -492,12 +492,43 @@ In the [bin/build_lesson](bin/build_lesson) folder you will find the [lesson_str
 
 <br/>
 
-As you can see, this is a list with two levels (otherwise know as a list of lists). The first level maps to the sessions. Then, within each session, you will have the list of episodes. Notice that they are not numbered. This makes it easier to maintain, since adding or removing any titles is as easy as going to the specific location on the list and inserting/deleting said title (or set of titles). No need to update any numbers, which is taken care of automatically by the script every time a change is made to an episode in the \_episodes folder. There is, however, the extra overhead of going to the YAML file and changing the list whenever you want to add or remove an episode, but we feel it is less work than the alternative. At the time of writing, you have both to change this YAML file
-and then create or delete the episode file. We would like to have the latter step be done automatically as well, but such a script has not been done as of yet.
+As you can see, this is a list with two levels (otherwise know as a list of lists). The first level maps to the sessions. Then, within each session, you will have the list of episodes. Notice that they are not numbered. This makes it easier to maintain, since adding or removing any titles is as easy as going to the specific location on the list and inserting/deleting said title (or set of titles). No need to update any numbers, which is taken care of automatically by the script every time a change is made to an episode in the \_episodes folder. There is, however, the extra overhead of going to the YAML file and changing the list whenever you want to add or remove an episode, but we feel it is less work than the alternative. At the time of writing, you have both to change this YAML file and then create or delete the episode file. We would like to have the latter step be done automatically as well, but such a script has not been done as of yet.
+
+<br/>
 
 ###### Creating, Deleting or Renaming an Episode 
 
-Now that you know about the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file
+Now that you know about the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file, we will describe in detail the steps you have to take in order to create, delete or rename an episode file.
+
+- Create (directly on GitHub):
+  1. Go to the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file and insert the title of the new episode in the correct position in the list.
+  2. Select over and copy a full YAML header (including the **---** delimiters) from an existing episode.
+  3. Go to the [\_episodes](_episodes) folder and click **Add file**. A dropdown menu with the two options **Create new file** and **Upload files** should appear.
+  3. Click **Create new file**.
+  4. The file editor will open and the cursor will be placed in the input field where yuo are asked to 'Name your file...'. Give it whichever name you want, as long as the extension is '.md'.
+  5. Paste the previously copied YAML header into the file.
+  6. Go to the 'title' field in the YAML header and write the exact same title that you inserted into the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file.
+  7. If you wish, add content to the main body of the file. Then, commit (giving your commit and name and description is optional).
+  8. You should now be taken to the [\_episodes](_episodes) folder again. Wait a few seconds and then refresh. The new episode file should now appear with the title you inserted and a prefix of the form **SiEj-**, where **i** and **j** refer to the session and episode numbers, respectively.
+  
+As an example, if your title was 'The wonderful pleasures of teaching' and it corresponds to the 11th episode in session 8, you will now have a file named **S8E11-The wonderful pleasures of teaching.md** in your [\_episodes](_episodes) folder.
+
+- Delete (directly on GitHub):
+  - We will not go into too much detail, as the steps are almost the same as before. The difference is that, instead of inserting a title and creating an episode file, you will now be removing said title from the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file and deleting the episode file.
+  
+- Rename (directly on GitHub):
+  - Again, this is almost the same as creating an episode file. Just rename it in the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file and in the YAML header of the episode file and you are set. No need to change the name of the file itself, as the scripts will take care of that.
+  
+You might still have a few questions:
+  Q: What happens if I forget to add the title in the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml)?
+  A: If the file you create in the [\_episodes](_episodes) folder does not have a matching title in [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) you will see an **Unrecognised-** prefix added to it and it will not be taken into consideration for the slide generation. But everything will be fine otherwise, with the file you created still in the folder and still being used to generate the website.
+  
+  Q: What happens if I forget to add the **.md** extension?
+  A: The file will be ignored, but it will still be in the folder. It will not be taken into consideration for the slide generation nor for the website. Subsequent edits to other episode files might not manifest on the website, because having a non-markdown file in the folder might break the build process. If you add the **.md** extension everything should be fine again.
+  
+  Q: What happens if I forget to add the YAML header?
+  A: The file will be ignored, but it will stay in the folder.
+  
 
 add episodes to lesson structure first. Why? what happens if you don't?
 
@@ -517,13 +548,30 @@ de-synching from HackMD if file name changes (whether it is the prefix or the ti
 
 ###### HackMD Account
 
+TBD
+
+Get a HackMD account (using your GitHUB ID is the easiest way)
+
 ###### Browser Extension
+
+TBD
+
+This will allow you to have the 'Edit with HackMD' button on your GitHub editor.
+
+If you are using Chrome go here
+
+If you are using Firefox go here
 
 ###### Permissions
 
+TBD
+
 - GitHub Permissions
+  - Make sure you have the permissions for the GitHub repository you will be working on
+    
 
 - HackMD Permissions
+  - Make sure you have the permissions to work on the notes everyone is working on. these notes should be part of a common team (which can be created on HackMD).
 
 
 
@@ -531,10 +579,17 @@ de-synching from HackMD if file name changes (whether it is the prefix or the ti
 
 ###### Notes
 
+TBD
+
+HackMD uses notes. Each note is a markdown file.
+We are using one note for each episode and then there is one note corresponding to the full slides presentation
+
 - Episode Notes
 - Slides Note
 
 ###### Features
+
+TBD
 
 Recommendations for Adding Images
   group as one image
@@ -542,6 +597,9 @@ Recommendations for Adding Images
 
 ##### HackMD Button
 
+TBD
+
+If you want to edit with HackMD this is one way of doing it.
 github editor also opens (you will have to exit after, saying yes to not saving changes)
 
 ##### Push and Pull
