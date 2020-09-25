@@ -344,8 +344,22 @@ If you are not in Full Screen mode you should also be able to see the address ba
 
 #### Main Concerns
 
-images
-slides
+##### Why we need HackMD
+
+As mentioned before, this lesson/course uses [HackMD](https://hackmd.io/team/nyTtT?nav=overview). The sole purpose of this is to easily generate
+slides corresponding to the content shown on the website. The reason for using HackMD for slides (instead of Powerpoint) was to have its content be versionable. HackMD is a user-friendly online tool to create and edit markdown files (as its name implies). It was also built from the start to sync with GitHub, which is where the versioning capabilities come from. Moreover, markdown files on HackMD can be shared by different users, which makes them amenable
+to collaborative work.
+
+As you will see in the following sections, the episodes of this lesson can both be edited on GitHub directly or on HackMD. However, if you want the slides
+to work, you will always need to go to the slides file on HackMD and pull the most recent version from GitHub (if you already have the latest version of the slides on HackMD then you won't need to do anything).
+
+You might be wondering if you can edit everything on GitHub and just use HackMD to pull the most recent version of the slides. This is almost true, except for one thing: **images**. HackMD only recognises images that have been uploaded into its platform. So, if you want your images to display, you will have to use
+HackMD to upload the images there. Luckily, that is extremely easy.
+
+In conclusion, having a presentation that is versionable on GitHub is not yet very straightforward. Maybe in the future there will be an easier way of doing it, but for now, we need to use a tool like HackMd in conjunction with GitHub to achieve that goal. Once you get used to it though, it will not be that hard.
+We aim to make this section of the guide as complete and easy to follow as possible, so that you know how to do it.
+
+<br/>
 
 #### File Creation and Naming
 
