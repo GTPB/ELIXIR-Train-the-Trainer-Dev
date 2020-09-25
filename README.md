@@ -447,13 +447,13 @@ We aim to make this section of the guide as complete and easy to follow as possi
 
 ##### File Creation and Naming
 
-This was another concern, and the other reason why editing has to be done in a specific way. The Carpentries website template uses the [\_episodes](_episodes) folder to store the episodes files and generate the lesson from them. However, one has to have them sorted correctly in the folder, as that order will be mirrored on the website. Since GitHub sorts files alphabetically, we cannot just name them whichever way we want, otherwise we would not get them ordered as they should. The quick fix to this is simply adding a number at the start of every file name, which will force the correct relative order. Unfortunately, this creates another issue, which is related to the maintainability of the episodes. If we want to remove or add an episode we might have to manually change the numbering of all the subsequent ones. In this case, the only way to mitigate this issue was to create a script that would sort the episode files according to a pre-defined order, which could be achieved by having it automatically add a prefix to the file names according to a YAML file with an ordered list of the episodes. This is exactly the approach we chose.
+This was another concern, and the other reason why editing has to be done in a specific way. The Carpentries website template uses the [\_episodes](_episodes) folder to store the episodes files and generate the lesson from them. However, one has to have them sorted correctly in the folder, as that order will be mirrored on the website. Since GitHub sorts files alphabetically, we cannot just name them whichever way we want, otherwise we would not get them ordered as they should. The quick fix to this is simply adding a number at the start of every file name, which will force the correct relative order. Unfortunately, this creates another issue, which is related to the maintainability of the episodes. If we want to remove or add an episode we might have to manually change the numbering of all the subsequent ones. In this case, the only way to mitigate this issue was to create a script that would sort the episode files according to a pre-defined order, which could be achieved by having it automatically add a prefix to the file names according to a YAML file with an ordered list of the episodes. This is precisely the approach we chose.
 
 <br/>
 
 ###### Lesson Structure YAML File
 
-In the [bin/build_lesson](bin/build_lesson) folder you will find the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file. It contains a section, under the 'lesson' field, that list all the episodes and how they fit into each session. It follows the YAML syntax and is structured as a list of lists. The example below (**Example: Lesson Structure**) shows what it looks like at the time of writing of this guide.
+In the [bin/build_lesson](bin/build_lesson) folder you will find the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file. It contains a section, under the 'lesson' field, that lists all the episodes and how they fit into each session. It follows the YAML syntax and is structured as a list of lists. The example below (**Example: Lesson Structure**) shows what it looks like at the time of writing of this guide.
 
 <br/>
 
@@ -494,7 +494,7 @@ In the [bin/build_lesson](bin/build_lesson) folder you will find the [lesson_str
 
 <br/>
 
-As you can see, this is a list with two levels (otherwise know as a list of lists). The first level maps to the sessions. Then, within each session, you will have the list of episodes. Notice that they are not numbered. This makes it easier to maintain, since adding or removing any titles is as easy as going to the specific location on the list and inserting/deleting said title (or set of titles). No need to update any numbers, which is taken care of automatically by the script every time a change is made to an episode in the \_episodes folder. There is, however, the extra overhead of going to the YAML file and changing the list whenever you want to add or remove an episode, but we feel it is less work than the alternative. At the time of writing, you have both to change this YAML file and then create or delete the episode file. We would like to have the latter step be done automatically as well, but such a script has not been done as of yet.
+As you can see, this is a list with two levels (otherwise know as a list of lists). The first level maps to the sessions. Then, within each session, you will have the list of episodes. Notice that they are not numbered. This makes it easier to maintain, since adding or removing any titles is as easy as going to the specific location on the list and inserting/deleting said title (or set of titles). No need to update any numbers, which is taken care of automatically by the script every time a change is made to an episode in the \_episodes folder. There is, however, the extra overhead of going to the YAML file and changing the list whenever you want to add or remove an episode, but we feel it is less work than the alternative. At the time of writing, to edit the episodes you have both to change this YAML file and then create, delete or rename the episode file. We would like to have the latter step be done automatically as well, but such a script has not been done as of yet.
 
 <br/>
 
@@ -504,7 +504,7 @@ Now that you know about the [lesson_structure.yml](bin/build_lesson/lesson_struc
 
 <br/>
 
-- Create (directly on GitHub):
+Create (directly on GitHub):
   1. Go to the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file and insert the title of the new episode in the correct position in the list.
   2. Select over and copy a full YAML header (including the **---** delimiters) from an existing episode.
   3. Go to the [\_episodes](_episodes) folder and click **Add file**. A dropdown menu with the two options **Create new file** and **Upload files** should appear.
@@ -519,31 +519,32 @@ As an example, if your title was 'The wonderful pleasures of teaching' and it co
 
 <br/>
 
-- Delete (directly on GitHub):
+Delete (directly on GitHub):
   - We will not go into too much detail, as the steps are almost the same as before. The difference is that, instead of inserting a title and creating an episode file, you will now be removing said title from the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file and deleting the episode file.
 
 <br/>
 
-- Rename (directly on GitHub):
+Rename (directly on GitHub):
   - Again, this is almost the same as creating an episode file. Just rename it in the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file and in the YAML header of the episode file and you are set. No need to change the name of the file itself, as the scripts will take care of that.
 
+<br/>
 <br/>
 
 You might still have a few questions:
 
 <br/>
 
-Q: What happens if I forget to add the title in the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml)?
+Q: What happens if I forget to add the title in the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml)?  
 A: If the file you create in the [\_episodes](_episodes) folder does not have a matching title in [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) you will see an **Unrecognised-** prefix added to it and it will not be taken into consideration for the slide generation. But everything will be fine otherwise, with the file you created still in the folder and still being used to generate the website.
 
 <br/>  
   
-Q: What happens if I forget to add the **.md** extension?
+Q: What happens if I forget to add the **.md** extension?  
 A: The file will be ignored, but it will still be in the folder. It will not be taken into consideration for the slide generation nor for the website. Subsequent edits to other episode files might not manifest on the website and the scripts might not work either, because having a non-markdown file in the folder might break the build process. If you add the **.md** extension everything should be fine again.
   
 <br/>  
   
-Q: What happens if I forget to add the YAML header?
+Q: What happens if I forget to add the YAML header?  
 A: The file will be ignored, but it will stay in the folder. Subsequent edits to other episode files might not manifest on the website and the scripts might not work either, because having file without a YAML header in the folder might break the build process. If you add the YAML header or delete the file everything should be fine again.
   
 
