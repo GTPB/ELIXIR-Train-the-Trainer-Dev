@@ -17,7 +17,7 @@
         - [Full Presentation](#Full-Presentation)
   - [Editing](#Editing)
     - [Main concerns](#Main-concerns)
-    - [File Creation and Naming](#File-Creation-and-Naming)
+      - [File Creation and Naming](#File-Creation-and-Naming)
     - [HackMD Editing](#HackMD-Editing)
       - [Setting Up HackMD](#Setting-Up-HackMD)
         - [HackMD Account](#HackMD-Account)
@@ -348,7 +348,7 @@ If you are not in Full Screen mode you should also be able to see the address ba
 
 ##### Why we need HackMD
 
-As mentioned before, this lesson/course uses [HackMD](https://hackmd.io/team/nyTtT?nav=overview). The sole purpose of this is to easily generate
+As mentioned before, this lesson/course uses [HackMD](https://hackmd.io/team/nyTtT?nav=overview). The sole purpose of this choice is to easily generate
 slides corresponding to the content shown on the website. The reason for using HackMD for slides (instead of Powerpoint) was to have its content be versionable. HackMD is a user-friendly online tool to create and edit markdown files (as its name implies). It was also built from the start to sync with GitHub, which is where the versioning capabilities come from. Moreover, markdown files on HackMD can be shared by different users, which makes them amenable
 to collaborative work.
 
@@ -363,9 +363,9 @@ We aim to make this section of the guide as complete and easy to follow as possi
 
 <br/>
 
-#### File Creation and Naming
+##### File Creation and Naming
 
-add episodes to lesson structure first. why? what happens if you don't?
+This was another concern, and the other reason why editing has to be done in a specific wayadd episodes to lesson structure first. why? what happens if you don't?
 
 no duplicate names, avoid symbols like ?, :
 
