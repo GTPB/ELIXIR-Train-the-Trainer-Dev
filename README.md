@@ -513,9 +513,9 @@ Create (directly on GitHub):
   5. Paste the previously copied YAML header into the file.
   6. Go to the 'title' field in the YAML header and write the exact same title that you inserted into the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file.
   7. If you wish, add content to the main body of the file. Then, commit (giving your commit and name and description is optional).
-  8. You should now be taken to the [\_episodes](_episodes) folder again. Wait a few seconds and then refresh. The new episode file should now appear with the title you inserted and a prefix of the form **SiEj-**, where **i** and **j** refer to the session and episode numbers, respectively.
+  8. You should now be taken to the [\_episodes](_episodes) folder again. Wait a few seconds and then refresh. The new episode file should now appear with the title you inserted and a prefix of the form **SiEj - **, where **i** and **j** refer to the session and episode numbers, respectively.
   
-As an example, if your title was 'The wonderful pleasures of teaching' and it corresponds to the 11th episode in session 8, you will now have a file named **S8E11-The wonderful pleasures of teaching.md** in your [\_episodes](_episodes) folder.
+As an example, if your title was 'The wonderful pleasures of teaching' and it corresponds to the 11th episode in session 8, you will now have a file named **S8E11 - The wonderful pleasures of teaching.md** in your [\_episodes](_episodes) folder.
 
 <br/>
 
@@ -534,19 +534,27 @@ You might still have a few questions:
 
 <br/>
 
-Q: What happens if I forget to add the title in the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml)?  
-A: If the file you create in the [\_episodes](_episodes) folder does not have a matching title in [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) you will see an **Unrecognised-** prefix added to it and it will not be taken into consideration for the slide generation. But everything will be fine otherwise, with the file you created still in the folder and still being used to generate the website.
+**Q**: What happens if I forget to add the title in the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml)?  
+
+**A**: If the file you create in the [\_episodes](_episodes) folder does not have a matching title in [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) you will see an **Unrecognised-** prefix added to it and it will not be taken into consideration for the slide generation. But everything will be fine otherwise, with the file you created still in the folder and still being used to generate the website.
 
 <br/>  
   
-Q: What happens if I forget to add the **.md** extension?  
-A: The file will be ignored, but it will still be in the folder. It will not be taken into consideration for the slide generation nor for the website. Subsequent edits to other episode files might not manifest on the website and the scripts might not work either, because having a non-markdown file in the folder might break the build process. If you add the **.md** extension everything should be fine again.
+**Q**: What happens if I forget to add the **.md** extension?  
+
+**A**: The file will be ignored, but it will still be in the folder. It will not be taken into consideration for the slide generation nor for the website. Subsequent edits to other episode files might not manifest on the website and the scripts might not work either, because having a non-markdown file in the folder might break the build process. If you add the **.md** extension everything should be fine again.
   
 <br/>  
   
-Q: What happens if I forget to add the YAML header?  
-A: The file will be ignored, but it will stay in the folder. Subsequent edits to other episode files might not manifest on the website and the scripts might not work either, because having file without a YAML header in the folder might break the build process. If you add the YAML header or delete the file everything should be fine again.
-  
+**Q**: What happens if I forget to add the YAML header?  
+
+**A**: The file will be ignored, but it will stay in the folder. Subsequent edits to other episode files might not manifest on the website and the scripts might not work either, because having file without a YAML header in the folder might break the build process. If you add the YAML header or delete the file everything should be fine again.
+
+<br/> 
+
+**Q**: I have noticed that the title I added in the YAML header of an episode has been automatically updated with a **SiEj** prefix. Now I want to change the that title. Do I replace just the title and leave the prefix in the YAML header?
+
+**A**: It does not matter. You can either leave the prefix or replace everything with the new title. As long as the title is recognised, the algorithms will take care of adding the prefix if it is not there.
 
 add episodes to lesson structure first. Why? what happens if you don't?
 
