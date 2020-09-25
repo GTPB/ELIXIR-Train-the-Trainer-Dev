@@ -89,7 +89,7 @@ To cite this lesson, please consult with [CITATION](CITATION)
 
 ## Summary
 
-This is a guide for anyone who wants to edit these episodes. The reason for having such a guide is that, unlike many simpler repositories, the episode files in this folder might undergo some extra automatic transformations after each edit/commit. They are also meant to be used both by GitHub Pages and HackMD, which requires some extra care with the formatting.
+This is a guide for anyone who wants to edit these episodes. The reason for having such a guide is that, unlike many simpler repositories, the episode files in this folder might undergo some extra automatic transformations after each edit/commit. They are also meant to be used both by GitHub Pages and HackMD, which requires some extra care with the formatting. This does not mean it is much more complicated than contributing to any other Carpentries lesson, so do not let the size of the guide scare you. Most of it are things you are probably already familiar with if you have done it before, but we like to have it as a reference that you can go back to, just in case.
 
 <br/>
 
