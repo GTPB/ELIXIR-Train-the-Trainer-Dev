@@ -270,7 +270,7 @@ If there is content that you would like to add to the markdown files (e.g. for p
 
 Since Liquid comments are invisible to the generated website, we use it here to also add the content for the slides. The slides are meant to be shown using [HackMD](https://hackmd.io/team/nyTtT?nav=overview).
 
-In order to add content fto the slides we use the **$$$** tag within the liquid comment tags. So, it would look something like this:
+In order to add content to the slides we use the **$$$** tag within the liquid comment tags. So, it would look something like this:
 
 <br/>
 
@@ -295,6 +295,10 @@ This is another comment in the Liquid template language.
 <br/>
 
 We recommend not leaving an empty line between the **$$$** tags and the content, as it may lead to bad formatting.
+
+The slides section has to be inside the first Liquid comment, and there can only be one slides section. All the others
+will be ignored. So, for the sake of simplicity, we recommend you only have one Liquid comment section at the end of the
+file and one slides section within it.
 
 There is one other thing to consider when building the slides - how does one delimit the content for just one slide?
 The way to tell HackMD that a slide is over and another one begins is by adding three dashes (**---**) between them. **Example: Slide Delimiter** illustrates this:
