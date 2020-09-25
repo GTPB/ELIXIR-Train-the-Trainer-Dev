@@ -11,7 +11,7 @@ questions:
 - What are the goals and intended learning outcomes of this session?
 slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/
 teaching: 3
-title: S1E1-Session Description - Principles of learning and how they apply to training
+title: S1E1 - Session Description - Principles of learning and how they apply to training
   and teaching
 
 ---

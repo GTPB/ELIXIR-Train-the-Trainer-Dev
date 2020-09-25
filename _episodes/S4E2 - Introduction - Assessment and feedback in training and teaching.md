@@ -8,7 +8,7 @@ questions:
 - In what ways can one assess?
 slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/132
 teaching: 5
-title: S4E2-Introduction - Assessment and feedback in training and teaching
+title: S4E2 - Introduction - Assessment and feedback in training and teaching
 
 ---
 

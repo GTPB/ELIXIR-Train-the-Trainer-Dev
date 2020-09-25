@@ -9,7 +9,7 @@ questions:
   learning from their students.
 slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/49
 teaching: 10
-title: S2E4-Learning Principles
+title: S2E4 - Learning Principles
 
 ---
 

@@ -9,7 +9,7 @@ questions:
   course?
 slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/41
 teaching: 18
-title: S2E2-Introduction - Training techniques that enhance learner participation
+title: S2E2 - Introduction - Training techniques that enhance learner participation
   and engagement
 
 ---

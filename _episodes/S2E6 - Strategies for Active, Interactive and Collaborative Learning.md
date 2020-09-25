@@ -14,7 +14,7 @@ questions:
 - What strategies can a trainer apply?
 slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/68
 teaching: 10
-title: S2E6-Strategies for Active, Interactive and Collaborative Learning
+title: S2E6 - Strategies for Active, Interactive and Collaborative Learning
 
 ---
 

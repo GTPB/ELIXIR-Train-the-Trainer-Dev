@@ -11,7 +11,7 @@ questions:
 - What are the steps to designing a course?
 slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/118
 teaching: 10
-title: S3E5-From Lesson to Course Planning
+title: S3E5 - From Lesson to Course Planning
 
 ---
 

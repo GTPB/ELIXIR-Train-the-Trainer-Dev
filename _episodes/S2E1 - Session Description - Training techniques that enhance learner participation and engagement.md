@@ -11,7 +11,7 @@ questions:
 - What are the goals and intended learning outcomes of this session?
 slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/37
 teaching: 3
-title: S2E1-Session Description - Training techniques that enhance learner participation
+title: S2E1 - Session Description - Training techniques that enhance learner participation
   and engagement
 
 ---

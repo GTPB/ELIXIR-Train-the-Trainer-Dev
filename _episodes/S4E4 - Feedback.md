@@ -8,7 +8,7 @@ questions:
 - How to get and handle feedback?
 slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/145
 teaching: 10
-title: S4E4-Feedback
+title: S4E4 - Feedback
 
 ---
 
