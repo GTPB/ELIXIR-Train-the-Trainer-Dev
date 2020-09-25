@@ -240,9 +240,10 @@ The way to tell HackMD that a slide is over and another one begins is by adding 
 <br/>
 
 **Example: Slide Delimiter**
-{%comment%}
 
 ~~~
+{%comment%}
+
 $$$
 This is content for a slide
 
