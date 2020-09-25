@@ -122,11 +122,12 @@ As we have mentioned before, this lesson is built using a Carpentries template, 
 
 The first diagram briefly describes the **build_lesson_wf.yml** workflow and its associated scripts and resources.
 
-**Note**: In this context, **workflow** has a very precise meaning . it is a **GitHub Actions** workflow. For more details on GitHub Actions check its [documentation](https://docs.github.com/en/free-pro-team@latest/actions/learn-github-actions) (this is not necessary to contribute to this lesson mind you).
+**Note**: In this context, **workflow** has a very precise meaning . It is a **GitHub Actions** workflow. For more details on GitHub Actions check its [documentation](https://docs.github.com/en/free-pro-team@latest/actions/learn-github-actions) (this is not necessary to contribute to this lesson mind you).
 
 <br/>
 
 **Fig: Workflow**
+
 ![](editing_figs/Automation_Diagram.png)
 
 ## Editing Instructions and Guidelines
