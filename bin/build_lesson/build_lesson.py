@@ -96,7 +96,7 @@ slidesTag = "$$$"
 yamlDocumentTag = "---"
 
 # The tag that will be added to unrecognised files in the _episodes folder.
-unrecognisedTag = "Unrecognised-"
+unrecognisedTag = "Unrecognised - "
 
 # Folder where the episodes can be found.
 build_lessonFolderPath = "bin/build_lesson/"
@@ -257,7 +257,7 @@ def preProcessing(lessonDict):
             newFilePath = filePath
             if matchingTitle != None:
                 episodeInfo = lessonDict[matchingTitle]
-                newFileName = episodeInfo["prefix"] + "-" + matchingTitle + ".md"
+                newFileName = episodeInfo["prefix"] + " - " + matchingTitle + ".md"
                 newFilePath = episodesFolderPath + newFileName
             else:
                 if fileName[:len(unrecognisedTag)] != unrecognisedTag:
