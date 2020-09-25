@@ -327,6 +327,8 @@ As a reminder, you can also see the presentation in full screen. To do this in C
 3. Go to the Full Screen symbol, as shown in **Fig: Full Screen**. Click it.
 4. If you want to exit Full Screen mode you can try the Esc button or going with the mouse pointer to either the left or the right top corner of
 the screen (Mac is usually left, while Windows is usually right), until the window buttons appear and allow you to set the screen to Normal mode.
+
+<br/>
 <br/>
 
 **Fig: Full Screen**
