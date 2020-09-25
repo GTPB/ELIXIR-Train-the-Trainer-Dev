@@ -10,9 +10,11 @@
   - [Episode File Structure](#Episode-File-Structure)
     - [YAML Header](#YAML-Header)
     - [Website Content](#Website-Content)
+    - [Challenges](#Challenges)
     - [Liquid Comment Section](#Liquid-Comment-Section)
       - [GitHub-Only](#GitHub-Only)
       - [Slides Content](#Slides-Content)
+        - [Full Presentation](#Full-Presentation)
   - [Editing](#Editing)
     - [Main concerns](#Main-concerns)
     - [File Creation and Naming](#File-Creation-and-Naming)
@@ -131,7 +133,7 @@ The information in the YAML header is chiefly responsible for generating the hea
 
 <br/>
 
-In the header, **Slides** (in blue) is a link to whatever URL is assigned to the 'slides_url' field in **Example: YAML Header**. The link will take you to the first slide of that episode. In case an episode does not have any slides, the link will take you to the first slide of the last episode that had slides.
+In the header, **Slides** (in blue) is a link to whatever URL is assigned to the 'slides_url' field in **Example: YAML Header**. The link will take you to the first slide of that episode. In case an episode does not have any slides, the link will take you to the first slide of the last episode before that one that had slides.
 
 <br/>
 
