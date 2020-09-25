@@ -565,21 +565,23 @@ You might still have a few questions:
 
 **A**: It does not matter. You can either leave the prefix or replace everything with the new title. As long as the title is recognised, the algorithms will take care of adding the prefix if it is not there.
 
+
+
+**Q**: What happens if I give the same title to two or more episodes?
+
+**A**: Do not do that. Currently, the algorithm will not work properly and it will not recognise one of them. For example, do not name two episodes in different sessions with the title 'Introduction'.
+
+
+
+**Q**: Should I avoid titles with symbols like **?**, **:**, **,**, **;** and other unusual symbols for file names?
+
+**A**: Yes.
+
+
 <br/>
 <br/>
 <br/>
 
-add episodes to lesson structure first. Why? what happens if you don't?
-
-no duplicate names, avoid symbols like ?, :
-
-name it whatever, but make sure it has an .md at the end
-
-do not add files with no yaml header - might not build the website
-
-de-synching from HackMD if file name changes (whether it is the prefix or the title)
-  pulling won't work
-  go through github hackmd edit button
 
 #### HackMD Editing
 
@@ -654,6 +656,11 @@ github editor also opens (you will have to exit after, saying yes to not saving 
 - exiting a note (issue)
 
 if you edit and then push slides file from hackMD to github it won't do anything
+
+de-synching from HackMD if file name changes (e.g. someone changed it on GitHub, whether it is the prefix or the title)
+  pulling won't work
+  go through github hackmd edit button
+
 
 #### GitHub Editing
 
