@@ -7,7 +7,7 @@ outcomes:
 questions:
 - What principles should a trainer apply to their course in order to allow for effective
   learning from their students.
-slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/50
+slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/64
 teaching: 10
 title: S2E4-Learning Principles
 
