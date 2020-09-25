@@ -431,8 +431,7 @@ We aim to make this section of the guide as complete and easy to follow as possi
 
 ##### File Creation and Naming
 
-This was another concern, and the other reason why editing has to be done in a specific way. The Carpentries website template uses the \_episodes folder to store
-the episodes files and generate the lesson from them. However, one has to have them sorted correctly in the folder, as that order will be mirrored on the website. Since GitHub sorts files alphabetically, we cannot just name them whichever way we want, otherwise we would not get them ordered as they should. The quick fix to this is simply adding a number at the start of every file name, which will force the correct relative order. Unfortunately, this creates another issue, which is related to the maintainability of the episodes. If we want to remove or add an episode we might have to manually change the numbering of all the subsequent ones. In this case, the only way to mitigate this issue was to create a script that would sort the episode files according to a pre-defined order, which could be achieved by having it automatically add a prefix to the file names according to a YAML file with an ordered list of the episodes. This is exactly the approach we chose.
+This was another concern, and the other reason why editing has to be done in a specific way. The Carpentries website template uses the [\_episodes](_episodes) folder to store the episodes files and generate the lesson from them. However, one has to have them sorted correctly in the folder, as that order will be mirrored on the website. Since GitHub sorts files alphabetically, we cannot just name them whichever way we want, otherwise we would not get them ordered as they should. The quick fix to this is simply adding a number at the start of every file name, which will force the correct relative order. Unfortunately, this creates another issue, which is related to the maintainability of the episodes. If we want to remove or add an episode we might have to manually change the numbering of all the subsequent ones. In this case, the only way to mitigate this issue was to create a script that would sort the episode files according to a pre-defined order, which could be achieved by having it automatically add a prefix to the file names according to a YAML file with an ordered list of the episodes. This is exactly the approach we chose.
 
 <br/>
 
@@ -443,6 +442,7 @@ In the [bin/build_lesson](bin/build_lesson) folder you will find the [lesson_str
 <br/>
 
 **Example: Lesson Structure**
+
  lesson:
  -
   - "Session Description - Principles of learning and how they apply to training and teaching"
