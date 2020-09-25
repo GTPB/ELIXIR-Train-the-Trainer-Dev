@@ -9,7 +9,7 @@ This repository generates the corresponding lesson website from [The Carpentries
 We welcome all contributions to improve the lesson! Maintainers will do their best to help you if you have any
 questions, concerns, or experience any difficulties along the way.
 
-If you would like to contribute to the content of the lesson itself, please refer to the [Episode-Editing Guide](Episode-Editing-Guide) below.
+If you would like to contribute to the content of the lesson itself, please refer to the [Episode-Editing Guide](#Episode-Editing-Guide) below.
 
 If you want to learn about the general contributuion guidelines for Carpentries lesson we'd like to ask you to familiarize yourself with our [Contribution Guide](CONTRIBUTING.md) and have a look at the [more detailed guidelines][lesson-example] on proper formatting, ways to render the lesson locally, and even
 how to write new episodes.
