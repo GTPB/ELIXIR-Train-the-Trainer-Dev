@@ -542,6 +542,9 @@ Rename (directly on GitHub):
 You might still have a few questions:
 
 <br/>
+
+---
+
 <br/>
 
 **Q**: What happens if I forget to add the title in the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml)?  
@@ -549,6 +552,9 @@ You might still have a few questions:
 **A**: If the file you create in the [\_episodes](_episodes) folder does not have a matching title in [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) you will see an **Unrecognised** prefix added to it and it will not be taken into consideration for the slide generation. But everything will be fine otherwise, with the file you created still in the folder and still being used to generate the website.
 
 <br/>
+
+---
+
 <br/>
   
 **Q**: What happens if I forget to add the **.md** extension?  
@@ -556,6 +562,9 @@ You might still have a few questions:
 **A**: The file will be ignored, but it will still be in the folder. It will not be taken into consideration for the slide generation nor for the website. Subsequent edits to other episode files might not manifest on the website and the scripts might not work either, because having a non-markdown file in the folder might break the build process. If you add the **.md** extension everything should be fine again.
   
 <br/>
+
+---
+
 <br/>
   
 **Q**: What happens if I forget to add the YAML header?  
@@ -591,6 +600,10 @@ You might still have a few questions:
 **Q**: Should I avoid titles with symbols like **?**, **:**, **,**, **;** and other unusual symbols for file names?
 
 **A**: Yes.
+
+<br/>
+
+---
 
 
 <br/>
