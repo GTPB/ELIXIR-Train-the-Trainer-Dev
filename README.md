@@ -235,12 +235,15 @@ Carpentries-style websites can have pre-defined sections for their episodes, whi
 Below you can see the piece of markdown text and liquid tag responsible for generating the section above:
 
 ~~~
-> ## Challenge: Teaching or training? (3 min + 3 min)
+> ## Challenge: How do you go about learning something new? How do you approach learning new things? (3min + 5min)
 >
-> - Based on your experience, what are in your opinion the differences between teaching and training?
-> - Identify two main differences
-> - Discuss them with your partner
-> - Write them in the Gdoc (share them with us)
+> - Which is the most effective approach for you to learn?
+>   - Read about it
+>   - Attend a training session!
+>   - Have a go?
+>   - Do, reflect, process, further understand?
+> - Make a list of three approaches that work for you when you want to learn something new (from the most complete to the least effective)
+> - Discuss it with your partner and compare.
 {: .challenge}
 ~~~
 
@@ -636,13 +639,14 @@ tab.
 
 TBD
 
+<br/>
+
 ###### Potential File Conflicts Due to GitHub Actions
 
 If you are familiar with GitHub then you will know that one of the reasons it was created was to allow people to collaborate more easily. One of the most important parts of this process is having a system that helps its users deal with file inconsistencies that arise from having more than person accessing and modifying the same file.
 
 
-potential issues if you don't way long enough - warning that file might have been changed
-   what to do? - copy-paste
+TBD (show screeshot of conflict, solution on editing directlly GitHub is copy-paste)
    
    
 ##### Slides
