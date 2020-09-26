@@ -76,6 +76,7 @@ To cite this lesson, please consult with [CITATION](CITATION)
       - [File Creation and Naming](#File-Creation-and-Naming)
         - [Lesson Structure YAML File](#Lesson-Structure-YAML-File)
         - [Creating-Deleting-Renaming an Episode](#Creating-Deleting-Renaming-an-Episode)
+    - [GitHub Editing](#GitHub-Editing)
     - [HackMD Editing](#HackMD-Editing)
       - [Setting Up HackMD](#Setting-Up-HackMD)
         - [HackMD Account](#HackMD-Account)
@@ -612,9 +613,43 @@ You might still have a few questions:
 
 ###### Editing The YAML Header
 
-The YAML header in each episode file is easy to edit. And if you have edited Carpentries lessons then you know what to do. As mentioned before, the order in which the fields can appear might vary, but this is not an issue. It just might make it harder to see the fields straigh away. We should also point that even when the value for a field is a string you do not need to enclose it in either double or single quotes. Whether you do or you do not, the result will be the same.
+The YAML header in each episode file is straightforwards to edit, especially if you have edited Carpentries lessons before or if you know YAMl syntax. As mentioned before, the order in which the fields can appear might vary, but this is not an issue. It just might make it harder to see the fields straigh away. We should also point out that even when the value for a field is a string you do not need to enclose it in either double or single quotes. Whether you do or you do not, the result will be the same.
 
-The **slides_url** field is not to be edited directly on the episode files. These URLs are automatically generated from the base slide URL, which can be found in the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file. This is where you need to add the URL for the slides, once you have them all in a note in HackMD.
+The **slides_url** field is not to be edited directly on the episode files. These URLs are automatically generated from the base slide URL, which can be found in the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file, in the field **slides_base_url**. This is where you need to add the URL for the slides, once you have them all in one note in HackMD.
+
+<br/>
+
+#### GitHub Editing
+
+In this guide we assume that you are familiar with editing directly on GitHub (or locally in your machine and then pushing to GitHub). In any case, we thought it better to just add a few notes on this subject, especially since there are some aspects that might give you trouble if you are not careful.
+
+<br/>
+
+##### Waiting for the Scripts to Run
+
+As you probably know by now, this repository uses **GitHub Actions**. This means that every time you commit or push to it, there will be a script running in the background, for a few seconds. This script might make a few changes to the files you just edited, but you will not see these changes right away. We recommend waiting a few seconds and then refreshing a page in order to see the changes you expect. However, if you are not sure whether or not you have waited long enough, you can always check the **Actions** tab of your repository. Below we give you a detailed explanation of how to use and interpret  the **Actions**
+tab.
+
+<br/>
+
+###### Actions Tab
+
+TBD
+
+###### Potential File Conflicts Due to GitHub Actions
+
+If you are familiar with GitHub then you will know that one of the reasons it was created was to allow people to collaborate more easily. One of the most important parts of this process is having a system that helps its users deal with file inconsistencies that arise from having more than person accessing and modifying the same file.
+
+
+potential issues if you don't way long enough - warning that file might have been changed
+   what to do? - copy-paste
+   
+   
+##### Slides
+
+TBD
+
+If you want the slides to work you still have to go to the TtT slides file on HackMD and pull the most recent version of **slide.md** from GitHub.
 
 #### HackMD Editing
 
@@ -667,7 +702,9 @@ TBD
 
 Recommendations for Adding Images
   group as one image
-  resize somewhere else
+ 
+Adding images
+  Resizing images
 
 ##### HackMD Button
 
@@ -677,6 +714,8 @@ If you want to edit with HackMD this is one way of doing it.
 github editor also opens (you will have to exit after, saying yes to not saving changes)
 
 ##### Push and Pull
+
+TBD
 
 - if you forget to pull
 
@@ -695,13 +734,3 @@ de-synching from HackMD if file name changes (e.g. someone changed it on GitHub,
   go through github hackmd edit button
 
 
-#### GitHub Editing
-
-give it some time
-
-actions tab
-
-potential issues if you don't way long enough - warning that file might have been changed
-   what to do? - copy-paste
-   
-if you want the slides to work you still have to go to the TtT file on HackMD and pull
