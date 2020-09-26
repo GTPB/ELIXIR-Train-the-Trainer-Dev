@@ -502,6 +502,10 @@ As you can see, this is a list with two levels (otherwise know as a list of list
 
 <br/>
 
+The [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file also contains a field called **slides_base_url**. Once you have the **slides.md** as a note on HackMD (look at section [Notes](#Notes)), copy-paste the base URL into this field. By 'base URL' we mean the address to the first slide. For example, at the time of writing, the base URL is https://hackmd.io/@nyTtT/r1tHvVR4w#/. All the other slides have a number at the end, corresponding to each subsequent page. So, you would have https://hackmd.io/@nyTtT/r1tHvVR4w#/1 for the second slide, https://hackmd.io/@nyTtT/r1tHvVR4w#/ for the thrid, and so on.
+
+<br/>
+
 ###### Creating-Deleting-Renaming an Episode 
 
 Now that you know about the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file, we will describe in detail the steps you have to take in order to create, delete or rename an episode file.
@@ -565,13 +569,15 @@ You might still have a few questions:
 
 **A**: It does not matter. You can either leave the prefix or replace everything with the new title. As long as the title is recognised, the algorithms will take care of adding the prefix if it is not there.
 
-
+<br/>
+<br/>
 
 **Q**: What happens if I give the same title to two or more episodes?
 
 **A**: Do not do that. Currently, the algorithm will not work properly and it will not recognise one of them. For example, do not name two episodes in different sessions with the title 'Introduction'.
 
-
+<br/>
+<br/>
 
 **Q**: Should I avoid titles with symbols like **?**, **:**, **,**, **;** and other unusual symbols for file names?
 
@@ -583,6 +589,10 @@ You might still have a few questions:
 <br/>
 
 ###### Editing The YAML Header
+
+The YAML header in each episode file is easy to edit. And if you have edited Carpentries lessons then you know what to do. As mentioned before, the order in which the fields can appear might vary, but this is not an issue. It just might make it harder to see the fields straigh away. We should also point that even when the value for a field is a string you do not need to enclose it in either double or single quotes. Whether you do or you do not, the result will be the same.
+
+The **slides_url** field is not to be edited directly on the episode files. These URLs are automatically generated from the base slide URL, which can be found in the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file. This is where you need to add the URL for the slides, once you have them all in a note in HackMD.
 
 #### HackMD Editing
 
