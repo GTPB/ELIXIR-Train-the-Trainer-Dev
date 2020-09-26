@@ -502,7 +502,7 @@ As you can see, this is a list with two levels (otherwise know as a list of list
 
 <br/>
 
-The [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file also contains a field called **slides_base_url**. Once you have the **slides.md** as a note on HackMD (look at section [Notes](#Notes)), copy-paste the base URL into this field. By 'base URL' we mean the address to the first slide. For example, at the time of writing, the base URL is https://hackmd.io/@nyTtT/r1tHvVR4w#/. All the other slides have a number at the end, corresponding to each subsequent page. So, you would have https://hackmd.io/@nyTtT/r1tHvVR4w#/1 for the second slide, https://hackmd.io/@nyTtT/r1tHvVR4w#/ for the thrid, and so on.
+The [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file also contains a field called **slides_base_url**. Once you have the **slides.md** as a note on HackMD (look at section [Notes](#Notes)), copy-paste the base URL into this field. By 'base URL' we mean the address to the first slide. For example, at the time of writing, the base URL is https://hackmd.io/@nyTtT/r1tHvVR4w#/. All the other slides have a number at the end, corresponding to each subsequent page. So, you would have https://hackmd.io/@nyTtT/r1tHvVR4w#/1 for the second slide, https://hackmd.io/@nyTtT/r1tHvVR4w#/2 for the third slide, and so on.
 
 <br/>
 
@@ -563,6 +563,9 @@ You might still have a few questions:
 **A**: The file will be ignored, but it will stay in the folder. Subsequent edits to other episode files might not manifest on the website and the scripts might not work either, because having file without a YAML header in the folder might break the build process. If you add the YAML header or delete the file everything should be fine again.
 
 <br/>
+
+---
+
 <br/>
 
 **Q**: I have noticed that the title I added in the YAML header of an episode has been automatically updated with a **SiEj** prefix. Now I want to change that title. Do I replace just the title and leave the prefix in the YAML header? Or do I overwrite the whole thing?
@@ -570,6 +573,9 @@ You might still have a few questions:
 **A**: It does not matter. You can either leave the prefix or replace everything with the new title. As long as the title is recognised, the algorithms will take care of adding the prefix if it is not there.
 
 <br/>
+
+---
+
 <br/>
 
 **Q**: What happens if I give the same title to two or more episodes?
@@ -577,6 +583,9 @@ You might still have a few questions:
 **A**: Do not do that. Currently, the algorithm will not work properly and it will not recognise one of them. For example, do not name two episodes in different sessions with the title 'Introduction'.
 
 <br/>
+
+---
+
 <br/>
 
 **Q**: Should I avoid titles with symbols like **?**, **:**, **,**, **;** and other unusual symbols for file names?
