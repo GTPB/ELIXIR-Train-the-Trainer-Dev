@@ -169,6 +169,8 @@ $$$
 
 There is no universal theory of learning, but evidence-based research results support some learning principles, which are today accepted and applied.
 
+---
+
 ![](https://i.imgur.com/NnT2Fzr.jpg =800x500)
 
 ---
