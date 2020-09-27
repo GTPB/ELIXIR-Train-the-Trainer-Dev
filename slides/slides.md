@@ -44,17 +44,9 @@ body {
 
 ## Introductory Information
 
-### Collaborative Document
-
-- TBD
-
-### Code of Conduct
-
-https://elixir-europe.org/events/code-of-conduct
-
-### Course Materials
-
-- TBD
+- **Collaborative Document**: TBD
+- **Code of Conduct**: https://elixir-europe.org/events/code-of-conduct
+- **Course Materials**: TBD
 
 ---
 
@@ -65,7 +57,7 @@ https://elixir-europe.org/events/code-of-conduct
 
 ---
 
-## Challenge 1: Your Intro (3min + 1min for each of you)
+## Challenge: Your Intro (3min + 1min for each of you)
 
 - Take 1 min to think about 3 keywords that describe you (could be adjectives, interests, research topics, personal characteristics, etc)
 - Introduce yourself telling us:
@@ -76,7 +68,7 @@ https://elixir-europe.org/events/code-of-conduct
 
 ---
 
-## Challenge 2: Your Expectations (3min)
+## Challenge: Your Expectations (3min)
 
 - Write down your expectations. What do you expect to take home from this course?
 
