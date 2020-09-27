@@ -177,13 +177,13 @@ There is no universal theory of learning, but evidence-based research results su
 
 ## Six strategies for effective learning (based on evidence from cognitive research)
 
----
-
 ![](https://i.imgur.com/zs1NHjV.png)
 
 ---
 
 _Six Strategies for Effective Learning_, by Yana Weinstein, Megan Smith & Oliver Caviglioli is licensed under a Create Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. It is based on work that can be found at [http://www.learningscientists.org, teachinghow2s.com/cogsci](http://www.learningscientists.org, teachinghow2s.com/cogsci)
+
+---
 
 ![](https://i.imgur.com/cyRoQaE.png)
 
