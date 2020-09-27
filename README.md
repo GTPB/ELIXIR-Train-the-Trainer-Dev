@@ -11,7 +11,7 @@ questions, concerns, or experience any difficulties along the way.
 
 If you would like to contribute to the content of the lesson itself, please refer to the [Quick-Episode-Editing Guide](#Quick-Episode-Editing-Guide), or to the 
 [Full-Episode-Editing Guide](#Full-Episode-Editing-Guide) in case you want a more in-depth explanation of how to contribute.
-If you want to learn about the general contributuion guidelines for Carpentries lesson we'd like to ask you to familiarize yourself with our [Contribution Guide](CONTRIBUTING.md) and have a look at the [more detailed guidelines][lesson-example] on proper formatting, ways to render the lesson locally, and even
+If you want to learn about the general contribution guidelines for Carpentries lesson we would like to ask you to familiarize yourself with our [Contribution Guide](CONTRIBUTING.md) and have a look at the [more detailed guidelines][lesson-example] on proper formatting, ways to render the lesson locally, and even
 how to write new episodes.
 
 Please see the current list of [issues][FIXME] for ideas for contributing to this
