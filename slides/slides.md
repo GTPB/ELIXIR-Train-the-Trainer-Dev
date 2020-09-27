@@ -632,9 +632,9 @@ Think about a motivating experience in your life (as a student or as an instruct
 
 ## Challenge: What can I do to create a motivating environment?
 
-Think, pair, share  
-In pairs, think about what you could do to create a motivating environment in your classroom. 
-Share it with us.
+- Think, pair, share  
+- In pairs, think about what you could do to create a motivating environment in your classroom. 
+- Share it with us.
 
 ---
 
