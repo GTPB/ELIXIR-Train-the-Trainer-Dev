@@ -340,10 +340,10 @@ def buildSlidesFile(lessonDict):
         currentEpisodeInfo = lessonDict[allEpisodeTitles[i]]
         if currentEpisodeInfo["slidesContent"] != None:
             slidesContent =  slidesContent + currentEpisodeInfo["slidesContent"]
-            if i < l - 1:
-                nextEpisodeInfo = lessonDict[allEpisodeTitles[i + 1]]
-                if currentEpisodeInfo["sessionNumber"] != nextEpisodeInfo["sessionNumber"]:
-                    slidesContent = slidesContent + slides_end_of_sessionContent
+        if i < l - 1:
+            nextEpisodeInfo = lessonDict[allEpisodeTitles[i + 1]]
+            if currentEpisodeInfo["sessionNumber"] != nextEpisodeInfo["sessionNumber"]:
+                slidesContent = slidesContent + slides_end_of_sessionContent
             elif i == l - 1:
                 slidesContent = slidesContent + slides_end_of_sessionContent
         i = i + 1
