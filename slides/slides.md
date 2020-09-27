@@ -1293,6 +1293,18 @@ Articulate a goal of good teaching practice that you are ready to apply for your
 
 ---
 
+## Wrapping-up
+
+What did you learn in this session?
+- One person at a time, no repetition
+
+
+## Time to relax!
+
+# End of Session
+
+---
+
 ## Session objectives
 
 Develop an understanding of different types of feedback, when to give and receive feedback, and for which purpose.

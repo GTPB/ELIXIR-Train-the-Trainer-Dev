@@ -11,7 +11,7 @@ questions:
 - What are the steps to designing a course?
 slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/129
 teaching: 10
-title: Wrap-up - Design and plan session, course, materials
+title: S3E6 - Wrap-up - Design and plan session, course, materials
 
 ---
 
