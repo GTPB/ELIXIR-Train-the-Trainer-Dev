@@ -978,8 +978,10 @@ Choose a topic to demonstrate your training in three minutes.
 ---
 
 ## Concept map - FAIR principles
-Parking lot?
-What is this supposed to look like?
+
+---
+
+![](https://i.imgur.com/PtkvTwH.png)
 
 ---
 
