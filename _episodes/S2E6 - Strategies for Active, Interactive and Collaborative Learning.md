@@ -264,6 +264,7 @@ https://serc.carleton.edu/sp/library/interactive/
 ---
 
 ## Activities and attitudes the instructor should promote
+
 - Listening
 - Questions asking
 - Group discussions/brainstorming
@@ -275,6 +276,7 @@ https://serc.carleton.edu/sp/library/interactive/
 ---
 
 ## Activities and attitudes the instructor should avoid or keep to a minimum
+
 - Unidirectional lecturing
 - Individual work out with no feedback
 - Providing answers before letting participants doing it
@@ -285,34 +287,39 @@ https://serc.carleton.edu/sp/library/interactive/
 ---
 
 ## Technique - Wrap-up
+
 Allow time for wrap up and feedback
 
 ---
 
-## Challenge 9
-On the GDoc
+## Challenge
+
+- On the GDoc
  
-One or more new things that you have learned today and could be useful for your future teaching/training
+- One or more new things that you have learned today and could be useful for your future teaching/training
 
 ---
 
-## Challenge 10 - your vote counts
+## Challenge: your vote counts
+
 Add a + sign next to the point you agree the most
 
-:D - Great I feel I’m learning new things  
-:] - I feel neutral, maybe I need more time to reflect  
-:S - I am more confused then ever
+- :D - Great I feel I’m learning new things  
+- :] - I feel neutral, maybe I need more time to reflect  
+- :S - I am more confused then ever
 
 ---
 
 ## Technique - Short feedback
+
 - Sticky notes: red and green
 - Minute cards: positive and negative (anonymous)
 - One up, one down: positive and negative (no repetition)
 
 ---
 
-## Challenge 11 - One up one down
+## Challenge: One up one down
+
 1. Something you liked about what you did (do this again!)
 2. Something you would like to change (avoid next time)
 
