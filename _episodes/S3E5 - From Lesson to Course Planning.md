@@ -153,6 +153,8 @@ $$$
 
 ![](https://i.imgur.com/piDsVEW.png)
 
+---
+
 - LOs should then be instantiated as activities and quality checks
   - Learning activities: scripts, slides, exercises, tutorials, …
   - Assessment tools: creative activities, written tests, …
