@@ -182,7 +182,7 @@ Example: mental model of DNA
   - Fluid representations
   
 ---
-  
+
 ## Three classes of misconceptions
 
 1. **Simple factual errors**: These are the easiest to correct.
