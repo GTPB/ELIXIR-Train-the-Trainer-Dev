@@ -351,13 +351,13 @@ Principle **P1**: Students' prior knowledge can help or hinder learning.
 
 ---
 
-### The Dreyfus model of skill acquisition
+## The Dreyfus model of skill acquisition
 
 ![](https://i.imgur.com/83hHqVL.png)
 
 ---
 
-### The Carpentries model of skill acquisition
+## The Carpentries model of skill acquisition
 
 ![](https://i.imgur.com/MqtFAuL.png)
 
@@ -371,15 +371,13 @@ Mental model - A collection of concepts and facts, along with the relationships 
 
 ---
 
-
 Example: mental model of DNA
 
 ![](https://i.imgur.com/J8nGdnt.png)
 
 ---
 
-
-### Novice vs Competent Practitioner vs Expert
+## Novice vs Competent Practitioner vs Expert
 
 - A novice, typically has not yet built a mental model of the field.
 
@@ -401,7 +399,7 @@ Example: mental model of DNA
   
 ---
   
-### Three classes of misconceptions
+## Three classes of misconceptions
 
 1. **Simple factual errors**: These are the easiest to correct.
 
@@ -411,7 +409,7 @@ Example: mental model of DNA
 
 ---
 
-### Cognitive load
+## Cognitive load
 
 1. **Intrinsic cognitive load** is the effort associated with a specific topic.
 
@@ -421,7 +419,7 @@ Example: mental model of DNA
 
 ---
 
-### Attention split effect
+## Attention split effect
 
 ![](https://i.imgur.com/GvMRzj7.png)
 
