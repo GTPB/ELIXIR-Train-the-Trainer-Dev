@@ -92,24 +92,24 @@ _Willingham, 2009_
 $$$
 ## More resources
 
-[https://www.cmu.edu/teaching](https://www.cmu.edu/teaching)  
-[http://www.learningscientists.org](http://www.learningscientists.org)  
-[https://ctl.yale.edu/ActiveLearning](https://ctl.yale.edu/ActiveLearning)  
-[https://www.ncsu.edu/effective_teaching](https://www.ncsu.edu/effective_teaching)  
-[https://carpentries.github.io/instructor-training](https://carpentries.github.io/instructor-training)  
-[https://extend.ecampusontario.ca/teacher-for-learning-how-learning-works](https://extend.ecampusontario.ca/teacher-for-learning-how-learning-works)
+- [https://www.cmu.edu/teaching](https://www.cmu.edu/teaching)  
+- [http://www.learningscientists.org](http://www.learningscientists.org)  
+- [https://ctl.yale.edu/ActiveLearning](https://ctl.yale.edu/ActiveLearning)  
+- [https://www.ncsu.edu/effective_teaching](https://www.ncsu.edu/effective_teaching)  
+- [https://carpentries.github.io/instructor-training](https://carpentries.github.io/instructor-training)  
+- [https://extend.ecampusontario.ca/teacher-for-learning-how-learning-works](https://extend.ecampusontario.ca/teacher-for-learning-how-learning-works)
 
 ---
 
 ## Challenge
 
-In pairs ( 10 min)  
-One person will explain a topic for 90 seconds, while the other person write feedback about presentation and content.
-Then you have a minute to go through the feedback.
-Then switch and repeat. 
+- In pairs ( 10 min)  
+- One person will explain a topic for 90 seconds, while the other person write feedback about presentation and content.
+- Then you have a minute to go through the feedback.
+- Then switch and repeat. 
 
-As group (10 min )
-We will go through the feedback together.
+- As group (10 min )
+- We will go through the feedback together.
 
 ---
 
@@ -145,6 +145,7 @@ _Willingham, 2009_
 ---
 
 ## Strategies applied to learning principles
+
 1. Collect data about students and use it to design instruction (P1,P3). Be aware and make people aware of diversity in the classroom.
 
 2. Be explicit about learning goals, learning objectives and expectations (P3, P5, P6). Goals challenging but attainable.
