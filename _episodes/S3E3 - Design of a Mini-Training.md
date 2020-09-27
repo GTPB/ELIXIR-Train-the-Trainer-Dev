@@ -9,7 +9,7 @@ outcomes:
 - Know how to mockup a course.
 questions:
 - How to design a mini-training?
-slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/109
+slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/111
 teaching: 10
 title: S3E3 - Design of a Mini-Training
 
@@ -46,7 +46,7 @@ _Joseph D. Novak , 1972_
 Further reading [http://cmap.ihmc.us/Publications/ResearchPapers/TheoryUnderlyingConceptMaps.pdf](http://cmap.ihmc.us/Publications/ResearchPapers/TheoryUnderlyingConceptMaps.pdf)
 
 
->## Challenge - Draw a concept map (10 min)
+>## Challenge: Draw a concept map (10 min)
 >
 >Draw a concept map of your topic of interest, start with a question
 >
@@ -55,7 +55,7 @@ Further reading [http://cmap.ihmc.us/Publications/ResearchPapers/TheoryUnderlyin
 >- Arrange it in a hierarchical structure with the key concepts on top
 {: .challenge}
 
->## Challenge - Feedback on concept maps (8 min)
+>## Challenge: Feedback on concept maps (8 min)
 >
 >In a group of 2 exchange concept maps. Do not explain the map.
 >
@@ -65,7 +65,7 @@ Further reading [http://cmap.ihmc.us/Publications/ResearchPapers/TheoryUnderlyin
 >  - Positive and Negative on content
 {: .challenge}
 
->## Challenge - Delivery planning (3 min) 
+>## Challenge: Delivery planning (3 min) 
 >
 > - Think if you want to make your training interactive 
 > - Think whether you need or want to use a visual support (images)
@@ -74,7 +74,7 @@ Further reading [http://cmap.ihmc.us/Publications/ResearchPapers/TheoryUnderlyin
 > - Be creative!
 {: .challenge}
 
->## Challenge 5 - Prepare content (15 min)
+>## Challenge: Prepare content (15 min)
 >
 > You have 15 min to prepare the content of your mini-training
 > The structure of your mini-training should be something like 
@@ -85,7 +85,7 @@ Further reading [http://cmap.ihmc.us/Publications/ResearchPapers/TheoryUnderlyin
 > Use your concept map and adapt as needed
 {: .challenge}
 
-> ## Challenge 6 - Mini-training practice (20 min)
+> ## Challenge: Mini-training practice (20 min)
 >
 > Split into groups of 3
 >
@@ -105,8 +105,6 @@ How to give feedback?
 ![](https://i.imgur.com/acCvWYw.png)
 
 
-
-
 ## Discussions/feedback
 
 - Listen actively and attentively
@@ -120,6 +118,8 @@ How to give feedback?
 - Do not monopolise discussion.
 - Speak from your own experience, without generalizing.
 - If you are offended by anything said during discussion, acknowledge it immediately.
+
+
 
 {%comment%}
 
@@ -440,7 +440,7 @@ Further reading [http://cmap.ihmc.us/Publications/ResearchPapers/TheoryUnderlyin
 
 ---
 
-## Challenge - Draw a concept map (10 min)
+## Challenge: Draw a concept map (10 min)
 
 Draw a concept map of your topic of interest, start with a question
 
@@ -450,7 +450,7 @@ Draw a concept map of your topic of interest, start with a question
 
 ---
 
-## Challenge - Feedback on concept maps (8 min)
+## Challenge: Feedback on concept maps (8 min)
 
 In a group of 2 exchange concept maps. Do not explain the map.
 
@@ -461,7 +461,7 @@ In a group of 2 exchange concept maps. Do not explain the map.
 
 ---
 
-## Challenge - Delivery planning (3 min) 
+## Challenge: Delivery planning (3 min) 
 
 - Think if you want to make your training interactive 
 - Think whether you need or want to use a visual support (images)
@@ -471,7 +471,7 @@ In a group of 2 exchange concept maps. Do not explain the map.
 
 ---
 
-## Challenge 5 - Prepare content (15 min)
+## Challenge: Prepare content (15 min)
 
 You have 15 min to prepare the content of your mini-training
 The structure of your mini-training should be something like 
@@ -483,7 +483,7 @@ Use your concept map and adapt as needed
 
 ---
 
-## Challenge 6 - Mini-training practice (20 min)
+## Challenge: Mini-training practice (20 min)
 
 Split into groups of 3
 1. Each will deliver their 3 minute session to the others
