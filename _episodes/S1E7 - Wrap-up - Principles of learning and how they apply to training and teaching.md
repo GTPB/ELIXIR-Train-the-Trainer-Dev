@@ -17,6 +17,10 @@ title: S1E7 - Wrap-up - Principles of learning and how they apply to training an
 ---
 
 
+
+{%comment%}
+
+$$$
 ## Other factors facilitating memory and learning (Willingham, 2009)
 
 1. Things that create an emotional reaction will be better remembered, but emotion is not necessary for learning (and it is definitely not sufficient!).
@@ -26,3 +30,9 @@ title: S1E7 - Wrap-up - Principles of learning and how they apply to training an
 5. Thinking about meaning is good for memory.
 6. Practice makes learning long lasting.
 7. Spaced practice is of great benefit for memory.
+
+---
+$$$
+
+
+{%endcomment%}
