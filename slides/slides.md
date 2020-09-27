@@ -481,19 +481,6 @@ Split-attention occurs when learners are required to split their attention betwe
 
 ---
 
-### Introduction
-
-<br/>
-
-- Section description
-    - Objectives:
-    - Learning outcomes:
-- Topics
-    - Introductory video
-    - Instruction design in 5 steps
-
----
-
 ### Introductory video
 
 <br/>
