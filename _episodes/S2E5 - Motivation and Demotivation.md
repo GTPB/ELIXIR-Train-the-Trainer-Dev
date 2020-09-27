@@ -16,7 +16,7 @@ title: S2E5 - Motivation and Demotivation
 
 ---
 
-> ## Challenge 6 - Motivation
+> ## Challenge: Motivation
 > Think about a motivating experience in your life (as a student or as an instructor/teacher) and share it in the GDoc.
 {: .challenge}
 
@@ -60,7 +60,7 @@ title: S2E5 - Motivation and Demotivation
 
 
 
-> ## Challenge 7 - What can I do to create a motivating environment?
+> ## Challenge: What can I do to create a motivating environment?
 > Think, pair, share  
 > In pairs, think about what you could do to create a motivating environment in your classroom. 
 > Share it with us.
@@ -85,7 +85,7 @@ title: S2E5 - Motivation and Demotivation
 
 
 
-> ## Challenge 8 - Demotivation
+> ## Challenge: Demotivation
 > Think about a demotivating experience in your life (as a student or as an instructor/teacher) and share it to the GDoc.
 {: .challenge}
 
@@ -151,7 +151,7 @@ Examples of techniques that you can use to promote engagement in training:
 
 
 $$$
-## Challenge 6 - Motivation
+## Challenge: Motivation
   
 Think about a motivating experience in your life (as a student or as an instructor/teacher) and share it in the GDoc.
 
@@ -205,7 +205,7 @@ Think about a motivating experience in your life (as a student or as an instruct
 
 ---
 
-## Challenge 7 - What can I do to create a motivating environment?
+## Challenge: What can I do to create a motivating environment?
 Think, pair, share  
 In pairs, think about what you could do to create a motivating environment in your classroom. 
 Share it with us.
@@ -234,7 +234,7 @@ Share it with us.
 
 ---
 
-## Challenge 8 - Demotivation
+## Challenge: Demotivation
 Think about a demotivating experience in your life (as a student or as an instructor/teacher) and share it to the GDoc.
 
 ---
