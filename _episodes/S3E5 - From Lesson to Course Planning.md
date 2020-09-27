@@ -223,10 +223,10 @@ Training course materials: slides, exercises, datasets
 
 ## Resources
 
-Design: [ftp://gtpb.igc.gulbenkian.pt/bicourses/posters/Calix_March2013.pdf](ftp://gtpb.igc.gulbenkian.pt/bicourses/posters/Calix_March2013.pdf)
-Training materials: [https://www.mygoblet.org/training-portal](https://www.mygoblet.org/training-portal)
-TeSS: [https://tess.elixir-europe.org](https://tess.elixir-europe.org)
-[https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
+- Design: [ftp://gtpb.igc.gulbenkian.pt/bicourses/posters/Calix_March2013.pdf](ftp://gtpb.igc.gulbenkian.pt/bicourses/posters/Calix_March2013.pdf)
+- Training materials: [https://www.mygoblet.org/training-portal](https://www.mygoblet.org/training-portal)
+- TeSS: [https://tess.elixir-europe.org](https://tess.elixir-europe.org)
+- [https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
 
 Adopt collaborative platforms to support training activities
 
