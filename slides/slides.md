@@ -1069,7 +1069,7 @@ How to give feedback?
 
 ## Constructive feedback
 
-![](https://i.imgur.com/fiThDwz.png)
+![](https://i.imgur.com/acCvWYw.png)
 
 ---
 
