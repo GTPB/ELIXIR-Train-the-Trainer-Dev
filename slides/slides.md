@@ -1252,7 +1252,7 @@ Develop an understanding of different types of feedback, when to give and receiv
 
 ---
 
-## Challenge 1 - Who would feel comfortable with giving a definition of "formative assessment"? (5 min)
+## Challenge: Who would feel comfortable with giving a definition of "formative assessment"? (5 min)
 
 ![](https://i.imgur.com/dR5UgeP.png)
 
@@ -1266,7 +1266,7 @@ Develop an understanding of different types of feedback, when to give and receiv
 
 ---
 
-### Formative assessment can be used to collect information about learners'
+## Formative assessment can be used to collect information about learners'
 - goals and objectives
   - Are learners' goals and objectives aligned with the course's goals and outcomes?
 - Frequent mistakes
@@ -1278,7 +1278,8 @@ Develop an understanding of different types of feedback, when to give and receiv
 
 ---
 
-### The best teachers...
+## The best teachers...
+
 - Constantly monitor what is happening to students as they set about learning, as well as pay attention and investigate whether things are proceeding according to plan and as expected.
 - They also question their own methods so they might get better at ensuring that their students learn successfully.
 
@@ -1286,7 +1287,7 @@ Develop an understanding of different types of feedback, when to give and receiv
 
 ---
 
-### It can be done in many different ways
+## It can be done in many different ways
 - Asking questions to learners and getting responses orally.
 - Asking them to describe the strategy they would adopt to solve a problem.
 - Asking them to solve a problem in groups, or individually but in front of the class.
@@ -1300,7 +1301,7 @@ Develop an understanding of different types of feedback, when to give and receiv
 
 ---
 
-### Tools
+## Tools
 
 ---
 
