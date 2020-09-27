@@ -450,7 +450,6 @@ Split-attention occurs when learners are required to split their attention betwe
 
 ---
 
-
 ## Training Techniques to enhance learner participation and engagement
 
 ---
@@ -488,7 +487,6 @@ Split-attention occurs when learners are required to split their attention betwe
 - List motivation and demotivation factors
 
 ---
-
 
 ### Introduction
 
