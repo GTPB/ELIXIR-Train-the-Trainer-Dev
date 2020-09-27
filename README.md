@@ -54,7 +54,7 @@ To cite this lesson, please consult with [CITATION](CITATION)
 
 # Quick Episode-Editing Guide
 
-This quick guide is meant to give you a highly compact introduction to editing the episodes in this lesson. If you would rather get a more detailed explanation we refer you to the [Full-Episode-Editing Guide](#Full-Episode-Editing-Guide).
+This quick guide is meant to give you a highly compact introduction to editing the episodes in this lesson. If you would rather get a more detailed explanation we refer you to the [Full Episode Editing Guide](#Full-Episode-Editing-Guide).
 
 <br/>
 
