@@ -9,7 +9,7 @@ outcomes:
 - Know all the steps to designing a course.
 questions:
 - What are the steps to designing a course?
-slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/128
+slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/127
 teaching: 10
 title: S3E5 - From Lesson to Course Planning
 
