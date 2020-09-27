@@ -425,7 +425,6 @@ Split-attention occurs when learners are required to split their attention betwe
 
 ---
 
-
 ![](https://i.imgur.com/xNVGiL2.png)
 
 ---
