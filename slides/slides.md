@@ -868,9 +868,12 @@ How learning works
 
 ---
 
-# Design and plan session, course, materials
+## Design and plan session, course, materials
+
+---
 
 ## Overview
+
 - Session objectives and learning outcomes
 - Introduction
 - Design of a mini-training
