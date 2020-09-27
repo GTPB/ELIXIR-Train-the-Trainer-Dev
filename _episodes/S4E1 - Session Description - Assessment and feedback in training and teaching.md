@@ -7,7 +7,7 @@ outcomes:
 - Clearly identify the learning outcomes of this session.
 questions:
 - What are the objectives and learning outcomes of this session?
-slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/141
+slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/140
 teaching: 10
 title: S4E1 - Session Description - Assessment and feedback in training and teaching
 
