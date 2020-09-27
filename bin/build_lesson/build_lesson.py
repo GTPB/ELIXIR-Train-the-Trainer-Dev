@@ -344,8 +344,8 @@ def buildSlidesFile(lessonDict):
             nextEpisodeInfo = lessonDict[allEpisodeTitles[i + 1]]
             if currentEpisodeInfo["sessionNumber"] != nextEpisodeInfo["sessionNumber"]:
                 slidesContent = slidesContent + slides_end_of_sessionContent
-            elif i == l - 1:
-                slidesContent = slidesContent + slides_end_of_sessionContent
+        elif i == l - 1:
+            slidesContent = slidesContent + slides_end_of_sessionContent
         i = i + 1
     slidesFile = open(slidesFilePath, "w")
     slidesFile.write(slidesContent)
