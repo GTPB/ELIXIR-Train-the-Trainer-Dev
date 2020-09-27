@@ -110,19 +110,6 @@ Feedback at the end of each session should be quick and simple. One example appr
 >According to experiment described in (Willingham, 2009), effective teachers have two qualities: they are able to connect personally with students, and they organise the material in a way that makes it interesting and easy to understand (the class is well organised).
 
 $$$
-### Introduction
-
-<br/>
-
-- Section description
-    - Objectives:
-    - Learning outcomes:
-- Topics
-    - Introductory video
-    - Instruction design in 5 steps
-
----
-
 ### Introductory video
 
 <br/>
