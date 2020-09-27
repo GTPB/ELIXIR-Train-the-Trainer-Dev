@@ -577,7 +577,7 @@ Principle 2: How students organise knowledge influences how they learn and apply
 
 ---
 
-## Challenge 6 - Motivation
+## Challenge: Motivation
   
 Think about a motivating experience in your life (as a student or as an instructor/teacher) and share it in the GDoc.
 
@@ -631,7 +631,7 @@ Think about a motivating experience in your life (as a student or as an instruct
 
 ---
 
-## Challenge 7 - What can I do to create a motivating environment?
+## Challenge: What can I do to create a motivating environment?
 Think, pair, share  
 In pairs, think about what you could do to create a motivating environment in your classroom. 
 Share it with us.
@@ -660,7 +660,7 @@ Share it with us.
 
 ---
 
-## Challenge 8 - Demotivation
+## Challenge: Demotivation
 Think about a demotivating experience in your life (as a student or as an instructor/teacher) and share it to the GDoc.
 
 ---
