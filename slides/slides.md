@@ -87,8 +87,6 @@ body {
 
 ---
 
-## Schedule
-
 **Day 2**
 
 - 9:00 - Morning session: **Session, course, and materials design**
