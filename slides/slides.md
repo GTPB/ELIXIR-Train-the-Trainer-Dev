@@ -1146,7 +1146,7 @@ _Nicholls G (2002). Developing teaching and learning in higher education. London
 
 ---
 
-## Challenge - Create lesson plan
+## Challenge: Create lesson plan
 
 In your group...
 - Take one session idea and expand to a “real” training session
