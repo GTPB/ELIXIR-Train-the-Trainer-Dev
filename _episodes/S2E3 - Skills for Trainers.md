@@ -12,7 +12,7 @@ title: S2E3 - Skills for Trainers
 
 ---
 
-> ## Challenge 1 - Recall concrete examples of past trainings and list your thoughts
+> ## Challenge: Recall concrete examples of past trainings and list your thoughts
 >
 > ![](../fig/Table.png)
 {: .challenge}
