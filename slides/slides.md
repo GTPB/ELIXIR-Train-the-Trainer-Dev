@@ -1421,3 +1421,7 @@ Trainees feedback should be considered along other forms of quality evidence:
 ## [Short-term feedback questionnaire](https://www.surveymonkey.co.uk/r/XLMJZSC)
 
 ---
+
+# End of Session
+
+---
