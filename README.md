@@ -9,8 +9,8 @@ This repository generates the corresponding lesson website from [The Carpentries
 We welcome all contributions to improve the lesson! Maintainers will do their best to help you if you have any
 questions, concerns, or experience any difficulties along the way.
 
-If you would like to contribute to the content of the lesson itself, please refer to the [Quick Episode Editing Guide](#Quick-Episode-Editing-Guide), or to the 
-[Full Episode Editing Guide](#Full-Episode-Editing-Guide) in case you want a more in-depth explanation of how to contribute.
+If you would like to contribute to the content of the lesson itself, please refer to the [Quick Episode-Editing Guide](#Quick-Episode-Editing-Guide), or to the 
+[Full Episode-Editing Guide](#Full-Episode-Editing-Guide) in case you want a more in-depth explanation of how to contribute.
 If you want to learn about the general contribution guidelines for Carpentries lesson we would like to ask you to familiarize yourself with our [Contribution Guide](CONTRIBUTING.md) and have a look at the [more detailed guidelines][lesson-example] on proper formatting, ways to render the lesson locally, and even
 how to write new episodes.
 
@@ -54,7 +54,7 @@ To cite this lesson, please consult with [CITATION](CITATION)
 
 # Quick Episode-Editing Guide
 
-This quick guide is meant to give you a highly compact introduction to editing the episodes in this lesson. If you would rather get a more detailed explanation we refer you to the [Full Episode Editing Guide](#Full-Episode-Editing-Guide).
+This quick guide is meant to give you a highly compact introduction to editing the episodes in this lesson. If you would rather get a more detailed explanation we refer you to the [Full Episode-Editing Guide](#Full-Episode-Editing-Guide).
 
 <br/>
 
