@@ -1363,7 +1363,9 @@ This is Instant Feedback.
 
 - Assessing learner reactions to teachers and teaching thus providing context-specific feedback that can improve teaching within a particular course.
 - Assessing learner reactions to class activities, assignments, and materials thus giving instructors information that will help them improve their course materials and assignments.
-- Assessing learner reactions to course organisational aspects, thus providing the organiser information that will help him or her to improve the course organisation;
+- Assessing learner reactions to course organisational aspects, thus providing the organiser information that will help him or her to improve the course organisation.
+
+---
 
 ![](https://i.imgur.com/Esk9qub.png)
 
@@ -1399,7 +1401,5 @@ Trainees feedback should be considered along other forms of quality evidence:
 ---
 
 ## [Short-term feedback questionnaire](https://www.surveymonkey.co.uk/r/XLMJZSC)
-
-[http://bit.ly/2Xgr3cI](http://bit.ly/2Xgr3cI)
 
 ---
