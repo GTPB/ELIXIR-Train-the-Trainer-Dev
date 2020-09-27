@@ -621,20 +621,6 @@ Willingham DT (2009) Why Don't Students like School? Jossey-Bass, A Wiley Imprin
 
 
 $$$
-### Learning principles
-
-<br/>
-
-- Episode description
-    - Objectives:
-    - Learning outcomes:
-- Topics
-    - 7 evidence-based learning principles
-- Challenges
-    - What is your understanding of these learning principles?
-
----
-
 ### 7 Evidence-based Learning Principles
 
 <br/>
@@ -661,7 +647,7 @@ $$$
 
 ---
 
-### Challenge 4 - What is your understanding of these learning principles?
+### Challenge: What is your understanding of these learning principles?
 - Work in groups of three
 - Carefully read the principles as a group
 - Pick one principle you like (with no overlap with the other groups)
@@ -669,7 +655,7 @@ $$$
 
 ---
 
-### Challenge 5 - what is your understanding of these learning principles?
+### Challenge: What is your understanding of these learning principles?
 #### Example
 Principle 2: How students organise knowledge influences how they learn and apply what they know.
 
