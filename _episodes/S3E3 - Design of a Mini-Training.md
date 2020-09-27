@@ -1,7 +1,6 @@
 ---
 exercises: 10
 keypoints:
-- Audience, goal and outcomes.
 - Concept map.
 - FAIR principles.
 - Content.
@@ -15,35 +14,6 @@ teaching: 10
 title: S3E3 - Design of a Mini-Training
 
 ---
-
-
-## Practice a 3-min mini-training
-
-- Prepare and plan for delivering training 
-- Revise feedback 
-- Adjust/improve/modify (according to feedback) for a 3-min presentation
-
->## Challenge 1 - Define the audience, goal and outcomes (7 min)
->
->1. Choose a topic
->2. Define learning objectives (describe the goals and intentions of the instructor )
->3. Write learning outcomes (think about what learners will be able to do by the end of instruction/session/workshop)
->4. Identify the target audience and prerequisites
->5. Identify the learning experiences
->6. Select the content
-{: .challenge}
-
-[https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
-
-
-## Choose a topic for a 3-min training
-
-- Choose a topic to demonstrate your training in three minutes. 
-  - How to make an origami bird
-  - Introduction to biochemistry
-  - How bats recognise the presence of obstacles
-  - The second law of Newton
-  - How to draw a comic strip
 
 
 ## Concept map
@@ -97,34 +67,35 @@ Further reading [http://cmap.ihmc.us/Publications/ResearchPapers/TheoryUnderlyin
 
 >## Challenge - Delivery planning (3 min) 
 >
->- Think if you want to make your training interactive 
->- Think whether you need or want to use a visual support (images)
->- Think whether you need to distribute material in advance to the audience 
->- Prepare for your choices
->- Be creative!
+> - Think if you want to make your training interactive 
+> - Think whether you need or want to use a visual support (images)
+> - Think whether you need to distribute material in advance to the audience 
+> - Prepare for your choices
+> - Be creative!
 {: .challenge}
 
 >## Challenge 5 - Prepare content (15 min)
 >
->You have 15 min to prepare the content of your mini-training
->The structure of your mini-training should be something like 
->- 40 seconds introduction
->- 2 minutes on topic
->- 20 seconds conclusion
+> You have 15 min to prepare the content of your mini-training
+> The structure of your mini-training should be something like 
+> - 40 seconds introduction
+> - 2 minutes on topic
+> - 20 seconds conclusion
 >
->Use your concept map and adapt as needed
+> Use your concept map and adapt as needed
 {: .challenge}
 
->## Challenge 6 - Mini-training practice (20 min)
+> ## Challenge 6 - Mini-training practice (20 min)
 >
->Split into groups of 3
->1. Each will deliver their 3 minute session to the others
->2. One person delivers the session
->3. One person records on the phone (optional) 
->4. One person notes down feedback in real-time
->5. You describe your own feedback (self-feedback) on your delivery
->6. The other two provide feedback to the presenter
->7. Then rotate within the group (and restart from 1)
+> Split into groups of 3
+>
+> 1. Each will deliver their 3 minute session to the others
+> 2. One person delivers the session
+> 3. One person records on the phone (optional) 
+> 4. One person notes down feedback in real-time
+> 5. You describe your own feedback (self-feedback) on your delivery
+> 6. The other two provide feedback to the presenter
+> 7. Then rotate within the group (and restart from 1)
 {: .challenge}
 
 How to give feedback?
@@ -432,40 +403,6 @@ In some cases, network connections providing simple browsing (Port 80) or SSH ac
     * Check Felt Tip Markers and whiteboard
 
 $$$
-## Practise a 3-min mini-training
-
-- Prepare and plan for delivering training 
-- Revise feedback 
-- Adjust/improve/modify (according to feedback) for a 3-min presentation
-
----
-
-## Challenge 1 - Define the audience, goal and outcomes (7 min)
-
-1. Choose a topic
-2. Define learning objectives (describe the goals and intentions of the instructor )
-3. Write learning outcomes (think about what learners will be able to do by the end of instruction/session/workshop)
-4. Identify the target audience and prerequisites
-5. Identify the learning experiences
-6. Select the content
-
----
-
-[https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
-
----
-
-## Choose a topic for a 3-min training
-
-- Choose a topic to demonstrate your training in three minutes. 
-  - How to make an origami bird
-  - Introduction to biochemistry
-  - How bats recognise the presence of obstacles
-  - The second law of Newton
-  - How to draw a comic strip
-
----
-
 ## Concept map
 
 ![](https://i.imgur.com/eF8ODCF.png)
