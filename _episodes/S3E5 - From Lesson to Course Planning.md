@@ -46,9 +46,9 @@ title: S3E5 - From Lesson to Course Planning
 
 
 - LOs should then be instantiated as activities and quality checks
-  - Learning activities: scripts, slides, exercises, tutorials, …
-  - Assessment tools: creative activities, written tests, …
-  - Feedback tools: observation, interaction, forms, …
+  - **Learning activities**: scripts, slides, exercises, tutorials, …
+  - **Assessment tools**: creative activities, written tests, …
+  - **Feedback tools**: observation, interaction, forms, …
 - Learning activities (LAs) should be tightly-linked to quality checks
   - This is not ‘teaching to the test’ because it’s training not education
 - When all the LOs are expanded, you have your course outline
@@ -110,10 +110,11 @@ Design: [ftp://gtpb.igc.gulbenkian.pt/bicourses/posters/Calix_March2013.pdf](ftp
 Training materials: [https://www.mygoblet.org/training-portal](https://www.mygoblet.org/training-portal)
 TeSS: [https://tess.elixir-europe.org](https://tess.elixir-europe.org)
 [https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
+
 Adopt collaborative platforms to support training activities
 
 
->## Challenge 9 - Apply (5 min)
+>## Challenge: Apply (5 min)
 >
 >Articulate a goal of good teaching practice that you are ready to apply for your next training
 {: .challenge}
@@ -224,11 +225,12 @@ Design: [ftp://gtpb.igc.gulbenkian.pt/bicourses/posters/Calix_March2013.pdf](ftp
 Training materials: [https://www.mygoblet.org/training-portal](https://www.mygoblet.org/training-portal)
 TeSS: [https://tess.elixir-europe.org](https://tess.elixir-europe.org)
 [https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
+
 Adopt collaborative platforms to support training activities
 
 ---
 
-## Challenge 9 - Apply (5 min)
+## Challenge: Apply (5 min)
 
 Articulate a goal of good teaching practice that you are ready to apply for your next training
 
