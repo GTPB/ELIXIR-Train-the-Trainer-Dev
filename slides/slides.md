@@ -593,10 +593,7 @@ Think about a motivating experience in your life (as a student or as an instruct
   - Satisfaction that one gains from mastery and accomplishment of a goal or task 
 - Intrinsic value
   - The satisfaction that one gains simply from doing the task rather than from a particular outcome of the task
-  - It is the source of intrinsic motivation
-  
----  
-  
+  - It is the source of intrinsic motivation  
 - Instrumental value/extrinsic rewards 
   - Praise
   - Public recognition
@@ -608,6 +605,7 @@ Think about a motivating experience in your life (as a student or as an instruct
 ---
 
 ## Efficacy
+
 - Positive outcomes expectancies for success
 - Growth vs fixed mindset  
 - Efficacy expetancies represent the belief that one is capable of identifying, organising, initiating, and executing a course of action that will bring about a desired outcome (Bandura, 1997). 
@@ -622,6 +620,7 @@ Think about a motivating experience in your life (as a student or as an instruct
 ---
 
 ## Environment
+
 - Complex dynamics of the classroom 
 - The tone of the classroom 
 - The interpersonal forces at play 
@@ -632,6 +631,7 @@ Think about a motivating experience in your life (as a student or as an instruct
 ---
 
 ## Challenge: What can I do to create a motivating environment?
+
 Think, pair, share  
 In pairs, think about what you could do to create a motivating environment in your classroom. 
 Share it with us.
@@ -639,6 +639,7 @@ Share it with us.
 ---
 
 ## Strategies to motivate learners
+
 - Connect the material to students’ interests
 - Provide authentic, real-world tasks/example
 - Show relevance to students’ current academic lives
@@ -661,11 +662,13 @@ Share it with us.
 ---
 
 ## Challenge: Demotivation
+
 Think about a demotivating experience in your life (as a student or as an instructor/teacher) and share it to the GDoc.
 
 ---
 
 ## Demotivating
+
 Do not
 - Dive into complex or detailed technical discussions with one or two people
 - Pretend to know more than what you do
