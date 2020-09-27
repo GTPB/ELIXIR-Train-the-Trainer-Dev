@@ -445,6 +445,10 @@ Split-attention occurs when learners are required to split their attention betwe
 
 ---
 
+# End of Session
+
+---
+
 ## Training Techniques to enhance learner participation and engagement
 
 ---
