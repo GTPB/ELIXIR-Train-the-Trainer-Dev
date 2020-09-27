@@ -148,24 +148,7 @@ The TtT taskforce of the Global Organisation for Bioinformatics Learning, Educat
 
 
 $$$
-### Skills for trainers
-
-<br/>
-
-- Section description
-    - Objectives:
-    - Learning outcomes:
-- Topics
-    - GOBLET trainer skill matrix
-- Challenges
-    - What makes a good training program
-    - What makes a good trainer?
-    - Reflect upon your current skills
-
----
-
-### Challenge 1
-
+### Challenge
 
 Recall concrete examples of past trainings and list your thoughts (3 min)
 
@@ -173,28 +156,22 @@ Recall concrete examples of past trainings and list your thoughts (3 min)
 
 ---
 
-### Challenge 2
+### Challenge
 
-<br/>
+- In pairs (3 min)
 
-In pairs (3 min)
-
-What makes a good trainer?
+- What makes a good trainer?
 Write down some traits that you associate with a good trainer and describe them
 
 ---
 
 ### The GOBLET skills matrix for trainers
 
-<br/>
-
 ![](https://i.imgur.com/JW4AnGx.png)
 
 ---
 
-#### Challenge 3 - Reflect upon your current skills
-
-<br/>
+### Challenge: Reflect upon your current skills
 
 - Try to reflect on your current skills and how they fit with this matrix
     - Communication (COMM)
