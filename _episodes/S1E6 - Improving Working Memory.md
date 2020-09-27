@@ -180,7 +180,7 @@ Example: mental model of DNA
 - Be aware of the limitations of expertise
   - Expert blind spot
   - Fluid representations
-  
+
 ---
 
 ## Three classes of misconceptions
