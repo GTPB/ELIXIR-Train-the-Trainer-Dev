@@ -377,11 +377,11 @@ Example: mental model of DNA
 
 ### Novice vs Competent Practitioner vs Expert
 
-A novice, typically has not yet built a mental model of the field.
+- A novice, typically has not yet built a mental model of the field.
 
-A competent practitioner has a mental model that works for many purposes, but will not be very accurate.
+- A competent practitioner has a mental model that works for many purposes, but will not be very accurate.
 
-Experts’ mental models are much more densely connected. Therefore they can jump directly from a problem to its solution because there is a direct link between the two in their mind.
+- Experts’ mental models are much more densely connected. Therefore they can jump directly from a problem to its solution because there is a direct link between the two in their mind.
 
 ---
 
