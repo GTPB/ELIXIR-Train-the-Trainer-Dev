@@ -26,7 +26,6 @@ title: S2E1 - Session Description - Training techniques that enhance learner par
 
 
 $$$
-
 ## Training Techniques to enhance learner participation and engagement
 
 ---
@@ -64,7 +63,6 @@ $$$
 - List motivation and demotivation factors
 
 ---
-
 $$$
 
 
