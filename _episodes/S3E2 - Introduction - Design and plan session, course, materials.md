@@ -35,6 +35,7 @@ https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml
 > ## Challenge: Choose a topic  for a 3-minute training
 >
 > Choose a topic to demonstrate your training in three minutes. 
+>
 > - how to make an origami bird
 > - introduction to biochemistry
 > - how bats recognise the presence of obstacles
