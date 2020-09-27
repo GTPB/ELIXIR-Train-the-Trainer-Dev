@@ -1203,11 +1203,14 @@ Articulate a goal of good teaching practice that you are ready to apply for your
 
 ## Wrap-up
 
-What did you learn in this session?
+- What did you learn in this session?
 - One person at a time, no repetition
 
+---
 
 ## Time to relax!
+
+---
 
 # End of Session
 
