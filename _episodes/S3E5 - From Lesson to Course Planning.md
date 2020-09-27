@@ -118,14 +118,6 @@ Adopt collaborative platforms to support training activities
 >Articulate a goal of good teaching practice that you are ready to apply for your next training
 {: .challenge}
 
-## Wrapping-up
-
-What did you learn in this session?
-- One person at a time, no repetition
-
-
-## Time to relax!
-
 
 {%comment%}
 
@@ -239,16 +231,6 @@ Adopt collaborative platforms to support training activities
 ## Challenge 9 - Apply (5 min)
 
 Articulate a goal of good teaching practice that you are ready to apply for your next training
-
----
-
-## Wrapping-up
-
-What did you learn in this session?
-- One person at a time, no repetition
-
-
-## Time to relax!
 
 ---
 $$$
