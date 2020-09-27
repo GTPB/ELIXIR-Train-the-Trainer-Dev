@@ -41,9 +41,12 @@ In this session you will learn how to:
 
 
 $$$
-# Design and plan session, course, materials
+## Design and plan session, course, materials
+
+---
 
 ## Overview
+
 - Session objectives and learning outcomes
 - Introduction
 - Design of a mini-training
