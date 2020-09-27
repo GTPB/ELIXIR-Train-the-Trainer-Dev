@@ -65,6 +65,8 @@ This quick guide is meant to give you a highly compact introduction to editing t
 
 You will need a [HackMD](https://hackmd.io/) account (the easiest way is to sign-up/register and sign-in using your GitHub account). [HackMD](https://hackmd.io/) is very intuitive and user-friendly.
 
+You will also need to activate a plugin in your browser, in order to place a button on your GitHub editor with the label **Edit on HackMD**. This will allow you to directly open a file with HackMD editor. If the permissions are set correctly it will take you to the note that was used by the original authors to  
+
 <br/>
 
 ## Editing on GitHub
