@@ -7,7 +7,7 @@ outcomes:
 - Know all the steps to designing a session of a course
 questions:
 - What are the steps to designing a session of a course?
-slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/122
+slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/124
 teaching: 10
 title: S3E4 - From Lesson to Session Plan
 
@@ -67,7 +67,7 @@ _Nicholls G (2002). Developing teaching and learning in higher education. London
 </table>
 
 
->## Challenge - Create lesson plan
+>## Challenge: Create lesson plan
 >
 >In your group...
 >- Take one session idea and expand to a “real” training session
@@ -139,7 +139,7 @@ _Nicholls G (2002). Developing teaching and learning in higher education. London
 
 ---
 
-## Challenge - Create lesson plan
+## Challenge: Create lesson plan
 
 In your group...
 - Take one session idea and expand to a “real” training session
@@ -152,7 +152,5 @@ Define training session structure/lesson plan (including indicative content, len
 
 ---
 $$$
-
-
 
 {%endcomment%}
