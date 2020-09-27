@@ -102,7 +102,8 @@ How to give feedback?
 
 ## Constructive feedback
 
-![](https://i.imgur.com/Lgb5GcI.png)
+![](https://i.imgur.com/acCvWYw.png)
+
 
 
 
