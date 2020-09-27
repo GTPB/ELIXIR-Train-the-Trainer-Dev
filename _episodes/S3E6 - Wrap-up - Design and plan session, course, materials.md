@@ -15,14 +15,20 @@ title: S3E6 - Wrap-up - Design and plan session, course, materials
 
 ---
 
+## Wrap-up
 
+What did you learn in this session?
+- One person at a time, no repetition
+
+
+## Time to relax!
 
 {%comment%}
 
 
 
 $$$
-## Wrapping-up
+## Wrap-up
 
 What did you learn in this session?
 - One person at a time, no repetition
