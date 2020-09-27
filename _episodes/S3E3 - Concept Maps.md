@@ -23,6 +23,9 @@ title: S3E3 - Concept Maps
 
 ## Concept map - FAIR principles
 
+![](https://i.imgur.com/KzIpmyo.png)
+
+
 ![](https://i.imgur.com/PtkvTwH.png)
 
 
@@ -409,8 +412,10 @@ $$$
 ---
 
 ## Concept map - FAIR principles
-Parking lot?
-What is this supposed to look like?
+
+---
+
+![](https://i.imgur.com/PtkvTwH.png)
 
 ---
 
