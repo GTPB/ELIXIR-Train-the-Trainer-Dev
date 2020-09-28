@@ -79,6 +79,8 @@ You can edit the episodes using the GitHub editor. Be aware, however, that image
 
 We suggest creating the episode files directly on GitHub. Do not forget to add the YAML header (check the already existing episodes) at the top of each episode file, with a title matching one of the titles in [lesson_structure.yml](bin/build_lesson/lesson_structure.yml). So, if you want to add an episode with a new title, first add the title itself to the YAMl file, in the correct position within the list.
 
+We also suggest using GitHub directly (or using an editor that can be syched to GitHub) to edit the files. You will only need HackMd to add the images and to update the slides file (which you will have to do by pulling from GitHub).
+
 Once you have a [HackMD](https://hackmd.io/) note with the [slides file](slides/slides.md), check the link to the first slide of the slide presentation that the note generates. Copy-paste that link in front of the **slides_base_url** field in [lesson_structure.yml](bin/build_lesson/lesson_structure.yml). This is needed to connect the slide links on the lesson website's pages to the actual slides. If the link is already there and it is correct then you have to do nothing.
 
 <br/>
