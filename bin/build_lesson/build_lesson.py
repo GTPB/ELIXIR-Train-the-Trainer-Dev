@@ -211,10 +211,10 @@ def createLessonDict():
 # It only extracts the information from markdown files that have a yaml header with a title that matches the titles in the 'lesson_structure.yml' file.
 def extractTextInfoToDict(lessonDict, text):
     episodeHeaderStringInfo = extractContent(text, yamlDocumentTag)
-    if episodeHeaderStringInfo != "":
+    if episodeHeaderStringInfo != None:
         episodeHeaderString = episodeHeaderStringInfo["content"]
     else:
-        episodeHeaderString = episodeHeaderStringInfo
+        episodeHeaderString = ""
     yamlEpisodeHeader = yaml.safe_load(episodeHeaderString)
     slidesContent = ""
     matchingTitle = None
