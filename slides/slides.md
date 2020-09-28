@@ -1301,7 +1301,7 @@ Develop an understanding of different types of feedback, when to give and receiv
 - Constantly monitor what is happening to students as they set about learning, as well as pay attention and investigate whether things are proceeding according to plan and as expected.
 - They also question their own methods so they might get better at ensuring that their students learn successfully.
 
-![](https://i.imgur.com/2HuMDL4.png)
+![](https://i.imgur.com/2HuMDL4.png =500x350)
 
 ---
 
