@@ -212,6 +212,7 @@ def createLessonDict():
 def extractTextInfoToDict(lessonDict, text):
     episodeHeaderStringInfo = extractContent(text, yamlDocumentTag)
     if episodeHeaderStringInfo != None:
+        print("aqui")
         episodeHeaderString = episodeHeaderStringInfo["content"]
     else:
         episodeHeaderString = ""
@@ -227,6 +228,7 @@ def extractTextInfoToDict(lessonDict, text):
         # Extracting from the variable 'text' the section that rests inside the 'Liquid' comment.
         liquidCommentContentInfo = extractContent(text, liquidCommentTag_beginning, liquidCommentTag_ending)
         if liquidCommentContentInfo != None:
+            print("oi")
             liquidCommentContent = liquidCommentContentInfo["content"]
         else:
             liquidCommentContent = ""
