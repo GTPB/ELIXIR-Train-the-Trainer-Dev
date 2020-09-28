@@ -159,10 +159,10 @@ def extractContent(text, beginningTag, endingTag = None):
             content_ends = content_begins + endingTagPosition
             return {"content": content, "content_begins": content_begins, "content_ends": content_ends}
         else:
-            return None
+            return ""
 
     else:
-        return None
+        return ""
 
  
 # Function used to replace the string variable 'text' with 'newContent' at the positions specified by
@@ -199,7 +199,7 @@ def createLessonDict():
             sessionNumber = i + 1
             episodeNumber = j + 1
             episodeInfo = {"sessionNumber": sessionNumber, "episodeNumber": episodeNumber, "globalEpisodeNumber": episodeCount, 
-                                                "prefix": "S" + str(sessionNumber) + "E" + str(episodeNumber), "slidesContent": None,
+                                                "prefix": "S" + str(sessionNumber) + "E" + str(episodeNumber), "slidesContent": "",
                                                 "slideCount": 0, "firstSlideNumber": ""}
             lessonDict[currentEpisodeTitle] = episodeInfo
             j = j + 1
@@ -211,9 +211,12 @@ def createLessonDict():
 # It only extracts the information from markdown files that have a yaml header with a title that matches the titles in the 'lesson_structure.yml' file.
 def extractTextInfoToDict(lessonDict, text):
     episodeHeaderStringInfo = extractContent(text, yamlDocumentTag)
-    episodeHeaderString = episodeHeaderStringInfo["content"]
+    if episodeHeaderStringInfo != "":
+        episodeHeaderString = episodeHeaderStringInfo["content"]
+    else:
+        episodeHeaderString = episodeHeaderStringInfo
     yamlEpisodeHeader = yaml.safe_load(episodeHeaderString)
-    slidesContent = None
+    slidesContent = ""
     matchingTitle = None
     if "title" in yamlEpisodeHeader:
         for episodeTitle in lessonDict:
@@ -228,15 +231,11 @@ def extractTextInfoToDict(lessonDict, text):
             
             # Now, in the content of the 'Liquid' comment, we detect the slide tags and extract the content therein contained.
             slidesContentInfo = extractContent(liquidCommentContent, slidesTag)
-            if slidesContentInfo != None:
+            if slidesContentInfo != "":
                 slidesContent = slidesContentInfo["content"]
-                
-                # Counting the number of slides in an episode file is needed in order to assign a number to each slide in a lesson.
-                # This will be used below to create the correct hyperlinks on the website to the slides.
-                slideCount = slidesContent.count("---")
-                
+            else:
+                slidesContent = slidesContentInfo
                 episodeInfo = lessonDict[matchingTitle]
-                episodeInfo["slideCount"] = slideCount
                 episodeInfo["slidesContent"] = slidesContent
 
     return matchingTitle
@@ -288,8 +287,13 @@ def updateFileYamlHeader(lessonDict, fileName):
     f = open(episodesFolderPath + fileName, "r")
     text = f.read()
     f.close()
+    
     episodeHeaderStringInfo = extractContent(text, yamlDocumentTag)
-    episodeHeaderString = episodeHeaderStringInfo["content"]
+    if episodeHeaderStringInfo != "":
+        episodeHeaderString = episodeHeaderStringInfo["content"]
+    else:
+        episodeHeaderString = episodeHeaderStringInfo
+        
     yamlEpisodeHeader = yaml.safe_load(episodeHeaderString)
     matchingTitle = None      
     if "title" in yamlEpisodeHeader:
@@ -338,14 +342,16 @@ def buildSlidesFile(lessonDict):
     i = 0
     while i < l:
         currentEpisodeInfo = lessonDict[allEpisodeTitles[i]]
-        if currentEpisodeInfo["slidesContent"] != None:
-            slidesContent =  slidesContent + currentEpisodeInfo["slidesContent"]
         if i < l - 1:
             nextEpisodeInfo = lessonDict[allEpisodeTitles[i + 1]]
             if currentEpisodeInfo["sessionNumber"] != nextEpisodeInfo["sessionNumber"]:
-                slidesContent = slidesContent + slides_end_of_sessionContent
+                currentEpisodeInfo["slidesContent"] = currentEpisodeInfo["slidesContent"] + slides_end_of_sessionContent
         elif i == l - 1:
-            slidesContent = slidesContent + slides_end_of_sessionContent
+            currentEpisodeInfo["slidesContent"] = currentEpisodeInfo["slidesContent"] + slides_end_of_sessionContent
+        # Counting the number of slides in an episode file is needed in order to assign a number to each slide in a lesson.
+        # This will be used below to create the correct hyperlinks on the website to the slides.
+        currentEpisodeInfo["slideCount"] = currentEpisodeInfo["slidesContent"].count("---")
+        slidesContent =  slidesContent + currentEpisodeInfo["slidesContent"]
         i = i + 1
     slidesFile = open(slidesFilePath, "w")
     slidesFile.write(slidesContent)
@@ -369,6 +375,9 @@ lessonDict = createLessonDict()
 # Then, update the lesson dictionary with some information pertaining to the slides.
 preProcessing(lessonDict)
 
+# We can finally build the slides file 'slides.md', with the information in the lesson dictionary.
+buildSlidesFile(lessonDict)
+
 # This function has to run separately, in a second pass over all the episodes, because we need information that
 # was collected in the first pass (carried out in the preprocessing() function).
 addSlideNumbersToDict(lessonDict)
@@ -376,9 +385,6 @@ addSlideNumbersToDict(lessonDict)
 # Now, equipped with all the information we need (in the lesson dictionary) we can go back to each of the files and
 # update their yaml headers.
 updateAllYamlHeaders(lessonDict)
-
-# We can finally build the slides file 'slides.md', with the information in the lesson dictionary.
-buildSlidesFile(lessonDict)
 
 # Before the end of the script we remove the temporary file, since it is no longer needed.
 os.remove(tempFilePath)
