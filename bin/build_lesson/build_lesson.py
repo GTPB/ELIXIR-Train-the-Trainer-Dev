@@ -159,10 +159,10 @@ def extractContent(text, beginningTag, endingTag = None):
             content_ends = content_begins + endingTagPosition
             return {"content": content, "content_begins": content_begins, "content_ends": content_ends}
         else:
-            return ""
+            return None
 
     else:
-        return ""
+        return None
 
  
 # Function used to replace the string variable 'text' with 'newContent' at the positions specified by
@@ -226,19 +226,18 @@ def extractTextInfoToDict(lessonDict, text):
     if matchingTitle != None:
         # Extracting from the variable 'text' the section that rests inside the 'Liquid' comment.
         liquidCommentContentInfo = extractContent(text, liquidCommentTag_beginning, liquidCommentTag_ending)
-        if liquidCommentContentInfo != "":
+        if liquidCommentContentInfo != None:
             liquidCommentContent = liquidCommentContentInfo["content"]
         else:
-            liquidCommentContent = liquidCommentContentInfo
+            liquidCommentContent = ""
             
             # Now, in the content of the 'Liquid' comment, we detect the slide tags and extract the content therein contained.
             slidesContentInfo = extractContent(liquidCommentContent, slidesTag)
-            if slidesContentInfo != "":
+            if slidesContentInfo != None:
                 slidesContent = slidesContentInfo["content"]
-            else:
-                slidesContent = slidesContentInfo
                 episodeInfo = lessonDict[matchingTitle]
                 episodeInfo["slidesContent"] = slidesContent
+                
 
     return matchingTitle
 
@@ -291,10 +290,10 @@ def updateFileYamlHeader(lessonDict, fileName):
     f.close()
     
     episodeHeaderStringInfo = extractContent(text, yamlDocumentTag)
-    if episodeHeaderStringInfo != "":
+    if episodeHeaderStringInfo != None:
         episodeHeaderString = episodeHeaderStringInfo["content"]
     else:
-        episodeHeaderString = episodeHeaderStringInfo
+        episodeHeaderString = ""
         
     yamlEpisodeHeader = yaml.safe_load(episodeHeaderString)
     matchingTitle = None      
@@ -352,7 +351,7 @@ def buildSlidesFile(lessonDict):
             currentEpisodeInfo["slidesContent"] = currentEpisodeInfo["slidesContent"] + slides_end_of_sessionContent
         # Counting the number of slides in an episode file is needed in order to assign a number to each slide in a lesson.
         # This will be used below to create the correct hyperlinks on the website to the slides.
-        currentEpisodeInfo["slidesCount"] = currentEpisodeInfo["slidesContent"].count("---")
+        currentEpisodeInfo["slideCount"] = currentEpisodeInfo["slidesContent"].count("---")
         slidesContent =  slidesContent + currentEpisodeInfo["slidesContent"]
         i = i + 1
     slidesFile = open(slidesFilePath, "w")
