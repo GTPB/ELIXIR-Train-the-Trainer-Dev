@@ -1234,6 +1234,10 @@ Articulate a goal of good teaching practice that you are ready to apply for your
 
 ---
 
+# Assessment and feedback in training and teaching
+
+---
+
 ## Session objectives
 
 Develop an understanding of different types of feedback, when to give and receive feedback, and for which purpose.
