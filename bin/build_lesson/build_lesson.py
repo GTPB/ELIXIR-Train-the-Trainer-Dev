@@ -228,17 +228,16 @@ def extractTextInfoToDict(lessonDict, text):
         # Extracting from the variable 'text' the section that rests inside the 'Liquid' comment.
         liquidCommentContentInfo = extractContent(text, liquidCommentTag_beginning, liquidCommentTag_ending)
         if liquidCommentContentInfo != None:
-            print("oi")
             liquidCommentContent = liquidCommentContentInfo["content"]
         else:
             liquidCommentContent = ""
             
-            # Now, in the content of the 'Liquid' comment, we detect the slide tags and extract the content therein contained.
-            slidesContentInfo = extractContent(liquidCommentContent, slidesTag)
-            if slidesContentInfo != None:
-                slidesContent = slidesContentInfo["content"]
-                episodeInfo = lessonDict[matchingTitle]
-                episodeInfo["slidesContent"] = slidesContent
+        # Now, in the content of the 'Liquid' comment, we detect the slide tags and extract the content therein contained.
+        slidesContentInfo = extractContent(liquidCommentContent, slidesTag)
+        if slidesContentInfo != None:
+            slidesContent = slidesContentInfo["content"]
+            episodeInfo = lessonDict[matchingTitle]
+            episodeInfo["slidesContent"] = slidesContent
                 
 
     return matchingTitle
