@@ -646,7 +646,7 @@ You might still have a few questions:
 
 ###### Editing The YAML Header
 
-The YAML header in each episode file is straightforwards to edit, especially if you have edited Carpentries lessons before or if you know YAMl syntax. As mentioned before, the order in which the fields can appear might vary, but this is not an issue. It just might make it harder to see the fields straigh away. We should also point out that even when the value for a field is a string you do not need to enclose it in either double or single quotes. Whether you do or you do not, the result will be the same.
+The YAML header in each episode file is straightforward to edit, especially if you have edited Carpentries lessons before or if you know YAMl syntax. As mentioned before, the order in which the fields can appear might vary, but this is not an issue. It just might make it harder to see the fields straigh away. We should also point out that even when the value for a field is a string you do not need to enclose it in either double or single quotes. Whether you do or you do not, the result will be the same.
 
 The **slides_url** field is not to be edited directly on the episode files. These URLs are automatically generated from the base slide URL, which can be found in the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml) file, in the field **slides_base_url**. This is where you need to add the URL for the slides, once you have them all in one note in HackMD.
 
