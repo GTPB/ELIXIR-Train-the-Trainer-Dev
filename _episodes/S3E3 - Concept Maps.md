@@ -9,7 +9,7 @@ outcomes:
 - Know how to mockup a course.
 questions:
 - How to design a mini-training?
-slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/1
+slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/111
 teaching: 10
 title: S3E3 - Concept Maps
 
