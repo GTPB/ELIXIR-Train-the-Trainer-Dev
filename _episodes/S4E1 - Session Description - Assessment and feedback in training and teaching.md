@@ -416,6 +416,10 @@ You may like to read an article about applying Kirkpatrick's methods. https://ww
 A description of the book written by the authors can be found [here](angelo_and_cross_assessment_techniques.pdf). 
 
 $$$
+# Assessment and feedback in training and teaching
+
+---
+
 ## Session objectives
 
 Develop an understanding of different types of feedback, when to give and receive feedback, and for which purpose.
