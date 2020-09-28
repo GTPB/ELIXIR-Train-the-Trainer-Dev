@@ -352,7 +352,7 @@ def buildSlidesFile(lessonDict):
             currentEpisodeInfo["slidesContent"] = currentEpisodeInfo["slidesContent"] + slides_end_of_sessionContent
         # Counting the number of slides in an episode file is needed in order to assign a number to each slide in a lesson.
         # This will be used below to create the correct hyperlinks on the website to the slides.
-        currentEpisodeInfo["slideCount"] = currentEpisodeInfo["slidesContent"].count("---")
+        currentEpisodeInfo["slidesCount"] = currentEpisodeInfo["slidesContent"].count("---")
         slidesContent =  slidesContent + currentEpisodeInfo["slidesContent"]
         i = i + 1
     slidesFile = open(slidesFilePath, "w")
