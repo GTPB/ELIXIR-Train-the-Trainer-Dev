@@ -65,7 +65,11 @@ This quick guide is meant to give you a highly compact introduction to editing t
 
 You will need a [HackMD](https://hackmd.io/) account (the easiest way is to sign-up/register and sign-in using your GitHub account). [HackMD](https://hackmd.io/) is very intuitive and user-friendly.
 
-You will also need to activate a plugin in your browser, in order to place a button on your GitHub editor with the label **Edit on HackMD**. This will allow you to directly open a file with HackMD editor. If the permissions are set correctly it will take you to the note that was used by the original authors to  
+You will also need to activate a plugin in your browser, in order to place a button on your GitHub editor with the label **Edit on HackMD**. This will allow you to directly open a file with HackMD editor. After you edit you will have to push back to GitHub. Below you will find the links to the extensions:
+
+[Chrome extension](https://chrome.google.com/webstore/detail/hackmd-it/cnephjboabhkldgfpdokefccdofncdjh)
+
+[Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/hackmd-it/?src=search)
 
 <br/>
 
@@ -656,6 +660,8 @@ The **slides_url** field is not to be edited directly on the episode files. Thes
 
 In this guide we assume that you are familiar with editing directly on GitHub (or locally in your machine and then pushing to GitHub). In any case, we thought it better to just add a few notes on this subject, especially since there are some aspects that might give you trouble if you are not careful.
 
+We recommend always editing on GitHub, except when you have to add an image.
+
 <br/>
 
 ##### Waiting for the Scripts to Run
@@ -751,13 +757,15 @@ github editor also opens (you will have to exit after, saying yes to not saving 
 
 TBD
 
-- if you forget to pull
+- Always pull the most recent version of a file from GitHub before editing on HackMD.
 
-- don't switch
+- When you Push HackMD will ask you if you want to switch the formatting. Do not switch.
 
-- give it some time
+- Give GitHub some time to process the files
 
-- first time vs every other time
+
+
+- The first time vs every other time
 
 - exiting a note (issue)
 
