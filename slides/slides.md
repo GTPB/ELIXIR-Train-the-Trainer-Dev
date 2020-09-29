@@ -461,6 +461,354 @@ Split-attention occurs when learners are required to split their attention betwe
 
 ---
 
+## Design and plan session, course, materials
+
+---
+
+## Overview
+
+- Session objectives and learning outcomes
+- Introduction
+- Design of a mini-training
+- From lesson to session planning
+- From lesson to course planning
+- Wrap-up: time to relax
+
+---
+
+## Session Objectives
+
+- Learn how to design a course.
+- TBD
+
+---
+
+## Session Learning Outcomes
+
+- TBD
+
+---
+
+## Design and practise a 3-minute minitraining
+
+- Prepare and plan for delivering training 
+- Revise feedback 
+- Adjust/improve/modify (according to feedback) for a 3-minute presentation
+
+---
+
+## Challenge: define the audience, goal and outcomes (7 min)
+
+- Choose a topic
+- Define learning objectives (describe the goals and intentions of the instructor )
+- Write learning outcomes (think about what learners will be able to do by the end of instruction/session/workshop)
+- Identify the target audience and prerequisites
+- Identify the learning experiences
+- Select the content
+
+[https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
+
+---
+
+## Challenge: Choose a topic  for a 3-minute training
+
+Choose a topic to demonstrate your training in three minutes. 
+- how to make an origami bird
+- introduction to biochemistry
+- how bats recognise the presence of obstacles
+- the second law of Newton
+- how to draw a comic strip
+
+---
+
+## Concept map
+
+![](https://i.imgur.com/eF8ODCF.png)
+
+---
+
+## Concept map - FAIR principles
+
+---
+
+![](https://i.imgur.com/KzIpmyo.png)
+
+---
+
+![](https://i.imgur.com/PtkvTwH.png)
+
+---
+
+## Concept maps - How to use the tool
+- Concept maps are graphical tools for organizing and representing knowledge
+- Include concepts and relationships to link concepts
+- Good to start a concept map with a focus question - context
+- Help to organize knowledge and to structure it
+- Good concept maps are built with iterations and feedback
+
+_Joseph D. Novak , 1972_
+
+---
+
+## Concept maps in curriculum/lesson/session planning
+- They present key concepts in a highly concise manner
+- This helps us predict how much we can cover when designing the teaching plan
+- The hierarchical organization suggests a sequence to cover material
+
+Further reading [http://cmap.ihmc.us/Publications/ResearchPapers/TheoryUnderlyingConceptMaps.pdf](http://cmap.ihmc.us/Publications/ResearchPapers/TheoryUnderlyingConceptMaps.pdf)
+
+---
+
+## Challenge: Draw a concept map (10 min)
+
+Draw a concept map of your topic of interest, start with a question
+
+- Include around 7 (plus or minus 2) concepts
+- Include relationships and cross-links between these concepts
+- Arrange it in a hierarchical structure with the key concepts on top
+
+---
+
+## Challenge: Feedback on concept maps (8 min)
+
+In a group of 2 exchange concept maps. Do not explain the map.
+
+- Write one thing you are confused/not sure about the map
+- Write one thing you like/it is clear about the map 
+  - Each person will give and receive two feedbacks: 
+  - Positive and Negative on content
+
+---
+
+## Challenge: Delivery planning (3 min) 
+
+- Think if you want to make your training interactive 
+- Think whether you need or want to use a visual support (images)
+- Think whether you need to distribute material in advance to the audience 
+- Prepare for your choices
+- Be creative!
+
+---
+
+## Challenge: Prepare content (15 min)
+
+You have 15 min to prepare the content of your mini-training
+The structure of your mini-training should be something like 
+- 40 seconds introduction
+- 2 minutes on topic
+- 20 seconds conclusion
+
+Use your concept map and adapt as needed
+
+---
+
+## Challenge: Mini-training practice (20 min)
+
+Split into groups of 3
+1. Each will deliver their 3 minute session to the others
+2. One person delivers the session
+3. One person records on the phone (optional) 
+4. One person notes down feedback in real-time
+5. You describe your own feedback (self-feedback) on your delivery
+6. The other two provide feedback to the presenter
+7. Then rotate within the group (and restart from 1)
+
+---
+
+## How to give feedback?
+
+---
+
+## Constructive feedback
+
+![](https://i.imgur.com/acCvWYw.png)
+
+---
+
+## Discussions/feedback
+
+- Listen actively and attentively
+- Ask for clarification if you are confused
+- Do not interrupt one another
+- Challenge one another, but do so respectfully
+- Criticize ideas, not people
+- Do not offer opinions without supporting evidence
+- Take responsibility for the quality of the discussion
+- Build on one another ’s comments; work toward shared understanding.
+- Do not monopolise discussion.
+- Speak from your own experience, without generalizing.
+- If you are offended by anything said during discussion, acknowledge it immediately.
+
+---
+
+## Tools for session, course, curriculum design
+
+1. FIVE STEPS for session, course, curriculum design
+2. Lesson/session plan
+
+---
+
+## Instruction design in five steps
+
+![](https://i.imgur.com/4PGnK8r.png)
+
+_Nicholls G (2002). Developing teaching and learning in higher education. London, UK: Routledge. Pp 51-75_
+
+---
+
+## lesson/session plan
+
+![](https://i.imgur.com/4SZey73.png)
+
+---
+
+![](https://i.imgur.com/WnNjDNb.png)
+
+---
+
+## Challenge: Create lesson plan
+
+In your group...
+- Take one session idea and expand to a “real” training session
+- You will need to:
+- Identify target audience
+- Set learning objectives and outcomes
+- Decide learning experiences
+- Suggest how you will assess trainees progress
+Define training session structure/lesson plan (including indicative content, length, breakdown and timings)
+
+---
+
+## Delivery planning
+
+- Is it part of an extended curriculum?
+- Is the training a requirement, or optional career development?
+- Format: workshop, seminar, lecture, online training or mix online/in-person?
+- Timing: what is the content and depth of the training?
+- Do you need to invite any other external experts? 
+- What sort of venue/equipment do you need for this format?
+
+---
+
+## From session to course – defining the aim
+
+- Combine the who, what and why requirements into a course aim
+  - Who: write clear trainee specifications; e.g. undergraduate biologists with basic knowledge of Unix and R
+  - What & why: describe what trainees will learn, and the benefit of that
+- Consider the where and when requirements (i.e. the logistics)
+  - How much can you do in the time available (including tests, feedback)
+  - Resources limitations (space, equipment, assistants)
+
+[_Chris Taylor – Earlham Institute_](https://www.mygoblet.org/training-portal/materials/train-trainer-course-materials)
+
+---
+
+## From learning outcomes to a course outline
+
+- A well-written course aim will guide the generation of LOs
+
+![](https://i.imgur.com/piDsVEW.png)
+
+---
+
+- LOs should then be instantiated as activities and quality checks
+  - Learning activities: scripts, slides, exercises, tutorials, …
+  - Assessment tools: creative activities, written tests, …
+  - Feedback tools: observation, interaction, forms, …
+- Learning activities (LAs) should be tightly-linked to quality checks
+  - This is not ‘teaching to the test’ because it’s training not education
+- When all the LOs are expanded, you have your course outline
+
+[_Chris Taylor – Earlham Institute_](https://www.mygoblet.org/training-portal/materials/train-trainer-course-materials)
+
+---
+
+## Reproducibility of compute environments
+
+- Different courses, different compute requirements: Unix, R, Python, metagenomics, long read sequencing
+- Installation process time-consuming and technically challenging
+- Every computer should have an identical installation setup and sufficient hardware (power and memory) to run the tools 
+- Virtual machines, cloud computing, containers, software images
+
+---
+
+## Training rooms for bioinformatics
+
+Physical environment 
+- Room geometry: seats’ quality, the lighting, the room temperature control, the stability of power and network connections
+- Functionality : video, audio, drawing surfaces (whiteboard, flipchart paper), a corkboard  to pin materials 
+- Hardware needs: power suppliers, network connections with a good quality wifi access
+
+---
+
+## Training materials: sharing and making re-use possible
+
+Learning outcome: Be able to identify training materials that exist already, and develop a routine of sharing training materials.
+
+---
+
+## FAIR principles
+
+Data and models are:
+- Findable - can be searched for by the community after publication
+- Accessible - can be read/downloaded by other researchers
+- Interoperable - can be understood clearly in the context of the original experiment
+- Re-usable - can be used by other researchers
+
+---
+
+### FAIR principles – In the context of training
+
+Training course materials: slides, exercises, datasets
+- Findable - can be searched and found by the trainers community
+- Accessible - can be read/downloaded by other trainers
+- Interoperable - can be understood clearly in the context of the original course
+- Re-usable - can be used by other trainers
+
+---
+
+## Training materials repositories and resources
+
+- GOBLET – http://mygoblet.org/training-portal
+- TeSS - https://tess.elixir-europe.org/
+- GitHub - https://github.com
+- Jupyter - http://jupyter.org/
+- Other?
+
+---
+
+## Resources
+
+- Design: [ftp://gtpb.igc.gulbenkian.pt/bicourses/posters/Calix_March2013.pdf](ftp://gtpb.igc.gulbenkian.pt/bicourses/posters/Calix_March2013.pdf)
+- Training materials: [https://www.mygoblet.org/training-portal](https://www.mygoblet.org/training-portal)
+- TeSS: [https://tess.elixir-europe.org](https://tess.elixir-europe.org)
+- [https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
+
+Adopt collaborative platforms to support training activities
+
+---
+
+## Challenge: Apply (5 min)
+
+Articulate a goal of good teaching practice that you are ready to apply for your next training
+
+---
+
+## Wrap-up
+
+- What did you learn in this session?
+- One person at a time, no repetition
+
+---
+
+## Time to relax!
+
+---
+
+# End of Session
+
+---
+
 ## Training Techniques to enhance learner participation and engagement
 
 ---
@@ -879,354 +1227,6 @@ Let’s take 15 min to read about the seven learning principles from the book
 How learning works
 
 [Random Thoughts - How Learning Works](../files/Ambrose_RandomThoughts_HowLearningWorks.pdf)
-
----
-
-# End of Session
-
----
-
-## Design and plan session, course, materials
-
----
-
-## Overview
-
-- Session objectives and learning outcomes
-- Introduction
-- Design of a mini-training
-- From lesson to session planning
-- From lesson to course planning
-- Wrap-up: time to relax
-
----
-
-## Session Objectives
-
-- Learn how to design a course.
-- TBD
-
----
-
-## Session Learning Outcomes
-
-- TBD
-
----
-
-## Design and practise a 3-minute minitraining
-
-- Prepare and plan for delivering training 
-- Revise feedback 
-- Adjust/improve/modify (according to feedback) for a 3-minute presentation
-
----
-
-## Challenge: define the audience, goal and outcomes (7 min)
-
-- Choose a topic
-- Define learning objectives (describe the goals and intentions of the instructor )
-- Write learning outcomes (think about what learners will be able to do by the end of instruction/session/workshop)
-- Identify the target audience and prerequisites
-- Identify the learning experiences
-- Select the content
-
-[https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
-
----
-
-## Challenge: Choose a topic  for a 3-minute training
-
-Choose a topic to demonstrate your training in three minutes. 
-- how to make an origami bird
-- introduction to biochemistry
-- how bats recognise the presence of obstacles
-- the second law of Newton
-- how to draw a comic strip
-
----
-
-## Concept map
-
-![](https://i.imgur.com/eF8ODCF.png)
-
----
-
-## Concept map - FAIR principles
-
----
-
-![](https://i.imgur.com/KzIpmyo.png)
-
----
-
-![](https://i.imgur.com/PtkvTwH.png)
-
----
-
-## Concept maps - How to use the tool
-- Concept maps are graphical tools for organizing and representing knowledge
-- Include concepts and relationships to link concepts
-- Good to start a concept map with a focus question - context
-- Help to organize knowledge and to structure it
-- Good concept maps are built with iterations and feedback
-
-_Joseph D. Novak , 1972_
-
----
-
-## Concept maps in curriculum/lesson/session planning
-- They present key concepts in a highly concise manner
-- This helps us predict how much we can cover when designing the teaching plan
-- The hierarchical organization suggests a sequence to cover material
-
-Further reading [http://cmap.ihmc.us/Publications/ResearchPapers/TheoryUnderlyingConceptMaps.pdf](http://cmap.ihmc.us/Publications/ResearchPapers/TheoryUnderlyingConceptMaps.pdf)
-
----
-
-## Challenge: Draw a concept map (10 min)
-
-Draw a concept map of your topic of interest, start with a question
-
-- Include around 7 (plus or minus 2) concepts
-- Include relationships and cross-links between these concepts
-- Arrange it in a hierarchical structure with the key concepts on top
-
----
-
-## Challenge: Feedback on concept maps (8 min)
-
-In a group of 2 exchange concept maps. Do not explain the map.
-
-- Write one thing you are confused/not sure about the map
-- Write one thing you like/it is clear about the map 
-  - Each person will give and receive two feedbacks: 
-  - Positive and Negative on content
-
----
-
-## Challenge: Delivery planning (3 min) 
-
-- Think if you want to make your training interactive 
-- Think whether you need or want to use a visual support (images)
-- Think whether you need to distribute material in advance to the audience 
-- Prepare for your choices
-- Be creative!
-
----
-
-## Challenge: Prepare content (15 min)
-
-You have 15 min to prepare the content of your mini-training
-The structure of your mini-training should be something like 
-- 40 seconds introduction
-- 2 minutes on topic
-- 20 seconds conclusion
-
-Use your concept map and adapt as needed
-
----
-
-## Challenge: Mini-training practice (20 min)
-
-Split into groups of 3
-1. Each will deliver their 3 minute session to the others
-2. One person delivers the session
-3. One person records on the phone (optional) 
-4. One person notes down feedback in real-time
-5. You describe your own feedback (self-feedback) on your delivery
-6. The other two provide feedback to the presenter
-7. Then rotate within the group (and restart from 1)
-
----
-
-## How to give feedback?
-
----
-
-## Constructive feedback
-
-![](https://i.imgur.com/acCvWYw.png)
-
----
-
-## Discussions/feedback
-
-- Listen actively and attentively
-- Ask for clarification if you are confused
-- Do not interrupt one another
-- Challenge one another, but do so respectfully
-- Criticize ideas, not people
-- Do not offer opinions without supporting evidence
-- Take responsibility for the quality of the discussion
-- Build on one another ’s comments; work toward shared understanding.
-- Do not monopolise discussion.
-- Speak from your own experience, without generalizing.
-- If you are offended by anything said during discussion, acknowledge it immediately.
-
----
-
-## Tools for session, course, curriculum design
-
-1. FIVE STEPS for session, course, curriculum design
-2. Lesson/session plan
-
----
-
-## Instruction design in five steps
-
-![](https://i.imgur.com/4PGnK8r.png)
-
-_Nicholls G (2002). Developing teaching and learning in higher education. London, UK: Routledge. Pp 51-75_
-
----
-
-## lesson/session plan
-
-![](https://i.imgur.com/4SZey73.png)
-
----
-
-![](https://i.imgur.com/WnNjDNb.png)
-
----
-
-## Challenge: Create lesson plan
-
-In your group...
-- Take one session idea and expand to a “real” training session
-- You will need to:
-- Identify target audience
-- Set learning objectives and outcomes
-- Decide learning experiences
-- Suggest how you will assess trainees progress
-Define training session structure/lesson plan (including indicative content, length, breakdown and timings)
-
----
-
-## Delivery planning
-
-- Is it part of an extended curriculum?
-- Is the training a requirement, or optional career development?
-- Format: workshop, seminar, lecture, online training or mix online/in-person?
-- Timing: what is the content and depth of the training?
-- Do you need to invite any other external experts? 
-- What sort of venue/equipment do you need for this format?
-
----
-
-## From session to course – defining the aim
-
-- Combine the who, what and why requirements into a course aim
-  - Who: write clear trainee specifications; e.g. undergraduate biologists with basic knowledge of Unix and R
-  - What & why: describe what trainees will learn, and the benefit of that
-- Consider the where and when requirements (i.e. the logistics)
-  - How much can you do in the time available (including tests, feedback)
-  - Resources limitations (space, equipment, assistants)
-
-[_Chris Taylor – Earlham Institute_](https://www.mygoblet.org/training-portal/materials/train-trainer-course-materials)
-
----
-
-## From learning outcomes to a course outline
-
-- A well-written course aim will guide the generation of LOs
-
-![](https://i.imgur.com/piDsVEW.png)
-
----
-
-- LOs should then be instantiated as activities and quality checks
-  - Learning activities: scripts, slides, exercises, tutorials, …
-  - Assessment tools: creative activities, written tests, …
-  - Feedback tools: observation, interaction, forms, …
-- Learning activities (LAs) should be tightly-linked to quality checks
-  - This is not ‘teaching to the test’ because it’s training not education
-- When all the LOs are expanded, you have your course outline
-
-[_Chris Taylor – Earlham Institute_](https://www.mygoblet.org/training-portal/materials/train-trainer-course-materials)
-
----
-
-## Reproducibility of compute environments
-
-- Different courses, different compute requirements: Unix, R, Python, metagenomics, long read sequencing
-- Installation process time-consuming and technically challenging
-- Every computer should have an identical installation setup and sufficient hardware (power and memory) to run the tools 
-- Virtual machines, cloud computing, containers, software images
-
----
-
-## Training rooms for bioinformatics
-
-Physical environment 
-- Room geometry: seats’ quality, the lighting, the room temperature control, the stability of power and network connections
-- Functionality : video, audio, drawing surfaces (whiteboard, flipchart paper), a corkboard  to pin materials 
-- Hardware needs: power suppliers, network connections with a good quality wifi access
-
----
-
-## Training materials: sharing and making re-use possible
-
-Learning outcome: Be able to identify training materials that exist already, and develop a routine of sharing training materials.
-
----
-
-## FAIR principles
-
-Data and models are:
-- Findable - can be searched for by the community after publication
-- Accessible - can be read/downloaded by other researchers
-- Interoperable - can be understood clearly in the context of the original experiment
-- Re-usable - can be used by other researchers
-
----
-
-### FAIR principles – In the context of training
-
-Training course materials: slides, exercises, datasets
-- Findable - can be searched and found by the trainers community
-- Accessible - can be read/downloaded by other trainers
-- Interoperable - can be understood clearly in the context of the original course
-- Re-usable - can be used by other trainers
-
----
-
-## Training materials repositories and resources
-
-- GOBLET – http://mygoblet.org/training-portal
-- TeSS - https://tess.elixir-europe.org/
-- GitHub - https://github.com
-- Jupyter - http://jupyter.org/
-- Other?
-
----
-
-## Resources
-
-- Design: [ftp://gtpb.igc.gulbenkian.pt/bicourses/posters/Calix_March2013.pdf](ftp://gtpb.igc.gulbenkian.pt/bicourses/posters/Calix_March2013.pdf)
-- Training materials: [https://www.mygoblet.org/training-portal](https://www.mygoblet.org/training-portal)
-- TeSS: [https://tess.elixir-europe.org](https://tess.elixir-europe.org)
-- [https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
-
-Adopt collaborative platforms to support training activities
-
----
-
-## Challenge: Apply (5 min)
-
-Articulate a goal of good teaching practice that you are ready to apply for your next training
-
----
-
-## Wrap-up
-
-- What did you learn in this session?
-- One person at a time, no repetition
-
----
-
-## Time to relax!
 
 ---
 

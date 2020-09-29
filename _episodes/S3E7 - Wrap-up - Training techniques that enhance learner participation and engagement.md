@@ -8,9 +8,9 @@ outcomes:
 - Clearly list the main takeaways.
 questions:
 - What are the main takeaways from thsi session?
-slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/94
+slides_url: https://hackmd.io/@nyTtT/r1tHvVR4w#/135
 teaching: 10
-title: S2E7 - Wrap-up - Training techniques that enhance learner participation and
+title: S3E7 - Wrap-up - Training techniques that enhance learner participation and
   engagement
 
 ---
