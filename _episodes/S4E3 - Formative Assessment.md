@@ -116,9 +116,9 @@ $$$
   - Are learners' goals and objectives aligned with the course's goals and outcomes?
 - Frequent mistakes
   - Which types of mistakes need special attention?
-  
+
 ---
-  
+
 ## How to carry out formative assessment
 
 ---
