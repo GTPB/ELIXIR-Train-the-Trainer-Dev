@@ -215,7 +215,6 @@ def createLessonDict():
 def extractTextInfoToDict(lessonDict, text):
     episodeHeaderStringInfo = extractContent(text, yamlDocumentTag)
     if episodeHeaderStringInfo != None:
-        print("aqui")
         episodeHeaderString = episodeHeaderStringInfo["content"]
     else:
         episodeHeaderString = ""
