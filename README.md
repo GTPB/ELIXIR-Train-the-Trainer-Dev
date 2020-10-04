@@ -680,23 +680,35 @@ tab.
 
 The **Actions Tab** allows you to track the activity of **GitHub Actions** workflows. **Fig: Actions Tab** shows you where you can find it.
 
+<br/>
+
+**Fig: Actions Tab**
 ![](editing_figs/Actions_Tab.png)
 
 <br/>
 
 The **Actions** panel will show you a list of all workflows on the left and a list of the workflow execution results on the right. If the workflow code is well-formatted a green tick means that all job executions terminated with no errors, while a red cross means that at least one job had an error.
 
+**Fig: Actions Panel**
 ![](editing_figs/Actions_Panel.png)
+
+<br/>
 
 In the case of our script ([bin/build_lesson/build_lesson_wf.yml](bin/build_lesson/build_lesson_wf.yml)), a red cross usually means either an error occurred when running the [bin/build_lesson/build_lesson.py](bin/build_lesson/build_lesson.py) file or that the workflow run resulted in no files being changed. Keep in mind that an error when running [bin/build_lesson/build_lesson.py](bin/build_lesson/build_lesson.py) does not necessarily mean an error in the code of this script. It could just mean that there is something wrong in the formatting of the episode files themselves.
 
 You can check the logs by clicking on a run of a workflow. It will take you to a panel like the one shown in **Fig: Actions Log 1**. Once there you will be able to see why an error occurred, as shown in **Fig: Actions Log 2**.
 
+<br/>
+
+**Fig: Actions Log 1**
 ![](editing_figs/Actions_Log.png)
 
 <br/>
 
+**Fig: Actions Log 2**
 ![](editing_figs/Actions_Log2.png)
+
+<br/>
 
 ###### Potential File Conflicts Due to GitHub Actions
 
