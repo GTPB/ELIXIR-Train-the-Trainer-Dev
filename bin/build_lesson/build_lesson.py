@@ -346,6 +346,7 @@ def buildSlidesFile(lessonDict):
     slidesContent = slides_headerFile.read()
     slidesContent = slidesContent + slides_titleFile.read()
     slides_headerFile.close()
+    slides_titleFile.close()
     allEpisodeTitles = list(lessonDict.keys())
     l = len(allEpisodeTitles)
     i = 0
