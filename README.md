@@ -678,13 +678,27 @@ tab.
 
 ###### Actions Tab
 
-TBD
+The **Actions Tab** allows you to track the activity of **GitHub Actions** workflows. **Fig: Actions Tab** shows you where you can find it.
+
+![](editing_figs/Actions_Tab)
+
+<br/>
+
+The **Actions** panel will show you a list of all workflows on the left and a list of the workflow execution results on the right. If the workflow code is well-formatted a green tick means that all job executions terminated with no errors, while a red cross means that at least one job had an error.
+
+![](editing_figs/Actions_Panel)
+
+In the case of our script ([bin/build_lesson/build_lesson_wf.yml](bin/build_lesson/build_lesson_wf.yml)), a red cross usually means either an error occurred when running the [bin/build_lesson/build_lesson.py](bin/build_lesson/build_lesson.py) file or that the workflow run resulted in no files being changed. Keep in mind that an error when running [bin/build_lesson/build_lesson.py](bin/build_lesson/build_lesson.py) does not necessarily mean an error in the code of this script. It could just mean that there is something wrong in the formatting of the episode files themselves.
+
+You can check the logs by clicking on a run of a workflow. Once there you will be able to see why an error occurred.
+
+![](editing_figs/Actions_Log)
 
 <br/>
 
 ###### Potential File Conflicts Due to GitHub Actions
 
-If you are familiar with GitHub then you will know that one of the reasons it was created was to allow people to collaborate more easily. One of the most important parts of this process is having a system that helps its users deal with file inconsistencies that arise from having more than person accessing and modifying the same file.
+If you are familiar with GitHub then you will know that one of the reasons it was created was to allow people to collaborate more easily. One of the most important parts of this process is having a system that helps its users deal with file inconsistencies that arise from having more than one person accessing and modifying the same file.
 
 
 TBD (show screeshot of conflict, solution on editing directlly GitHub is copy-paste)
