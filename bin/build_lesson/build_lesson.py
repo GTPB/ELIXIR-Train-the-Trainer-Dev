@@ -116,10 +116,13 @@ episodesFolderPath = "_episodes/"
 # Folder where the slides can be found.
 slidesFolderPath = "slides/"
 
-# Filepath with the information to be added to the yaml header in the 'slides.md' file.
+# Filepath with the information to be added to the yaml header in the 'slides_header.md' file.
 slides_headerFilePath = slidesFolderPath + "slides_header.md"
 
-# Filepath with the information to be added to the end of each session in the 'slides.md' file.
+# Filepath with the information to be added to the yaml header in the 'slides_title.md' file.
+slides_titleFilePath = slidesFolderPath + "slides_title.md"
+
+# Filepath with the information to be added to the end of each session in the 'slides_end_of_session.md' file.
 slides_end_of_sessionFilePath = slidesFolderPath + "slides_end_of_session.md"
 
 # Filepath to the 'slides.md' file.
@@ -339,6 +342,10 @@ def buildSlidesFile(lessonDict):
     slides_end_of_sessionFile = open(slides_end_of_sessionFilePath, "r")
     slides_end_of_sessionContent = slides_end_of_sessionFile.read()
     slides_end_of_sessionFile.close()
+    slides_titleFile = open(slides_titleFilePath, "r")
+    slidesContent = slides_headerFile.read()
+    slidesContent = slidesContent + slides_titleFile.read()
+    slides_headerFile.close()
     allEpisodeTitles = list(lessonDict.keys())
     l = len(allEpisodeTitles)
     i = 0
