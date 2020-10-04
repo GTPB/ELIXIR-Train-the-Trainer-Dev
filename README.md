@@ -161,15 +161,21 @@ The third folder contains not only the markdown file with the final slides conte
 
 As we have mentioned before, this lesson is built using a Carpentries template, with all the automation scripts that it entails. However, for this particular lesson (Train the Trainer), and as we have also mentioned before, we have added some extra automation, as well as folders. Before going ahead into the guide to read about those details, take a look at the diagrams below. They offer a visual aid to understanding that extra layer of automation.
 
-The first diagram briefly describes the **build_lesson_wf.yml** workflow and its associated scripts and resources.
+The diagrams **Fig: Workflow 1** and **Fig: Workflow 2** briefly describe the **build_lesson_wf.yml** workflow and its associated scripts and resources.
 
 **Note**: In this context, **workflow** has a very precise meaning . It is a **GitHub Actions** workflow. For more details on GitHub Actions check its [documentation](https://docs.github.com/en/free-pro-team@latest/actions/learn-github-actions) (this is not necessary to contribute to this lesson, mind you).
 
 <br/>
 
-**Fig: Workflow**
+**Fig: Workflow 1**
 
 ![](editing_figs/Automation_Diagram.png)
+
+<br/>
+
+**Fig: Workflow 2**
+
+![](editing_figs/Automation_Diagram2.png)
 
 <br/>
 
@@ -582,9 +588,6 @@ Rename (directly on GitHub):
 You might still have a few questions:
 
 <br/>
-
----
-
 <br/>
 
 **Q**: What happens if I forget to add the title in the [lesson_structure.yml](bin/build_lesson/lesson_structure.yml)?  
