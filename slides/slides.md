@@ -14,6 +14,10 @@ body {
 }
 </style>
 
+# Training of Trainers
+
+---
+
 ## Principles of learning and how they apply to training and teaching
 
 ---
