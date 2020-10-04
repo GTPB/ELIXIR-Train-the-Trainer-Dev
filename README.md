@@ -689,6 +689,8 @@ The **Actions Tab** allows you to track the activity of **GitHub Actions** workf
 
 The **Actions** panel will show you a list of all workflows on the left and a list of the workflow execution results on the right. If the workflow code is well-formatted a green tick means that all job executions terminated with no errors, while a red cross means that at least one job had an error.
 
+<br/>
+
 **Fig: Actions Panel**
 ![](editing_figs/Actions_Panel.png)
 
